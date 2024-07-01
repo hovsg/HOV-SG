@@ -1,0 +1,38 @@
+main:
+  device: cuda
+  dataset: hm3dsem # scannet, replica
+  scene_id: 00824-Dd4bFSTQ8gi # scene0011_00
+  dataset_path: /data/buechner/hm3dsem_walks/val/00824-Dd4bFSTQ8gi
+  save_path: /data/buechner/hovsg/
+models:
+  clip:
+    type:  ViT-H-14 # ViT-L/14@336px # ViT-H-14
+    checkpoint: checkpoints/laion2b_s32b_b79k.bin 
+    # checkpoint: checkpoints/ovseg_clipl14_9a1909.pth checkpoints/laion2b_s32b_b79k.bin
+  sam:
+    checkpoint: checkpoints/sam_vit_h_4b8939.pth
+    type: vit_h
+    points_per_side: 12
+    pred_iou_thresh: 0.88
+    points_per_batch: 144
+    crop_n_layers: 0
+    stability_score_thresh: 0.95
+    min_mask_region_area: 100
+pipeline:
+  create_graph: True
+  voxel_size: 0.02
+  skip_frames: 40
+  init_overlap_thresh: 0.75
+  overlap_thresh_factor: 0.025
+  iou_thresh: 0.05
+  clip_masked_weight: 0.4418
+  clip_bbox_margin: 50 # in pixels
+  feature_dbscan_eps: 0.01
+  max_mask_distance: 10000 # 6.4239 in meters
+  min_pcd_points: 100
+  depth_weighting: false
+  grid_resolution: 0.05
+  merge_type: sequential # hierarchical, sequential
+  save_intermediate_results: true
+  obj_labels: HM3DSEM_LABELS
+  merge_objects_graph: false

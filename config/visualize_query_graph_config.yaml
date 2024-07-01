@@ -1,0 +1,10 @@
+main:
+  device: cuda
+  graph_path: /export/home/werbya/MasterProject/HOV-SG/output/hm3dsem/00824-Dd4bFSTQ8gi/graph
+  # graph_path: "/export/home/werbya/MasterProject/openmap_data/output/azure/openmap/20-12-23--18-10-27__B80_rev2/graph"
+  long_query:
+    spec: [obj, room, floor] # [obj, room, floor], [obj, room], [obj, floor], [obj].
+models:
+  clip:
+    type: ViT-H-14 # ViT-L/14@336px # ViT-H-14
+    checkpoint: checkpoints/laion2b_s32b_b79k.bin # checkpoints/ovseg_clipl14_9a1909.pth checkpoints/laion2b_s32b_b79k.bin
