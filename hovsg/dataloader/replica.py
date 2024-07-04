@@ -2,7 +2,6 @@
 import os 
 import numpy as np
 from PIL import Image
-import torchvision
 import json
 import open3d as o3d
 

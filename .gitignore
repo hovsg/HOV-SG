@@ -1,0 +1,5 @@
+*.bin
+*.pth
+*.pyc
+*.pyo
+/hovsg.egg-info
