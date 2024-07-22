@@ -200,7 +200,7 @@ The Data folder should have the following structure:
 
 ### Create Scene Graphs (only for Habitat Matterport 3D Semantics):
 ```bash
-python application/create_graph.py main.dataset=hm3dsem main.dataset_path=hm3dsem_walks/val/00824-Dd4bFSTQ8gi/ main.save_path=data/scene_graphs/00824-Dd4bFSTQ8gi
+python application/create_graph.py main.dataset=hm3dsem main.dataset_path=data/hm3dsem_walks/val/00824-Dd4bFSTQ8gi/ main.save_path=data/scene_graphs/00824-Dd4bFSTQ8gi
 ```
 <details>
   <summary>This will generate a scene graph for the specified RGB-D sequence and save it. The following files are generated:</summary>

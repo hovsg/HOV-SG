@@ -234,8 +234,14 @@ def save_obs(
     save_dir = os.path.join(root_save_dir, "pose")
     os.makedirs(save_dir, exist_ok=True)
     save_path = os.path.join(save_dir, save_name)
-    with open(save_path, "wb") as f:
-        np.savetxt(f, pose)
+    # convert quaternion to rotation matrix
+    rot = R.from_quat(pose[3:])
+    pose_mat = np.eye(4)
+    pose_mat[:3, :3] = rot.as_matrix()
+    pose_mat[:3, 3] = pose[:3]
+    with open(save_path, "w") as f:
+        f.write("\t".join([str(x) for x in pose_mat.flatten()]))
+        f.write("\n")
 
 
 

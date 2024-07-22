@@ -3,3 +3,6 @@
 *.pyc
 *.pyo
 /hovsg.egg-info
+/data/hm3dsem_walks
+/data/scene_graphs
+/outputs
