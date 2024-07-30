@@ -43,7 +43,7 @@ def main(params: DictConfig):
         clip_model, _, preprocess = open_clip.create_model_and_transforms(
             "ViT-L-14",
             pretrained=str(params.models.clip.checkpoint),
-            device=self.device,
+            device=params.main.device,
         )
         clip_feat_dim = 768
     elif params.models.clip.type == "ViT-H-14":
