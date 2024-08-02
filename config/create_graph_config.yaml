@@ -7,7 +7,7 @@ main:
 models:
   clip:
     type:  ViT-H-14 # ViT-L/14@336px # ViT-H-14
-    checkpoint: checkpoints/laion2b_s32b_b79k.bin 
+    checkpoint: checkpoints/laion2b_s32b_b79k.bin
     # checkpoint: checkpoints/ovseg_clipl14_9a1909.pth checkpoints/laion2b_s32b_b79k.bin
   sam:
     checkpoint: checkpoints/sam_vit_h_4b8939.pth
@@ -32,7 +32,7 @@ pipeline:
   min_pcd_points: 100
   depth_weighting: false
   grid_resolution: 0.05
-  merge_type: sequential # hierarchical, sequential
+  merge_type: hierarchical # hierarchical, sequential
   save_intermediate_results: false
   obj_labels: HM3DSEM_LABELS
   merge_objects_graph: false
