@@ -214,18 +214,18 @@ class Graph:
         if self.cfg.pipeline.merge_type == "hierarchical":
             tqdm.write("Merging 3d masks hierarchically")
             self.mask_pcds = hierarchical_merge(
-                frames_pcd, 
-                self.cfg.pipeline.init_overlap_thresh, 
-                self.cfg.pipeline.overlap_thresh_factor, 
-                self.cfg.pipeline.voxel_size, 
+                frames_pcd,
+                self.cfg.pipeline.init_overlap_thresh,
+                self.cfg.pipeline.overlap_thresh_factor,
+                self.cfg.pipeline.voxel_size,
                 self.cfg.pipeline.iou_thresh,
             )
         elif self.cfg.pipeline.merge_type == "sequential":
-            tqdm.write("Merging 3d masks sequentially") 
+            tqdm.write("Merging 3d masks sequentially")
             self.mask_pcds = seq_merge(
-                frames_pcd, 
-                self.cfg.pipeline.init_overlap_thresh, 
-                self.cfg.pipeline.voxel_size, 
+                frames_pcd,
+                self.cfg.pipeline.init_overlap_thresh,
+                self.cfg.pipeline.voxel_size,
                 self.cfg.pipeline.iou_thresh
             )
 
@@ -346,6 +346,9 @@ class Graph:
         # for every two consecutive peaks with 2m distance, assign floor level
         for i in range(0, len(clustred_peaks) - 1, 2):
             floors.append([clustred_peaks[i], clustred_peaks[i + 1]])
+        # if no floors were found, assume there is a single floor
+        if not floors:
+            floors.append([z_hist[1].min().item(), z_hist[1].max().item()])
         print("floors", floors)
         # for the first floor extend the floor to the ground
         floors[0][0] = (floors[0][0] + np.min(downpcd[:, 1])) / 2
@@ -607,6 +610,8 @@ class Graph:
             objects_inside_floor = list()
             # assign objects to rooms
             for i, pcd in enumerate(self.mask_pcds):
+                if len(pcd.points) == 0:
+                    continue
                 min_z = np.min(np.asarray(pcd.points)[:, 1])
                 max_z = np.max(np.asarray(pcd.points)[:, 1])
                 if min_z > floor.floor_zero_level - margin and max_z < (

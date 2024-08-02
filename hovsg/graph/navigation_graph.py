@@ -841,6 +841,10 @@ class NavigationGraph:
             cv2.circle(top_down, tuple(np.int32(pos_2d[[0, 2]])), 2, (255, 0, 0), -1)
             cv2.imwrite(os.path.join(floor_dir, "top_down_rgb_poses.png"), top_down)
 
+        if len(tar_poses) == 0:
+            self.has_stairs = False
+            return nx.Graph()
+
         min_height = np.min([pos[1] for pos in tar_poses])
         # cv2.imshow("stairs poses", top_down)
         # cv2.waitKey()

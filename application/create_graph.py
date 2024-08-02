@@ -22,18 +22,16 @@ def main(params: DictConfig):
     hovsg.save_masked_pcds(path=save_dir, state="both")
     hovsg.save_full_pcd(path=save_dir)
     hovsg.save_full_pcd_feats(path=save_dir)
-    
+
     # for debugging: load preconstructed map as follows
     # hovsg.load_full_pcd(path=save_dir)
     # hovsg.load_full_pcd_feats(path=save_dir)
     # hovsg.load_masked_pcds(path=save_dir)
-    
+
     # create graph, only if dataset is not Replia or ScanNet
     print(params.main.dataset)
-    if params.main.dataset != "replica" and params.main.dataset != "scannet" and params.pipeline.create_graph:
-        hovsg.build_graph(save_path=save_dir)
-    else:
-        print("Skipping hierarchical scene graph creation for Replica and ScanNet datasets.")
+    hovsg.build_graph(save_path=save_dir)
+
 
 if __name__ == "__main__":
     main()
