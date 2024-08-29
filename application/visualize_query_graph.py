@@ -8,7 +8,7 @@ from omegaconf import DictConfig
 # pylint: disable=all
 
 
-@hydra.main(version_base=None, config_path="../config", config_name="visualize_query_graph_config")
+@hydra.main(version_base=None, config_path="../config", config_name="visualize_query_graph")
 def main(params: DictConfig):
     # Load graph
     hovsg = Graph(params)

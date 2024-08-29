@@ -18,7 +18,7 @@ def get_cmap(n, name="hsv"):
     RGB color; the keyword argument name must be a standard mpl colormap name."""
     return plt.cm.get_cmap(name, n)
 
-@hydra.main(version_base=None, config_path="../config", config_name="visualize_graph_config")
+@hydra.main(version_base=None, config_path="../config", config_name="visualize_graph")
 def main(params: DictConfig):
     # Initialize the PyVista plotter
     p = pv.Plotter()

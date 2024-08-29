@@ -1,0 +1,14 @@
+main:
+  device: cuda
+  dataset: scannet # scannet
+  scene_name: scene0011_00
+  feature_map_path: /home/SOME_USERNAME/data/hovsg/scannet
+  replica_dataset_gt_path: /home/SOME_USERNAME/data/replica_v1
+  scannet_dataset_gt_path: /home/SOME_USERNAME/data/ScanNet/scans
+  # only for replica
+  replica_color_map: /home/SOME_USERNAME/HOV-SG/hovsg/labels/class_id_colors.json
+models:
+  clip:
+    general_type: ViT-L-14
+    type:  ViT-H-14 # ViT-L/14@336px # ViT-H-14
+    checkpoint: checkpoints/laion2b_s32b_b79k.bin # checkpoints/ovseg_clipl14_9a1909.pth checkpoints/laion2b_s32b_b79k.bin

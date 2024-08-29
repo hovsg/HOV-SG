@@ -2,8 +2,8 @@ main:
   device: cuda
   dataset: replica # scannet, replica
   scene_id: office0 # scene0011_00
-  dataset_path: /data/buechner/hm3dsem_walks/val/00824-Dd4bFSTQ8gi
-  save_path: /data/buechner/hovsg/
+  dataset_path: /data/SOME_USERNAME/hm3dsem_walks/val/00824-Dd4bFSTQ8gi
+  save_path: /data/SOME_USERNAME/hovsg/
 models:
   clip:
     type:  ViT-H-14 # ViT-L/14@336px # ViT-H-14

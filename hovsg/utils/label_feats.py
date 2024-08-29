@@ -4,7 +4,6 @@ import sys
 import numpy as np
 import pandas as pd
 
-sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from hovsg.utils.constants import COCO_STUFF_CLASSES, MATTERPORT_LABELS_160, MATTERPORT_LABELS_40, MATTERPORT_GT_LABELS, OPENVOCAB_MATTERPORT_LABELS
 from hovsg.utils.clip_utils import get_text_feats_multiple_templates
 

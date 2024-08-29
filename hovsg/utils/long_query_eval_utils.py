@@ -12,8 +12,8 @@ import numpy as np
 from omegaconf import DictConfig, OmegaConf
 import open3d as o3d
 
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from eval.evaluate_graph_hm3dsem import HM3DSemanticEvaluator
+
+from hovsg.eval.hm3dsem_evaluator import HM3DSemanticEvaluator
 
 
 def parse_json_gt_graph_hm3dsem(json_path: Union[str, Path]) -> Dict:
@@ -203,7 +203,7 @@ def generate_long_query_dataset_hm3dsem(
     for scene_dir in scene_dirs:
         scene_dir = Path(scene_dir)
         print(f"Generating long queries for scene {scene_dir.as_posix()}")
-        params.main.scene = str(scene_dir).split("/")[-1]
+        params.main.scene_id = str(scene_dir).split("/")[-1]
         # get last trailing folder name
         evaluator = HM3DSemanticEvaluator(params)
         evaluator.load_gt_graph_from_json(scene_dir / "scene_info.json")
@@ -242,35 +242,6 @@ def generate_long_query_dataset_hm3dsem(
         aggregated_queries = aggregate_duplicates_long_queries(queries, gt_node_tuples)
 
         dataset[scene_dir.name] = (evaluator, aggregated_queries)
-
-    return dataset
-
-
-def generate_long_query_dataset_hm3dsem(
-    params, scene_dirs: List[Union[Path, str]]
-) -> Dict[str, Tuple[List[str], List[nx.DiGraph]]]:
-    """generate long query dataset
-
-    Args:
-        scene_dirs (List[Union[Path, str]]): dirs to collected habitat scenes where scene_info.json is included
-
-    Returns:
-        Dict[str, Tuple[List[str], List[nx.DiGraph], List[List[str]]]]: a dictionary map from the scene name to a tuple.
-                                                       The tuple contains a list of long queries, a list of GT node
-                                                       name tuples, the graph of the tree, and the GT object node ids.
-    """
-    dataset = {}
-    for scene_dir in scene_dirs:
-        scene_dir = Path(scene_dir)
-        print(f"Generating long queries for scene {scene_dir.as_posix()}")
-        json_path = scene_dir / "scene_info.json"
-        tree = parse_json_gt_graph_hm3dsem(json_path)
-        queries, gt_nodes_tuples = generate_long_queries(tree)
-        queries, gt_nodes_tuples = filter_duplicates_long_queries(
-            queries, gt_nodes_tuples
-        )
-        gt_object_nodes_ids = generate_gt_object_nodes(tree, gt_nodes_tuples)
-        dataset[scene_dir.name] = (queries, gt_nodes_tuples, tree, gt_object_nodes_ids)
 
     return dataset
 

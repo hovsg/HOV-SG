@@ -73,14 +73,14 @@ def mean_accuracy(eval_segm, gt_segm, ignore=[]):
     return mean_accuracy_
 
 
-def per_class_IU(eval_segm, gt_segm, ignore=[]):
+def per_class_iou(eval_segm, gt_segm, ignore=[]):
     """
     for each class, compute
     n_ii / (t_i + sum_j(n_ji) - n_ii)
     :param eval_segm: 2D array, predicted segmentation
     :param gt_segm: 2D array, ground truth segmentation
     :param ignore: list of classes to ignore
-    :return: per class IU
+    :return: per class IoU
     """
 
     check_size(eval_segm, gt_segm)
@@ -90,7 +90,7 @@ def per_class_IU(eval_segm, gt_segm, ignore=[]):
     overlap, n_overlap = get_ignore_classes_num(gt_cl, ignore)
     eval_mask, gt_mask = extract_both_masks(eval_segm, gt_segm, cl, n_cl)
 
-    IU = list([0]) * n_cl
+    iou = list([0]) * n_cl
 
     for i, c in enumerate(cl):
         if c in ignore:
@@ -105,19 +105,19 @@ def per_class_IU(eval_segm, gt_segm, ignore=[]):
         t_i = np.sum(curr_gt_mask)
         n_ij = np.sum(curr_eval_mask)
 
-        IU[i] = n_ii / (t_i + n_ij - n_ii)
+        iou[i] = n_ii / (t_i + n_ij - n_ii)
 
-    # mean_IU_ = np.sum(IU) / (n_cl_gt - n_overlap)
-    return IU
+    # mean_iou_ = np.sum(iou) / (n_cl_gt - n_overlap)
+    return iou
 
 
-def mean_IU(eval_segm, gt_segm, ignore=[]):
+def mean_iou(eval_segm, gt_segm, ignore=[]):
     """
     (1/n_cl) * sum_i(n_ii / (t_i + sum_j(n_ji) - n_ii))
     :param eval_segm: 2D array, predicted segmentation
     :param gt_segm: 2D array, ground truth segmentation
     :param ignore: list of classes to ignore
-    :return: mean IU
+    :return: mean IoU
     """
 
     check_size(eval_segm, gt_segm)
@@ -127,7 +127,7 @@ def mean_IU(eval_segm, gt_segm, ignore=[]):
     overlap, n_overlap = get_ignore_classes_num(gt_cl, ignore)
     eval_mask, gt_mask = extract_both_masks(eval_segm, gt_segm, cl, n_cl)
 
-    IU = list([0]) * n_cl
+    iou = list([0]) * n_cl
 
     for i, c in enumerate(cl):
         if c in ignore:
@@ -142,19 +142,19 @@ def mean_IU(eval_segm, gt_segm, ignore=[]):
         t_i = np.sum(curr_gt_mask)
         n_ij = np.sum(curr_eval_mask)
 
-        IU[i] = n_ii / (t_i + n_ij - n_ii)
+        iou[i] = n_ii / (t_i + n_ij - n_ii)
 
-    mean_IU_ = np.sum(IU) / (n_cl_gt - n_overlap)
-    return mean_IU_
+    mean_iou_ = np.sum(iou) / (n_cl_gt - n_overlap)
+    return mean_iou_
 
 
-def frequency_weighted_IU(eval_segm, gt_segm, ignore=[]):
+def frequency_weighted_iou(eval_segm, gt_segm, ignore=[]):
     """
     sum_k(t_k)^(-1) * sum_i((t_i*n_ii)/(t_i + sum_j(n_ji) - n_ii))
     :param eval_segm: 2D array, predicted segmentation
     :param gt_segm: 2D array, ground truth segmentation
     :param ignore: list of classes to ignore
-    :return: frequency weighted IU
+    :return: frequency weighted IoU
     """
 
     check_size(eval_segm, gt_segm)
@@ -162,7 +162,7 @@ def frequency_weighted_IU(eval_segm, gt_segm, ignore=[]):
     cl, n_cl = union_classes(eval_segm, gt_segm)
     eval_mask, gt_mask = extract_both_masks(eval_segm, gt_segm, cl, n_cl)
 
-    frequency_weighted_IU_ = list([0]) * n_cl
+    frequency_weighted_iou_ = list([0]) * n_cl
 
     n_ignore = 0
     for i, c in enumerate(cl):
@@ -179,12 +179,12 @@ def frequency_weighted_IU(eval_segm, gt_segm, ignore=[]):
         t_i = np.sum(curr_gt_mask)
         n_ij = np.sum(curr_eval_mask)
 
-        frequency_weighted_IU_[i] = (t_i * n_ii) / (t_i + n_ij - n_ii)
+        frequency_weighted_iou_[i] = (t_i * n_ii) / (t_i + n_ij - n_ii)
 
     sum_k_t_k = get_pixel_area(eval_segm) - n_ignore
 
-    frequency_weighted_IU_ = np.sum(frequency_weighted_IU_) / sum_k_t_k
-    return frequency_weighted_IU_
+    frequency_weighted_iou_ = np.sum(frequency_weighted_iou_) / sum_k_t_k
+    return frequency_weighted_iou_
 
 
 """

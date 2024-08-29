@@ -4,13 +4,12 @@ import sys
 import hydra
 from omegaconf import DictConfig, OmegaConf
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from hovsg.graph.graph import Graph
 
 # pylint: disable=all
 
 
-@hydra.main(version_base=None, config_path="../config", config_name="semantic_segmentation_config")
+@hydra.main(version_base=None, config_path="../config", config_name="semantic_segmentation")
 def main(params: DictConfig):
     # Create save directory
     save_dir = os.path.join(params.main.save_path, params.main.dataset)

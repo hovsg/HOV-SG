@@ -122,7 +122,7 @@ def read_semantic_classes_replica(semantic_info_path, crete_color_map=False):
     return class_id_names
 
 
-def load_feture_map(path, normalize=True):
+def load_feature_map(path, normalize=True):
     """
     Load features map from disk, mask_feats.pt and objects/pcd_i.ply
     :param path: path to feature map
@@ -159,6 +159,40 @@ def load_feture_map(path, normalize=True):
     else:
         raise FileNotFoundError("objects directory not found in {}".format(path))
         
+def get_3d_iou(box1_center, box1_dims, box2_center, box2_dims):
+    # Calculate half extents
+    box1_extents = [dim / 2 for dim in box1_dims]
+    box2_extents = [dim / 2 for dim in box2_dims]
+
+    # Calculate min and max coordinates for each box
+    box1_min = [box1_center[i] - box1_extents[i] for i in range(3)]
+    box1_max = [box1_center[i] + box1_extents[i] for i in range(3)]
+
+    box2_min = [box2_center[i] - box2_extents[i] for i in range(3)]
+    box2_max = [box2_center[i] + box2_extents[i] for i in range(3)]
+
+    # Calculate intersection
+    intersection_min = [max(box1_min[i], box2_min[i]) for i in range(3)]
+    intersection_max = [min(box1_max[i], box2_max[i]) for i in range(3)]
+
+    # Calculate intersection volume
+    intersection_volume = (
+        max(0, intersection_max[0] - intersection_min[0])
+        * max(0, intersection_max[1] - intersection_min[1])
+        * max(0, intersection_max[2] - intersection_min[2])
+    )
+
+    # Calculate union volume
+    box1_volume = box1_dims[0] * box1_dims[1] * box1_dims[2]
+    box2_volume = box2_dims[0] * box2_dims[1] * box2_dims[2]
+    union_volume = box1_volume + box2_volume - intersection_volume
+
+    # Calculate IoU
+    iou = intersection_volume / union_volume if union_volume > 0 else 0.0
+
+    return iou
+
+
 def compute_3d_iou(pcd1, pcd2, padding=0):
     """
     Compute 3D Intersection over Union (IoU) between two point clouds.
@@ -357,3 +391,10 @@ def read_semantic_classes(semantic_info_path):
         semantic_info = json.load(f)
     class_id_names = {obj["id"]: obj["name"] for obj in semantic_info["classes"]}
     return class_id_names
+
+
+def find_box_center_and_dims(box_3d):
+    box_3d_array = np.array(box_3d)
+    box_center = np.mean(box_3d_array, axis=0)
+    box_dims = np.ptp(box_3d_array, axis=0)
+    return box_center, box_dims

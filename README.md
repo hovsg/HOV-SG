@@ -20,6 +20,11 @@ This repository is the official implementation of the paper:
   <img src="media/teaser-hovsg-white.png" alt="HOV-SG allows the construction of accurate, open-vocabulary 3D scene graphs for large-scale and multi-story environments and enables robots to effectively navigate in them with language instructions." width="600" />
 </p>
 
+## 📰 Major Updates
+- **[29 Aug 2024]** **We added `hm3dsem_walks` dataset generation and hierarchical scene graph evaluation code.** <br>
+Please review the updated code structure and newly added dependencies for dataset construction. <br><br>
+- [01 Jul 2024] Initial release of HOV-SG including mapping and graph construction engine.
+
 ## 🏗 Setup
 1. Clone and set up the HOV-SG repository
 ```bash
@@ -35,7 +40,7 @@ conda install habitat-sim -c conda-forge -c aihabitat
 pip install -e .
 ```
 
-### Open CLIP
+### OpenCLIP
 HOV-SG uses the Open CLIP model to extract features from RGB-D frames. To download the Open CLIP model checkpoint `CLIP-ViT-H-14-laion2B-s32B-b79K` please refer to [Open CLIP](https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K).
 ```bash
 mkdir checkpoints
@@ -53,21 +58,17 @@ HOV-SG uses [SAM](https://github.com/facebookresearch/segment-anything) to gener
 wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth -O checkpoints/sam_vit_h_4b8939.pth
 ```
 
-## 🖼️ Prepare dataset
+## 🖼️ Dataset Preparation
 
 ### Habitat Matterport 3D Semantics
-HOV-SG takes posed RGB-D sequences as input. In order to represent hierarchical multi-story scenes we make use of the Habitat 3D Semantics dataset ([HM3DSem](https://aihabitat.org/datasets/hm3d-semantics/)). We provide a script and pose files (`data/hm3dsem_poses/`) to generate RGB-D sequences using the [habitat-sim](https://github.com/facebookresearch/habitat-sim) simulator. The script can be found under `hovsg/data`.
-- Download the [Habitat Matterport 3D Semantics](https://github.com/matterport/habitat-matterport-3dresearch) dataset.
-- To generate RGBD sequences, run the following command:
-    ```bash
-    python data/habitat/gen_hm3dsem_from_poses.py --dataset_dir <hm3dsem_dir> --save_dir data/hm3dsem_walks/
-    ```
+HOV-SG takes posed RGB-D sequences as input. In order to produce hierarchical multi-story scenes we make use of the Habitat 3D Semantics dataset ([HM3DSem](https://aihabitat.org/datasets/hm3d-semantics/)). 
 
+- Download the [Habitat Matterport 3D Semantics](https://github.com/matterport/habitat-matterport-3dresearch) dataset.
     <details>
-    <summary>Make sure that the <code>hm3dsem_dir</code> has the following structure</summary>
+    <summary>Make sure that the raw HM3D dataset has the following structure:</summary>
     
     ```
-    ├── hm3dsem_dir
+    ├── hm3d
     │   ├── hm3d_annotated_basis.scene_dataset_config.json # this file is necessary
     │   ├── val
     │   │   └── 00824-Dd4bFSTQ8gi
@@ -76,26 +77,37 @@ HOV-SG takes posed RGB-D sequences as input. In order to represent hierarchical 
     │   │         ├── Dd4bFSTQ8gi.glb
     │   │         ├── Dd4bFSTQ8gi.semantic.glb
     │   │         └── Dd4bFSTQ8gi.semantic.txt
+            ...
+        ...
     ...
     ```
 
     </details>
-We only used the following scenes from the Habitat Matterport 3D Semantics dataset:
+We used the following scenes from the Habitat Matterport 3D Semantics dataset in our evaluation:
 <details>
   <summary>Show Scenes ID</summary>
   
   1. `00824-Dd4bFSTQ8gi`
   2. `00829-QaLdnwvtxbs`
   3. `00843-DYehNKdT76V`
-  4. `00847-bCPU9suPUw9`
-  5. `00849-a8BtkwhxdRV`
-  6. `00861-GLAQ4DNUx5U`
-  7. `00862-LT9Jq6dN3Ea`
-  8. `00873-bxsVRursffK`
-  9. `00877-4ok3usBNeis`
-  10. `00890-6s7QHgap2fW`
+  4. `00861-GLAQ4DNUx5U`
+  5. `00862-LT9Jq6dN3Ea`
+  6. `00873-bxsVRursffK`
+  7. `00877-4ok3usBNeis`
+  8. `00890-6s7QHgap2fW`
 
 </details>
+
+1. Our method requires posed input data. Because of that, we recorded trajectories for each sequence we evaluate on. We provide a script (`hovsg/data/hm3dsem/gen_hm3dsem_walks_from_poses.py`) that turns a set of camera poses (`hovsg/data/hm3dsem/metadata/poses`) into a sequence of RGB-D observations using the [habitat-sim](https://github.com/facebookresearch/habitat-sim) simulator. The output includes RGB, depth, poses and frame-wise semantic/panoptic ground truth:
+```bash
+  python data/habitat/gen_hm3dsem_from_poses.py --dataset_dir <hm3dsem_dir> --save_dir data/hm3dsem_walks/
+```
+
+2. Secondly, we construct a new hierarchical graph-structured dataset that is called `hm3dsem_walks` that includes ground truth based on all observations recorded. To produce this ground-truth data please execute the following: First, define the following config paths: `main.package_path`, `main.dataset_path`, `main.raw_data_path`, and `main.save_path` under `config/create_graph.yaml`. For each scene, define the `main.scene_id`, `main.split`. Next, execute the following to obtain floor-, region-, and object-level ground truth data per scene. We utilize every recorded frame without skipping (see parameter `dataset.hm3dsem.gt_skip_frames`) and recommend 128 GB of RAM to compile this as the scenes differ in size:
+```bash
+cd HOV-SG
+python hovsg/data/hm3dsem/create_hm3dsem_walks_gt.py
+```
 
 To evaluate semantic segmentation cababilities, we used [ScanNet](http://www.scan-net.org/) and [Replica](https://github.com/facebookresearch/Replica-Dataset).
 ### ScanNet
@@ -198,7 +210,7 @@ The Data folder should have the following structure:
 
 ## :rocket: Run 
 
-### Create Scene Graphs (only for Habitat Matterport 3D Semantics):
+### Create scene graphs (only for Habitat Matterport 3D Semantics):
 ```bash
 python application/create_graph.py main.dataset=hm3dsem main.dataset_path=data/hm3dsem_walks/val/00824-Dd4bFSTQ8gi/ main.save_path=data/scene_graphs/00824-Dd4bFSTQ8gi
 ```
@@ -233,13 +245,13 @@ The `graph` folder contains the generated scene graph hierarchy, the first numbe
 
 </details>
 
-### Visualize Scene Graphs
+### Visualize scene graph
 ```bash
 python application/visualize_graph.py graph_path=data/scene_graphs/hm3dsem/00824-Dd4bFSTQ8gi/graph
 ```
 ![hovsg_graph_vis](media/hovsg_graph_vis.gif)
 
-### Interactive visualization of Scene Graphs with Queries
+### Interactive visualization of scene graphs and natural language queries
 
 #### Setup OpenAI
 In order to test graph queries with HOV-SG, you need to setup an OpenAI API account with the following steps:
@@ -254,19 +266,21 @@ python application/visualize_query_graph.py main.graph_path=data/scene_graphs/hm
 After launching the code, you will be asked to input the hierarchical query. An example is `chair in the living room on floor 0`. You can see the visualization of the top 5 target objects and the room it lies in.
 ![hovsg_graph_query](media/hovsg_graph_query.gif)
 
-### Extract feature map for Semantic Segmentation (only for ScanNet and Replica)
+### Extract feature map for semantic segmentation (only ScanNet and Replica)
 ```bash
 python application/semantic_segmentation.py main.dataset=replica main.dataset_path=Replica/office0 main.save_path=data/sem_seg/office0
 ```
 
-### Evaluate Semantic Segmentation (only for ScanNet and Replica)
+### Evaluate semantic segmentation (only ScanNet and Replica)
 ```bash
 python application/eval/evaluate_sem_seg.py dataset=replica scene_name=office0 feature_map_path=data/sem_seg/office0
 ```
 
-### Evaluate Scene Graphs (WIP)
+### Evaluate predicted scene graphs (only Habitat 3D Semantics)
+- Define the scene identifiers and paths of ground truth and the predicted scene graph in the `config/eval_graph.yaml`.
+- Run the graph evaluation method:
 ```bash
-python application/eval/evaluate_graph.py main.graph_path=data/scene_graphs/00824-Dd4bFSTQ8gi
+python application/eval/evaluate_graph.py 
 ```
 
 ## 📔 Abstract

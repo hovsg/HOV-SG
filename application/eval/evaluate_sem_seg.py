@@ -15,10 +15,9 @@ from sklearn.neighbors import BallTree
 import torch
 import torchmetrics as tm
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '../..'))
 from hovsg.labels.label_constants import SCANNET_COLOR_MAP_20, SCANNET_LABELS_20
 from hovsg.utils.eval_utils import (
-    load_feture_map,
+    load_feature_map,
     knn_interpolation,
     read_ply_and_assign_colors,
     read_semantic_classes,
@@ -28,14 +27,14 @@ from hovsg.utils.eval_utils import (
     read_ply_and_assign_colors_replica
 )
 from hovsg.utils.metric import (
-    frequency_weighted_IU,
-    mean_IU,
+    frequency_weighted_iou,
+    mean_iou,
     mean_accuracy,
     pixel_accuracy,
-    per_class_IU,
+    per_class_iou,
 )
 
-@hydra.main(version_base=None, config_path="../../config", config_name="eval_sem_seg_config")
+@hydra.main(version_base=None, config_path="../../config", config_name="eval_sem_seg")
 def main(params: DictConfig):
 
     # load CLIP model
@@ -56,7 +55,7 @@ def main(params: DictConfig):
     clip_model.eval()
 
     # Load Feature Map
-    masked_pcd, mask_feats = load_feture_map(params.main.feature_map_path)
+    masked_pcd, mask_feats = load_feature_map(params.main.feature_map_path)
     # read semantic classes
     scene_name = params.main.scene_name
     if params.main.dataset == "scannet":
@@ -202,11 +201,11 @@ def main(params: DictConfig):
             ):
                 ignore.append(id)
     print("################ {} ################".format(scene_name))
-    ious = per_class_IU(label_pred, labels_gt, ignore=ignore)
+    ious = per_class_iou(label_pred, labels_gt, ignore=ignore)
     print("per class iou: ", ious)
-    miou = mean_IU(label_pred, labels_gt, ignore=ignore)
+    miou = mean_iou(label_pred, labels_gt, ignore=ignore)
     print("miou: ", miou)
-    fmiou = frequency_weighted_IU(label_pred, labels_gt, ignore=ignore)
+    fmiou = frequency_weighted_iou(label_pred, labels_gt, ignore=ignore)
     print("fmiou: ", fmiou)
     macc = mean_accuracy(label_pred, labels_gt, ignore=ignore)
     print("macc: ", macc)

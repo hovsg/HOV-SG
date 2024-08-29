@@ -52,7 +52,7 @@ from hovsg.utils.graph_utils import (
 )
 
 from hovsg.graph.navigation_graph import NavigationGraph
-from hovsg.utils.obtain_label_feats import get_label_feats
+from hovsg.utils.label_feats import get_label_feats
 from hovsg.utils.constants import MATTERPORT_GT_LABELS, CLIP_DIM
 from hovsg.utils.llm_utils import (
     parse_floor_room_object_gpt35,
@@ -104,7 +104,7 @@ class Graph:
             self.clip_feat_dim = CLIP_DIM["ViT-H-14"]
         self.clip_model.eval()
         if not hasattr(self.cfg, "pipeline"):
-            print("Only Query Graph is supported")
+            print("-- entering querying and evaluation mode")
             return
 
         self.graph_tmp_folder = os.path.join(cfg.main.save_path, "tmp")
@@ -743,7 +743,7 @@ class Graph:
         Load the HOV-SG graph
         :param path: str, The path to load the graph
         """
-        print("Predicted graph loading...")
+        print(".. loading predicted graph")
         # load floors
         floor_files = os.listdir(os.path.join(path, "floors"))
         floor_files.sort()
@@ -755,7 +755,7 @@ class Graph:
             self.floors.append(floor)
             self.graph.add_node(floor, name="floor_" + str(floor_file), type="floor")
             self.graph.add_edge(0, floor)
-        print("Number of pred floors: ", len(self.floors))
+        print("# pred floors: ", len(self.floors))
         # load rooms
         room_files = os.listdir(os.path.join(path, "rooms"))
         room_files.sort()
@@ -770,7 +770,7 @@ class Graph:
             if isinstance(self.floors[int(room.floor_id)].rooms[0], str):
                 self.floors[int(room.floor_id)].rooms = []
             self.floors[int(room.floor_id)].rooms.append(room)
-        print("number of rooms: ", len(self.rooms))
+        print("# pred rooms: ", len(self.rooms))
         # load objects
         object_files = os.listdir(os.path.join(path, "objects"))
         object_files.sort()
@@ -798,7 +798,7 @@ class Graph:
             self.graph.add_edge(parent_room, objectt)
             # add object to the room
             parent_room.add_object(objectt)
-        print("Number of pred objects: ", len(self.objects))
+        print("# pred objects: ", len(self.objects))
         print("-------------------")
 
     def build_graph(self, save_path=None):
@@ -825,7 +825,7 @@ class Graph:
                 room.merge_objects()
                 print(" number of objects after merging: ", len(room.objects))
 
-        print("Creating graph...")
+        print("creating graph...")
         self.create_graph()
 
         # create navigation graph for each floor
@@ -834,10 +834,10 @@ class Graph:
         # save the graph
         self.save_graph(os.path.join(save_path, "graph"))
 
-        print("number of floors: ", len(self.floors))
-        print("number of rooms: ", len(self.rooms))
-        print("number of objects: ", len(self.objects))
-        print("HOV-SG is built successfully")
+        print("# floors: ", len(self.floors))
+        print("# rooms: ", len(self.rooms))
+        print("# objects: ", len(self.objects))
+        print("--> HOV-SG representation successfully built")
 
     def create_nav_graph(self):
         """

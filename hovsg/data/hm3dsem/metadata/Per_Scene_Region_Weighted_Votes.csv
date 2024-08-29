@@ -1,0 +1,2600 @@
+Scene Name,Region #,Bathroom,Bedroom,Dining room,Garage,Hall/stairwell,Kitchen,Laundry room,Living room,Office,Rec room,Unknown room,Weighted Room Proposal
+00006-HkseAnWCgqk,0,0,10,0,0,0,0,0,0,0,0,21, Bedroom
+00006-HkseAnWCgqk,1,0,0,0,0,0,0,0,0,2,0,26, Office
+00006-HkseAnWCgqk,2,0,0,0,0,0,0,0,1,0,0,25, Living room
+00006-HkseAnWCgqk,3,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00006-HkseAnWCgqk,4,5,0,0,0,0,0,0,0,0,0,12, Bathroom
+00006-HkseAnWCgqk,5,0,1,0,0,1,0,0,0,0,0,19, Tie: Bedroom & Hall/stairwell
+00006-HkseAnWCgqk,6,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00006-HkseAnWCgqk,7,3,0,0,0,0,0,0,0,0,0,9, Bathroom
+00006-HkseAnWCgqk,8,0,0,2,0,0,9,0,1,0,0,36, Kitchen
+00006-HkseAnWCgqk,9,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00006-HkseAnWCgqk,10,1,0,0,0,0,0,0,0,0,0,6, Bathroom
+00009-vLpv2VX547B,0,0,1,0,0,0,0,0,0,4,0,28, Office
+00009-vLpv2VX547B,1,4,0,0,0,0,0,0,0,0,0,26, Bathroom
+00009-vLpv2VX547B,2,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00009-vLpv2VX547B,3,1,0,0,0,0,0,0,0,0,0,12, Bathroom
+00009-vLpv2VX547B,4,0,11,0,0,0,0,0,0,1,0,28, Bedroom
+00009-vLpv2VX547B,5,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00009-vLpv2VX547B,6,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00009-vLpv2VX547B,7,0,0,0,0,0,6,1,1,0,0,35, Kitchen
+00009-vLpv2VX547B,8,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00009-vLpv2VX547B,9,0,11,0,0,0,0,0,0,0,0,15, Bedroom
+00009-vLpv2VX547B,10,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00009-vLpv2VX547B,11,0,1,0,0,0,0,0,0,0,0,4, Bedroom
+00009-vLpv2VX547B,12,0,0,0,0,1,0,0,1,0,0,28, Tie: Living room & Hall/stairwell
+00009-vLpv2VX547B,13,5,0,0,0,0,0,0,0,0,0,20, Bathroom
+00009-vLpv2VX547B,14,0,1,0,0,0,2,0,0,4,0,25, Office
+00009-vLpv2VX547B,15,0,0,0,0,0,5,0,0,0,0,21, Kitchen
+00009-vLpv2VX547B,16,0,1,0,0,0,0,0,0,0,0,18, Bedroom
+00009-vLpv2VX547B,17,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00009-vLpv2VX547B,18,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00009-vLpv2VX547B,19,0,11,0,0,0,0,0,0,1,0,23, Bedroom
+00009-vLpv2VX547B,20,0,1,0,0,0,0,0,1,0,0,12, Tie: Bedroom & Living room
+00009-vLpv2VX547B,21,0,0,0,0,0,0,0,0,0,0,22, Unknown room
+00009-vLpv2VX547B,22,0,10,0,0,0,0,0,0,0,0,19, Bedroom
+00009-vLpv2VX547B,23,0,12,0,0,0,0,0,0,0,0,20, Bedroom
+00016-qk9eeNeR4vw,1,0,0,0,0,0,0,0,2,0,0,13, Living room
+00016-qk9eeNeR4vw,2,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00016-qk9eeNeR4vw,3,0,12,0,0,0,0,0,0,0,0,22, Bedroom
+00016-qk9eeNeR4vw,4,6,0,0,0,0,0,0,0,0,0,14, Bathroom
+00016-qk9eeNeR4vw,5,0,0,0,0,0,5,0,0,0,0,12, Kitchen
+00016-qk9eeNeR4vw,6,0,0,0,0,0,0,0,2,1,0,40, Living room
+00016-qk9eeNeR4vw,7,0,0,0,0,0,1,0,0,0,0,13, Kitchen
+00016-qk9eeNeR4vw,8,0,11,0,0,0,0,0,0,0,0,12, Bedroom
+00016-qk9eeNeR4vw,9,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00016-qk9eeNeR4vw,10,0,0,0,0,0,0,1,0,0,0,12, Laundry room
+00016-qk9eeNeR4vw,11,0,11,0,0,0,0,0,0,0,0,13, Bedroom
+00016-qk9eeNeR4vw,12,0,10,0,0,0,0,0,0,0,0,27, Bedroom
+00016-qk9eeNeR4vw,13,5,0,0,0,0,0,0,0,0,0,20, Bathroom
+00017-oEPjPNSPmzL,0,0,0,0,0,0,0,0,1,0,0,20, Living room
+00017-oEPjPNSPmzL,1,0,0,0,0,0,13,0,0,0,0,24, Kitchen
+00017-oEPjPNSPmzL,2,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00017-oEPjPNSPmzL,3,1,0,0,0,0,0,1,0,0,0,16, Tie: Laundry room & Bathroom
+00017-oEPjPNSPmzL,4,2,0,0,0,0,0,0,0,0,0,8, Bathroom
+00017-oEPjPNSPmzL,5,7,0,0,0,0,0,0,0,0,0,18, Bathroom
+00017-oEPjPNSPmzL,6,0,10,0,0,0,0,0,0,0,0,11, Bedroom
+00017-oEPjPNSPmzL,7,0,11,0,0,0,0,0,0,0,0,19, Bedroom
+00017-oEPjPNSPmzL,8,0,1,0,0,0,0,0,0,4,0,18, Office
+00020-XYyR54sxe6b,1,0,1,0,0,0,0,0,0,0,0,10, Bedroom
+00020-XYyR54sxe6b,2,0,0,0,0,2,0,0,0,0,0,13, Hall/stairwell
+00020-XYyR54sxe6b,3,0,0,0,0,0,0,0,2,0,0,19, Living room
+00020-XYyR54sxe6b,4,6,0,0,0,0,0,0,0,0,0,9, Bathroom
+00020-XYyR54sxe6b,5,0,0,0,0,0,0,0,0,0,0,21, Unknown room
+00020-XYyR54sxe6b,6,0,0,0,0,0,3,2,0,0,0,23, Kitchen
+00020-XYyR54sxe6b,7,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00020-XYyR54sxe6b,8,0,11,0,0,0,0,0,0,0,0,14, Bedroom
+00020-XYyR54sxe6b,9,0,11,0,0,0,0,0,0,0,0,12, Bedroom
+00020-XYyR54sxe6b,10,4,0,0,0,0,0,0,0,0,0,17, Bathroom
+00020-XYyR54sxe6b,11,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00022-gmuS7Wgsbrx,0,0,12,0,0,0,0,0,0,0,0,10, Bedroom
+00022-gmuS7Wgsbrx,1,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00022-gmuS7Wgsbrx,2,3,0,0,0,0,0,0,0,0,0,5, Bathroom
+00022-gmuS7Wgsbrx,3,0,12,0,0,0,0,0,0,2,0,16, Bedroom
+00022-gmuS7Wgsbrx,4,0,11,0,0,0,0,0,0,0,0,10, Bedroom
+00022-gmuS7Wgsbrx,5,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00022-gmuS7Wgsbrx,6,4,0,0,0,0,0,0,0,0,0,4, Bathroom
+00022-gmuS7Wgsbrx,7,0,11,0,0,0,0,0,0,0,0,12, Bedroom
+00022-gmuS7Wgsbrx,8,0,0,0,0,0,0,0,0,3,0,11, Office
+00022-gmuS7Wgsbrx,9,0,0,0,0,4,0,0,0,0,0,11, Hall/stairwell
+00022-gmuS7Wgsbrx,10,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00022-gmuS7Wgsbrx,11,0,0,0,0,0,0,0,1,0,0,13, Living room
+00022-gmuS7Wgsbrx,12,0,0,2,0,0,10,0,1,0,0,22, Kitchen
+00022-gmuS7Wgsbrx,13,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00022-gmuS7Wgsbrx,14,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00022-gmuS7Wgsbrx,15,3,0,0,0,0,0,0,0,0,0,9, Bathroom
+00022-gmuS7Wgsbrx,16,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00022-gmuS7Wgsbrx,17,0,0,0,0,0,0,0,0,3,0,17, Office
+00022-gmuS7Wgsbrx,18,7,0,0,0,0,0,0,0,0,0,14, Bathroom
+00022-gmuS7Wgsbrx,19,3,0,0,0,0,0,0,0,0,0,5, Bathroom
+00022-gmuS7Wgsbrx,20,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00022-gmuS7Wgsbrx,21,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00022-gmuS7Wgsbrx,22,0,11,0,0,0,0,0,0,2,0,16, Bedroom
+00022-gmuS7Wgsbrx,23,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00022-gmuS7Wgsbrx,24,0,0,0,0,0,0,0,2,0,0,22, Living room
+00023-zepmXAdrpjR,0,0,13,0,0,0,0,0,0,0,0,17, Bedroom
+00023-zepmXAdrpjR,1,0,1,0,0,0,0,0,0,0,0,6, Bedroom
+00023-zepmXAdrpjR,2,7,0,0,0,0,0,0,0,0,0,13, Bathroom
+00023-zepmXAdrpjR,3,7,0,0,0,0,0,0,0,0,0,21, Bathroom
+00023-zepmXAdrpjR,4,0,11,0,0,1,0,0,1,0,0,13, Bedroom
+00023-zepmXAdrpjR,5,0,11,0,0,1,0,0,0,0,0,21, Bedroom
+00023-zepmXAdrpjR,6,0,11,0,0,0,0,0,0,0,0,14, Bedroom
+00023-zepmXAdrpjR,7,0,0,0,0,0,8,0,0,0,0,20, Kitchen
+00023-zepmXAdrpjR,8,0,0,0,0,0,0,3,0,0,0,25, Laundry room
+00023-zepmXAdrpjR,9,0,0,0,0,0,0,0,1,0,0,39, Living room
+00023-zepmXAdrpjR,10,0,0,0,0,0,0,0,2,0,0,20, Living room
+00023-zepmXAdrpjR,11,0,0,0,0,1,0,0,0,0,0,18, Hall/stairwell
+00025-ixTj1aTMup2,0,0,10,0,0,0,0,0,0,0,0,16, Bedroom
+00025-ixTj1aTMup2,1,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00025-ixTj1aTMup2,2,0,10,0,0,0,0,0,0,0,0,15, Bedroom
+00025-ixTj1aTMup2,3,0,0,0,0,0,0,0,0,2,0,10, Office
+00025-ixTj1aTMup2,4,11,0,0,0,0,0,0,0,0,0,10, Bathroom
+00025-ixTj1aTMup2,5,0,0,0,0,1,0,0,0,0,0,4, Hall/stairwell
+00025-ixTj1aTMup2,6,12,0,0,0,0,0,0,0,0,0,17, Bathroom
+00025-ixTj1aTMup2,7,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00025-ixTj1aTMup2,8,4,0,0,0,0,0,0,0,0,0,15, Bathroom
+00025-ixTj1aTMup2,9,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00025-ixTj1aTMup2,10,0,0,0,0,0,5,0,3,0,0,45, Kitchen
+00025-ixTj1aTMup2,11,0,0,0,0,0,3,0,1,0,0,17, Kitchen
+00025-ixTj1aTMup2,12,0,11,0,0,0,0,0,0,0,0,18, Bedroom
+00025-ixTj1aTMup2,13,0,11,0,0,0,0,0,0,0,0,17, Bedroom
+00025-ixTj1aTMup2,14,0,0,0,0,1,0,0,0,0,0,4, Hall/stairwell
+00025-ixTj1aTMup2,15,9,0,0,0,0,0,0,0,0,0,15, Bathroom
+00031-Wo6kuutE9i7,0,0,11,0,0,0,0,0,0,0,0,12, Bedroom
+00031-Wo6kuutE9i7,1,0,11,0,0,0,0,0,0,0,0,13, Bedroom
+00031-Wo6kuutE9i7,2,9,0,0,0,0,0,0,0,0,0,16, Bathroom
+00031-Wo6kuutE9i7,3,0,1,0,0,0,0,0,0,0,0,13, Bedroom
+00031-Wo6kuutE9i7,4,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00031-Wo6kuutE9i7,5,0,0,0,0,0,7,0,0,0,0,17, Kitchen
+00031-Wo6kuutE9i7,6,0,1,0,0,0,0,0,0,0,0,15, Bedroom
+00031-Wo6kuutE9i7,7,0,1,0,0,0,0,0,1,0,0,20, Tie: Bedroom & Living room
+00031-Wo6kuutE9i7,8,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00033-oPj9qMxrDEa,0,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00033-oPj9qMxrDEa,1,0,0,0,0,0,7,0,2,0,0,53, Kitchen
+00033-oPj9qMxrDEa,2,5,0,0,0,0,0,0,0,0,0,22, Bathroom
+00033-oPj9qMxrDEa,3,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00033-oPj9qMxrDEa,4,0,10,0,0,0,0,0,0,3,0,20, Bedroom
+00033-oPj9qMxrDEa,5,0,10,0,0,0,0,0,0,0,0,18, Bedroom
+00033-oPj9qMxrDEa,6,0,0,0,0,0,0,0,0,0,0,24, Unknown room
+00033-oPj9qMxrDEa,7,0,1,0,0,0,1,1,0,0,0,19, Tie: Laundry room & Bedroom & Kitchen
+00034-6imZUJGRUq4,1,0,0,0,4,2,0,0,0,0,0,23, Garage
+00034-6imZUJGRUq4,2,0,0,0,0,0,3,0,1,0,0,33, Kitchen
+00034-6imZUJGRUq4,3,0,1,0,0,0,0,0,0,0,0,13, Bedroom
+00034-6imZUJGRUq4,4,0,11,0,0,0,0,0,0,0,0,11, Bedroom
+00034-6imZUJGRUq4,5,0,11,0,0,0,0,0,0,0,0,16, Bedroom
+00034-6imZUJGRUq4,6,2,0,0,0,0,0,0,0,0,0,14, Bathroom
+00034-6imZUJGRUq4,7,1,0,0,0,0,0,0,0,0,0,15, Bathroom
+00034-6imZUJGRUq4,8,0,0,0,0,2,0,1,0,0,0,30, Hall/stairwell
+00034-6imZUJGRUq4,9,0,10,0,2,0,1,0,1,0,1,27, Bedroom
+00035-3XYAD64HpDr,0,0,0,0,0,0,0,0,1,0,0,33, Living room
+00035-3XYAD64HpDr,1,0,0,0,0,0,5,0,0,0,0,17, Kitchen
+00035-3XYAD64HpDr,2,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00035-3XYAD64HpDr,3,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00035-3XYAD64HpDr,4,0,0,0,0,1,0,0,0,0,0,11, Hall/stairwell
+00035-3XYAD64HpDr,5,0,12,0,0,0,0,0,0,0,0,16, Bedroom
+00035-3XYAD64HpDr,6,3,0,0,0,0,0,0,0,0,0,16, Bathroom
+00035-3XYAD64HpDr,7,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00035-3XYAD64HpDr,8,0,1,0,0,0,0,0,0,2,1,29, Office
+00035-3XYAD64HpDr,9,0,11,0,0,0,0,0,1,0,0,21, Bedroom
+00035-3XYAD64HpDr,10,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00035-3XYAD64HpDr,11,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00035-3XYAD64HpDr,12,2,0,0,0,0,0,0,0,0,0,5, Bathroom
+00035-3XYAD64HpDr,13,2,0,0,0,0,0,0,0,0,0,7, Bathroom
+00043-Jfyvj3xn2aJ,1,4,0,0,0,0,0,0,0,0,0,8, Bathroom
+00043-Jfyvj3xn2aJ,2,0,0,0,0,0,0,0,0,0,0,22, Unknown room
+00043-Jfyvj3xn2aJ,3,0,0,0,0,0,0,0,0,1,1,25, Tie: Office & Rec room
+00043-Jfyvj3xn2aJ,4,0,0,2,0,0,1,0,0,0,1,35, Dining room
+00043-Jfyvj3xn2aJ,5,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00043-Jfyvj3xn2aJ,6,0,0,0,0,2,0,0,0,0,0,10, Hall/stairwell
+00043-Jfyvj3xn2aJ,7,15,0,0,0,0,0,0,0,0,0,29, Bathroom
+00043-Jfyvj3xn2aJ,8,0,11,0,0,0,0,0,0,2,2,16, Bedroom
+00043-Jfyvj3xn2aJ,9,0,11,0,0,0,0,0,0,2,0,11, Bedroom
+00043-Jfyvj3xn2aJ,10,0,11,0,0,1,0,0,0,2,0,19, Bedroom
+00043-Jfyvj3xn2aJ,11,0,0,0,1,0,0,0,0,0,0,37, Garage
+00043-Jfyvj3xn2aJ,12,0,0,0,0,0,0,0,0,0,0,28, Unknown room
+00043-Jfyvj3xn2aJ,13,1,0,0,0,0,1,0,0,0,0,12, Tie: Kitchen & Bathroom
+00043-Jfyvj3xn2aJ,14,5,0,0,0,0,0,1,0,0,0,18, Bathroom
+00043-Jfyvj3xn2aJ,15,10,0,0,0,0,0,0,0,0,0,15, Bathroom
+00043-Jfyvj3xn2aJ,16,0,0,0,0,3,0,0,0,0,0,19, Hall/stairwell
+00043-Jfyvj3xn2aJ,17,0,0,0,0,0,5,0,0,0,0,21, Kitchen
+00043-Jfyvj3xn2aJ,18,0,1,2,0,0,0,0,0,0,0,13, Dining room
+00043-Jfyvj3xn2aJ,19,0,0,0,0,0,0,0,2,0,0,22, Living room
+00055-HxmXPBbFCkH,1,0,10,0,0,0,1,0,0,2,0,22, Bedroom
+00055-HxmXPBbFCkH,2,0,0,0,0,2,0,0,0,0,0,5, Hall/stairwell
+00055-HxmXPBbFCkH,3,0,11,0,0,0,0,0,0,0,0,19, Bedroom
+00055-HxmXPBbFCkH,4,0,11,0,0,1,0,0,0,1,0,17, Bedroom
+00055-HxmXPBbFCkH,5,1,0,0,0,0,0,0,0,0,0,9, Bathroom
+00055-HxmXPBbFCkH,6,4,0,0,0,0,0,0,0,0,0,14, Bathroom
+00055-HxmXPBbFCkH,7,0,13,0,0,0,0,0,0,0,0,13, Bedroom
+00055-HxmXPBbFCkH,8,0,0,0,1,0,0,2,0,0,0,24, Laundry room
+00055-HxmXPBbFCkH,9,0,1,0,0,2,0,0,0,0,0,11, Hall/stairwell
+00055-HxmXPBbFCkH,10,0,0,0,0,0,8,0,0,0,0,17, Kitchen
+00055-HxmXPBbFCkH,11,0,0,0,0,0,0,0,1,1,0,18, Tie: Office & Living room
+00057-1UnKg1rAb8A,0,0,0,0,0,0,3,0,1,0,0,36, Kitchen
+00057-1UnKg1rAb8A,1,1,0,0,0,0,0,0,0,0,0,16, Bathroom
+00057-1UnKg1rAb8A,2,0,0,0,0,1,0,1,0,0,0,20, Tie: Laundry room & Hall/stairwell
+00057-1UnKg1rAb8A,3,0,11,0,0,0,0,0,1,0,0,21, Bedroom
+00057-1UnKg1rAb8A,4,0,13,0,0,0,0,0,0,0,0,20, Bedroom
+00057-1UnKg1rAb8A,5,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00057-1UnKg1rAb8A,6,3,0,0,0,0,0,0,0,0,0,18, Bathroom
+00057-1UnKg1rAb8A,7,6,0,0,0,0,0,0,0,0,0,16, Bathroom
+00057-1UnKg1rAb8A,8,0,0,0,0,0,0,0,0,1,0,33, Office
+00057-1UnKg1rAb8A,9,0,14,0,0,0,0,0,0,0,0,23, Bedroom
+00059-kJxT5qssH4H,0,6,0,0,0,0,0,0,0,0,0,12, Bathroom
+00059-kJxT5qssH4H,1,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00059-kJxT5qssH4H,2,1,10,0,0,0,0,0,2,0,0,27, Bedroom
+00059-kJxT5qssH4H,3,0,0,0,0,1,0,0,0,2,0,28, Office
+00059-kJxT5qssH4H,4,4,0,0,0,0,0,0,0,0,0,9, Bathroom
+00059-kJxT5qssH4H,5,0,10,0,0,0,0,0,1,2,0,21, Bedroom
+00059-kJxT5qssH4H,6,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00059-kJxT5qssH4H,7,4,0,0,0,0,0,0,0,0,0,14, Bathroom
+00062-ACZZiU6BXLz,0,0,13,0,0,0,0,0,0,0,0,16, Bedroom
+00062-ACZZiU6BXLz,1,1,0,0,0,0,0,0,0,0,0,9, Bathroom
+00062-ACZZiU6BXLz,2,11,0,0,0,0,0,0,0,0,0,11, Bathroom
+00062-ACZZiU6BXLz,3,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00062-ACZZiU6BXLz,4,0,13,0,0,0,0,0,0,0,0,15, Bedroom
+00062-ACZZiU6BXLz,5,0,11,0,0,0,0,0,0,0,0,14, Bedroom
+00062-ACZZiU6BXLz,6,5,0,0,0,0,0,0,0,0,0,12, Bathroom
+00062-ACZZiU6BXLz,7,0,0,0,0,2,0,0,0,0,0,11, Hall/stairwell
+00062-ACZZiU6BXLz,8,0,0,0,0,0,0,0,0,0,0,1, Unknown room
+00062-ACZZiU6BXLz,9,0,0,0,0,0,0,0,1,0,0,18, Living room
+00062-ACZZiU6BXLz,10,0,0,0,0,0,7,0,1,0,0,23, Kitchen
+00062-ACZZiU6BXLz,11,0,0,2,0,1,0,0,0,0,0,12, Dining room
+00062-ACZZiU6BXLz,12,0,12,0,0,0,0,0,0,0,0,14, Bedroom
+00062-ACZZiU6BXLz,13,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00062-ACZZiU6BXLz,14,7,0,0,0,0,0,1,0,0,0,15, Bathroom
+00064-gQgtJ9Stk5s,0,0,0,0,0,0,0,0,3,1,0,55, Living room
+00064-gQgtJ9Stk5s,1,0,0,0,0,0,0,0,0,0,0,33, Unknown room
+00064-gQgtJ9Stk5s,2,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00064-gQgtJ9Stk5s,3,0,1,0,0,0,0,0,0,2,0,26, Office
+00064-gQgtJ9Stk5s,4,0,0,0,0,1,9,0,0,0,0,26, Kitchen
+00064-gQgtJ9Stk5s,5,0,1,0,0,1,0,0,0,0,0,15, Tie: Bedroom & Hall/stairwell
+00064-gQgtJ9Stk5s,6,2,0,0,0,0,0,0,0,0,0,12, Bathroom
+00064-gQgtJ9Stk5s,7,0,0,0,0,0,4,0,0,0,0,15, Kitchen
+00064-gQgtJ9Stk5s,8,0,0,0,0,0,0,0,0,0,0,19, Unknown room
+00064-gQgtJ9Stk5s,9,0,13,0,0,1,0,0,0,0,0,16, Bedroom
+00064-gQgtJ9Stk5s,10,0,11,0,0,0,0,0,0,1,0,32, Bedroom
+00064-gQgtJ9Stk5s,11,4,0,0,0,0,0,0,0,0,0,12, Bathroom
+00064-gQgtJ9Stk5s,12,4,0,0,0,0,0,0,0,0,0,10, Bathroom
+00064-gQgtJ9Stk5s,13,0,11,0,0,0,0,0,0,2,0,23, Bedroom
+00064-gQgtJ9Stk5s,14,0,12,0,0,0,0,0,0,0,0,26, Bedroom
+00064-gQgtJ9Stk5s,15,8,0,0,0,0,0,0,0,0,0,10, Bathroom
+00064-gQgtJ9Stk5s,16,0,10,0,0,0,0,0,0,3,0,39, Bedroom
+00064-gQgtJ9Stk5s,17,4,0,0,0,0,0,0,0,0,0,23, Bathroom
+00064-gQgtJ9Stk5s,18,0,1,0,0,2,0,0,1,1,2,39, Tie: Hall/stairwell & Rec room
+00064-gQgtJ9Stk5s,19,0,0,0,0,1,0,0,0,1,2,31, Rec room
+00064-gQgtJ9Stk5s,20,0,11,0,0,1,0,0,0,1,0,42, Bedroom
+00081-5biL7VEkByM,0,0,12,0,0,0,0,0,1,1,0,21, Bedroom
+00081-5biL7VEkByM,1,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00081-5biL7VEkByM,2,5,0,0,0,0,0,0,0,0,0,12, Bathroom
+00081-5biL7VEkByM,3,0,11,0,0,0,0,0,0,1,0,30, Bedroom
+00081-5biL7VEkByM,5,0,1,0,0,1,0,0,1,0,0,36, Tie: Bedroom & Living room & Hall/stairwell
+00081-5biL7VEkByM,7,0,0,0,0,0,5,0,0,0,0,22, Kitchen
+00081-5biL7VEkByM,8,1,0,0,0,0,0,0,0,0,0,14, Bathroom
+00081-5biL7VEkByM,9,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00081-5biL7VEkByM,10,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00081-5biL7VEkByM,11,0,0,0,0,0,0,0,1,0,0,19, Living room
+00081-5biL7VEkByM,12,0,0,0,0,0,0,0,0,1,0,21, Office
+00081-5biL7VEkByM,13,0,12,0,0,0,0,0,0,0,0,15, Bedroom
+00081-5biL7VEkByM,14,7,0,0,0,0,0,0,0,0,0,18, Bathroom
+00081-5biL7VEkByM,15,7,0,0,0,0,0,0,0,1,0,34, Bathroom
+00081-5biL7VEkByM,17,0,0,0,0,1,0,0,0,0,0,14, Hall/stairwell
+00081-5biL7VEkByM,19,0,0,0,0,0,0,0,0,0,0,20, Unknown room
+00081-5biL7VEkByM,20,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00081-5biL7VEkByM,21,0,0,0,0,0,0,2,0,0,0,28, Laundry room
+00087-YY8rqV6L6rf,0,0,13,0,0,0,0,0,0,0,0,15, Bedroom
+00087-YY8rqV6L6rf,1,0,11,0,0,0,0,0,0,0,0,17, Bedroom
+00087-YY8rqV6L6rf,2,0,12,0,0,0,0,0,0,0,0,26, Bedroom
+00087-YY8rqV6L6rf,3,8,0,0,0,0,0,0,0,0,0,17, Bathroom
+00087-YY8rqV6L6rf,4,5,0,0,0,0,0,0,0,0,0,10, Bathroom
+00087-YY8rqV6L6rf,5,0,0,1,0,0,11,0,0,0,0,21, Kitchen
+00087-YY8rqV6L6rf,6,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00087-YY8rqV6L6rf,7,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00087-YY8rqV6L6rf,8,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00087-YY8rqV6L6rf,9,0,0,2,0,0,0,0,2,0,0,35, Tie: Dining room & Living room
+00087-YY8rqV6L6rf,10,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00087-YY8rqV6L6rf,11,0,0,0,2,0,0,2,0,0,0,59, Tie: Laundry room & Garage
+00096-6HRFAUDqpTb,1,3,0,0,0,0,0,0,0,0,0,13, Bathroom
+00096-6HRFAUDqpTb,2,0,11,0,0,0,0,0,0,0,0,19, Bedroom
+00096-6HRFAUDqpTb,3,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00096-6HRFAUDqpTb,4,0,10,0,0,0,0,0,0,0,0,17, Bedroom
+00096-6HRFAUDqpTb,5,0,10,0,0,0,0,0,0,4,0,16, Bedroom
+00096-6HRFAUDqpTb,6,3,0,0,0,0,0,0,0,0,0,8, Bathroom
+00096-6HRFAUDqpTb,7,0,0,2,0,3,7,0,1,0,0,42, Kitchen
+00096-6HRFAUDqpTb,8,0,0,0,0,0,0,0,1,0,1,25, Tie: Living room & Rec room
+00096-6HRFAUDqpTb,9,0,0,0,0,0,0,0,1,0,0,13, Living room
+00096-6HRFAUDqpTb,10,0,0,0,0,0,0,0,1,0,0,20, Living room
+00096-6HRFAUDqpTb,11,7,0,0,0,0,0,1,0,0,0,19, Bathroom
+00096-6HRFAUDqpTb,12,0,0,0,0,1,0,0,0,0,0,7, Hall/stairwell
+00096-6HRFAUDqpTb,13,0,0,0,0,0,0,0,0,0,3,31, Rec room
+00099-226REUyJh2K,0,4,0,0,0,0,0,0,0,0,0,14, Bathroom
+00099-226REUyJh2K,1,0,12,0,0,0,0,0,0,1,0,12, Bedroom
+00099-226REUyJh2K,2,0,0,0,0,0,0,0,1,0,0,28, Living room
+00099-226REUyJh2K,3,0,0,0,0,0,3,0,0,0,0,17, Kitchen
+00099-226REUyJh2K,4,0,1,0,0,0,0,0,0,0,0,7, Bedroom
+00099-226REUyJh2K,5,3,0,0,0,0,0,1,0,0,0,11, Bathroom
+00099-226REUyJh2K,6,0,11,0,0,0,0,0,0,0,0,18, Bedroom
+00099-226REUyJh2K,7,0,12,0,0,0,0,0,0,0,0,14, Bedroom
+00099-226REUyJh2K,8,5,0,0,0,0,0,0,0,0,0,15, Bathroom
+00099-226REUyJh2K,9,5,0,0,0,0,0,0,0,0,0,12, Bathroom
+00105-xWvSkKiWQpC,0,0,0,0,0,0,0,0,0,3,0,47, Office
+00105-xWvSkKiWQpC,1,0,0,0,0,0,1,0,2,2,0,55, Tie: Office & Living room
+00105-xWvSkKiWQpC,2,2,0,0,0,0,0,0,0,0,0,22, Bathroom
+00105-xWvSkKiWQpC,3,0,0,0,0,0,3,0,0,0,0,20, Kitchen
+00105-xWvSkKiWQpC,4,0,0,0,0,0,0,0,0,0,0,25, Unknown room
+00105-xWvSkKiWQpC,5,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00105-xWvSkKiWQpC,6,0,0,0,0,0,0,0,0,3,0,30, Office
+00105-xWvSkKiWQpC,7,0,0,0,0,0,5,0,0,0,0,11, Kitchen
+00105-xWvSkKiWQpC,8,0,0,0,0,0,0,0,0,2,0,10, Office
+00105-xWvSkKiWQpC,9,0,0,0,0,0,0,0,0,0,0,2, Unknown room
+00105-xWvSkKiWQpC,10,0,0,0,0,0,0,0,0,1,0,12, Office
+00105-xWvSkKiWQpC,11,0,0,0,0,0,0,0,0,2,0,8, Office
+00108-oStKKWkQ1id,0,0,0,0,0,0,0,0,1,0,0,20, Living room
+00108-oStKKWkQ1id,1,0,0,0,0,0,0,0,0,2,0,11, Office
+00108-oStKKWkQ1id,2,11,0,0,0,0,0,0,0,0,0,18, Bathroom
+00108-oStKKWkQ1id,3,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00108-oStKKWkQ1id,4,0,11,0,0,0,0,0,0,0,0,21, Bedroom
+00108-oStKKWkQ1id,5,7,0,0,0,0,0,0,0,0,0,14, Bathroom
+00108-oStKKWkQ1id,6,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00108-oStKKWkQ1id,7,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00108-oStKKWkQ1id,8,0,12,0,0,0,0,0,0,2,0,20, Bedroom
+00108-oStKKWkQ1id,9,0,12,0,0,0,0,0,0,2,0,19, Bedroom
+00108-oStKKWkQ1id,10,0,0,0,0,0,0,0,1,0,0,23, Living room
+00108-oStKKWkQ1id,11,2,0,0,0,0,0,0,0,0,0,7, Bathroom
+00108-oStKKWkQ1id,12,0,0,0,0,0,7,0,0,0,0,10, Kitchen
+00108-oStKKWkQ1id,13,0,0,0,0,0,0,0,0,0,0,2, Unknown room
+00109-GTV2Y73Sn5t,1,0,11,0,0,0,0,0,0,1,0,34, Bedroom
+00109-GTV2Y73Sn5t,2,0,11,0,0,0,0,0,0,0,1,16, Bedroom
+00109-GTV2Y73Sn5t,3,0,0,0,0,0,0,0,0,0,0,19, Unknown room
+00109-GTV2Y73Sn5t,4,0,1,0,0,0,0,0,0,0,0,23, Bedroom
+00109-GTV2Y73Sn5t,5,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00109-GTV2Y73Sn5t,6,7,0,0,0,0,0,1,0,0,0,25, Bathroom
+00109-GTV2Y73Sn5t,7,0,0,0,0,0,0,0,1,2,0,37, Office
+00109-GTV2Y73Sn5t,8,0,1,0,0,1,0,0,0,0,0,22, Tie: Bedroom & Hall/stairwell
+00109-GTV2Y73Sn5t,9,1,0,0,0,0,0,0,0,0,0,47, Bathroom
+00109-GTV2Y73Sn5t,10,8,0,0,0,0,0,0,0,0,0,24, Bathroom
+00109-GTV2Y73Sn5t,11,0,1,0,0,0,0,0,2,0,0,26, Living room
+00109-GTV2Y73Sn5t,12,0,0,0,0,0,2,0,1,0,0,40, Kitchen
+00135-HeSYRw7eMtG,0,5,0,0,0,0,0,0,0,0,0,31, Bathroom
+00135-HeSYRw7eMtG,1,0,0,0,0,0,0,0,0,2,0,23, Office
+00135-HeSYRw7eMtG,2,0,10,0,0,0,0,0,0,0,0,12, Bedroom
+00135-HeSYRw7eMtG,3,2,0,0,0,0,0,0,0,0,0,19, Bathroom
+00135-HeSYRw7eMtG,4,0,0,0,0,0,0,2,0,0,0,17, Laundry room
+00135-HeSYRw7eMtG,5,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00135-HeSYRw7eMtG,6,2,0,0,0,0,0,0,0,0,0,13, Bathroom
+00135-HeSYRw7eMtG,7,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00135-HeSYRw7eMtG,8,0,0,0,0,1,0,0,0,0,0,21, Hall/stairwell
+00135-HeSYRw7eMtG,9,0,0,0,0,0,0,0,0,2,0,20, Office
+00135-HeSYRw7eMtG,10,0,0,0,0,0,1,0,1,0,0,37, Tie: Kitchen & Living room
+00135-HeSYRw7eMtG,11,0,0,0,0,0,5,0,0,0,0,28, Kitchen
+00135-HeSYRw7eMtG,12,2,0,0,0,0,0,0,0,0,0,20, Bathroom
+00135-HeSYRw7eMtG,13,0,0,0,0,1,0,0,0,0,0,10, Hall/stairwell
+00135-HeSYRw7eMtG,14,2,0,0,0,0,0,0,0,0,0,10, Bathroom
+00135-HeSYRw7eMtG,15,0,0,0,0,0,0,0,0,0,0,20, Unknown room
+00135-HeSYRw7eMtG,16,0,11,0,0,0,0,0,0,0,0,32, Bedroom
+00141-iigzG1rtanx,1,0,0,0,0,1,0,0,0,0,0,17, Hall/stairwell
+00141-iigzG1rtanx,2,0,1,0,0,0,0,0,1,0,0,17, Tie: Bedroom & Living room
+00141-iigzG1rtanx,3,0,0,0,0,1,0,0,0,0,0,7, Hall/stairwell
+00141-iigzG1rtanx,4,0,11,0,0,0,0,0,0,0,0,14, Bedroom
+00141-iigzG1rtanx,5,11,0,0,0,0,0,0,0,0,0,12, Bathroom
+00141-iigzG1rtanx,6,0,10,0,0,0,0,0,0,1,0,13, Bedroom
+00141-iigzG1rtanx,7,0,11,0,0,0,0,0,0,0,0,15, Bedroom
+00141-iigzG1rtanx,8,0,10,0,0,0,0,0,1,0,0,13, Bedroom
+00141-iigzG1rtanx,9,13,0,0,0,0,0,0,0,0,0,11, Bathroom
+00141-iigzG1rtanx,10,0,0,0,0,2,0,0,0,0,0,9, Hall/stairwell
+00141-iigzG1rtanx,11,0,0,0,0,0,0,0,1,3,0,20, Office
+00141-iigzG1rtanx,12,0,0,0,0,0,7,0,2,0,0,27, Kitchen
+00141-iigzG1rtanx,13,5,0,0,0,0,0,0,0,0,0,9, Bathroom
+00141-iigzG1rtanx,14,0,0,2,0,0,0,0,0,0,0,14, Dining room
+00141-iigzG1rtanx,15,0,0,0,3,1,0,0,0,0,0,15, Garage
+00141-iigzG1rtanx,16,0,0,0,0,1,0,0,0,0,0,24, Hall/stairwell
+00143-5Kw4nGdqYtS,0,0,1,0,0,0,0,0,2,1,0,22, Living room
+00143-5Kw4nGdqYtS,1,0,0,0,0,0,2,1,0,0,0,19, Kitchen
+00143-5Kw4nGdqYtS,2,0,0,0,0,2,0,0,0,0,0,16, Hall/stairwell
+00143-5Kw4nGdqYtS,3,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00143-5Kw4nGdqYtS,4,11,0,0,0,0,0,0,0,0,0,13, Bathroom
+00143-5Kw4nGdqYtS,5,0,1,0,0,0,0,0,1,0,0,16, Tie: Bedroom & Living room
+00143-5Kw4nGdqYtS,6,0,0,0,0,2,0,0,0,0,0,6, Hall/stairwell
+00143-5Kw4nGdqYtS,7,0,0,0,0,0,6,0,0,0,0,20, Kitchen
+00143-5Kw4nGdqYtS,8,0,1,0,0,0,0,0,0,0,0,10, Bedroom
+00143-5Kw4nGdqYtS,9,0,0,0,0,0,0,0,2,0,0,38, Living room
+00143-5Kw4nGdqYtS,10,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00143-5Kw4nGdqYtS,11,0,11,0,0,0,0,0,0,0,0,15, Bedroom
+00143-5Kw4nGdqYtS,12,9,0,0,0,0,0,0,0,0,0,11, Bathroom
+00143-5Kw4nGdqYtS,13,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00143-5Kw4nGdqYtS,14,0,13,0,0,0,0,0,0,0,0,13, Bedroom
+00143-5Kw4nGdqYtS,15,0,13,0,0,0,0,0,0,0,0,15, Bedroom
+00143-5Kw4nGdqYtS,16,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00143-5Kw4nGdqYtS,17,1,0,0,0,0,0,0,0,0,0,18, Bathroom
+00149-UuwwmrTsfBN,0,0,11,0,0,0,0,0,0,0,0,21, Bedroom
+00149-UuwwmrTsfBN,1,10,0,0,0,0,0,0,0,0,0,17, Bathroom
+00149-UuwwmrTsfBN,2,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00149-UuwwmrTsfBN,3,0,11,0,0,0,0,0,0,0,0,21, Bedroom
+00149-UuwwmrTsfBN,4,9,0,0,0,0,0,0,0,0,0,23, Bathroom
+00149-UuwwmrTsfBN,5,0,11,0,0,0,0,1,0,0,0,36, Bedroom
+00149-UuwwmrTsfBN,8,13,0,0,0,0,0,0,0,0,0,25, Bathroom
+00149-UuwwmrTsfBN,9,0,1,0,0,0,0,0,0,1,0,28, Tie: Bedroom & Office
+00149-UuwwmrTsfBN,10,0,0,0,0,1,0,0,1,0,0,21, Tie: Living room & Hall/stairwell
+00149-UuwwmrTsfBN,11,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00149-UuwwmrTsfBN,12,0,0,0,0,0,0,0,0,2,0,36, Office
+00149-UuwwmrTsfBN,13,0,0,0,0,0,0,0,0,0,0,19, Unknown room
+00149-UuwwmrTsfBN,14,9,0,0,0,0,0,0,0,0,0,17, Bathroom
+00149-UuwwmrTsfBN,15,0,0,0,0,0,2,0,0,0,0,11, Kitchen
+00149-UuwwmrTsfBN,16,0,0,0,0,0,7,0,0,0,0,23, Kitchen
+00149-UuwwmrTsfBN,17,0,0,0,0,0,0,0,2,0,0,32, Living room
+00149-UuwwmrTsfBN,19,0,0,0,0,1,0,0,0,0,0,9, Hall/stairwell
+00149-UuwwmrTsfBN,20,0,0,0,0,0,0,0,2,0,0,48, Living room
+00149-UuwwmrTsfBN,21,0,0,0,0,0,0,0,1,0,0,26, Living room
+00149-UuwwmrTsfBN,22,7,0,0,0,0,0,0,0,0,0,17, Bathroom
+00150-LcAd9dhvVwh,1,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00150-LcAd9dhvVwh,2,0,0,0,0,0,6,0,0,0,0,14, Kitchen
+00150-LcAd9dhvVwh,3,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00150-LcAd9dhvVwh,4,0,1,0,0,0,0,1,0,0,0,11, Tie: Laundry room & Bedroom
+00150-LcAd9dhvVwh,5,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00150-LcAd9dhvVwh,6,0,0,0,0,0,0,0,2,0,0,18, Living room
+00150-LcAd9dhvVwh,7,0,13,0,0,0,0,0,0,0,0,18, Bedroom
+00150-LcAd9dhvVwh,8,0,0,0,0,0,0,0,0,3,0,20, Office
+00150-LcAd9dhvVwh,9,0,12,0,0,0,0,0,0,0,0,11, Bedroom
+00150-LcAd9dhvVwh,10,6,0,0,0,0,0,0,0,0,0,11, Bathroom
+00150-LcAd9dhvVwh,11,8,0,0,0,0,0,0,0,0,0,12, Bathroom
+00150-LcAd9dhvVwh,12,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00150-LcAd9dhvVwh,13,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00150-LcAd9dhvVwh,14,0,0,0,0,0,0,0,2,0,0,25, Living room
+00150-LcAd9dhvVwh,15,0,12,0,0,0,0,0,1,0,0,17, Bedroom
+00150-LcAd9dhvVwh,16,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00150-LcAd9dhvVwh,17,0,11,0,0,0,0,0,0,0,0,16, Bedroom
+00150-LcAd9dhvVwh,18,0,13,0,0,0,0,0,0,0,0,16, Bedroom
+00150-LcAd9dhvVwh,19,6,0,0,0,0,0,0,0,0,0,16, Bathroom
+00150-LcAd9dhvVwh,20,8,1,0,0,0,0,0,0,0,0,12, Bathroom
+00150-LcAd9dhvVwh,21,0,0,0,0,1,0,0,0,0,0,6, Hall/stairwell
+00155-iLDo95ZbDJq,1,0,12,0,0,0,0,0,1,0,0,24, Bedroom
+00155-iLDo95ZbDJq,2,8,0,0,0,0,0,0,0,0,0,15, Bathroom
+00155-iLDo95ZbDJq,3,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00155-iLDo95ZbDJq,4,0,0,0,0,0,8,0,0,0,0,25, Kitchen
+00155-iLDo95ZbDJq,5,0,0,0,0,0,0,0,2,0,0,22, Living room
+00155-iLDo95ZbDJq,6,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00155-iLDo95ZbDJq,7,2,0,0,0,0,0,0,0,0,0,10, Bathroom
+00155-iLDo95ZbDJq,8,0,0,0,0,0,0,1,0,0,0,14, Laundry room
+00155-iLDo95ZbDJq,9,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00155-iLDo95ZbDJq,10,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00155-iLDo95ZbDJq,11,0,12,0,0,0,0,0,0,0,0,15, Bedroom
+00155-iLDo95ZbDJq,12,9,0,0,0,0,0,0,0,0,0,11, Bathroom
+00155-iLDo95ZbDJq,13,0,12,0,0,0,0,0,0,0,0,14, Bedroom
+00164-XfUxBGTFQQb,0,0,0,0,0,0,0,0,2,0,0,36, Living room
+00164-XfUxBGTFQQb,1,0,0,2,0,0,7,0,0,0,0,28, Kitchen
+00164-XfUxBGTFQQb,2,0,1,0,0,0,0,0,0,0,0,8, Bedroom
+00164-XfUxBGTFQQb,3,6,0,0,0,2,0,0,0,0,0,20, Bathroom
+00164-XfUxBGTFQQb,4,0,11,0,0,0,0,0,0,0,0,24, Bedroom
+00164-XfUxBGTFQQb,5,0,10,0,0,0,0,0,0,0,0,20, Bedroom
+00164-XfUxBGTFQQb,6,6,0,0,0,0,0,0,0,0,0,13, Bathroom
+00164-XfUxBGTFQQb,7,0,0,0,0,1,0,0,0,0,0,11, Hall/stairwell
+00166-RaYrxWt5pR1,0,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00166-RaYrxWt5pR1,1,0,0,0,0,0,5,0,0,0,0,25, Kitchen
+00166-RaYrxWt5pR1,2,0,0,0,0,0,0,1,0,0,0,11, Laundry room
+00166-RaYrxWt5pR1,3,3,0,0,0,0,0,0,0,0,0,17, Bathroom
+00166-RaYrxWt5pR1,4,0,3,0,0,0,0,0,0,0,0,14, Bedroom
+00166-RaYrxWt5pR1,5,0,0,0,0,0,0,0,2,0,0,20, Living room
+00166-RaYrxWt5pR1,6,0,11,0,0,0,0,0,0,1,0,12, Bedroom
+00166-RaYrxWt5pR1,7,2,0,0,0,0,0,0,0,0,0,17, Bathroom
+00168-bHKTDQFJxTw,1,2,0,0,0,0,0,0,0,0,0,13, Bathroom
+00168-bHKTDQFJxTw,2,0,0,0,0,2,0,0,0,0,0,24, Hall/stairwell
+00168-bHKTDQFJxTw,3,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00168-bHKTDQFJxTw,4,2,0,0,0,0,0,0,0,0,0,15, Bathroom
+00168-bHKTDQFJxTw,5,0,0,0,0,3,0,0,0,0,0,8, Hall/stairwell
+00168-bHKTDQFJxTw,6,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00168-bHKTDQFJxTw,7,0,0,0,0,2,0,0,0,0,0,17, Hall/stairwell
+00168-bHKTDQFJxTw,8,0,0,0,0,0,0,0,1,1,0,31, Tie: Office & Living room
+00168-bHKTDQFJxTw,9,0,0,0,0,1,1,0,1,1,0,34, Tie: Office & Kitchen & Living room & Hall/stairwell
+00172-bB6nKqfsb1z,0,0,0,0,0,0,0,0,0,1,0,11, Office
+00172-bB6nKqfsb1z,1,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00172-bB6nKqfsb1z,2,1,0,0,0,0,0,0,0,0,0,7, Bathroom
+00172-bB6nKqfsb1z,3,6,0,0,0,0,0,0,0,0,0,6, Bathroom
+00172-bB6nKqfsb1z,4,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00172-bB6nKqfsb1z,5,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00172-bB6nKqfsb1z,6,0,0,0,0,0,0,0,1,0,0,11, Living room
+00172-bB6nKqfsb1z,7,0,10,0,0,0,0,0,0,0,0,12, Bedroom
+00172-bB6nKqfsb1z,8,6,0,0,0,0,0,0,0,0,0,12, Bathroom
+00172-bB6nKqfsb1z,9,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00172-bB6nKqfsb1z,10,3,0,0,0,0,0,0,0,0,0,5, Bathroom
+00172-bB6nKqfsb1z,11,0,10,0,0,0,0,0,0,2,0,22, Bedroom
+00172-bB6nKqfsb1z,12,8,0,0,0,0,0,0,0,0,0,11, Bathroom
+00172-bB6nKqfsb1z,13,0,0,0,0,1,0,0,0,0,0,10, Hall/stairwell
+00172-bB6nKqfsb1z,14,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00172-bB6nKqfsb1z,15,0,0,2,0,0,0,0,0,0,0,7, Dining room
+00172-bB6nKqfsb1z,16,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00172-bB6nKqfsb1z,17,0,0,0,0,0,8,0,1,0,0,20, Kitchen
+00172-bB6nKqfsb1z,18,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00172-bB6nKqfsb1z,19,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00172-bB6nKqfsb1z,20,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00172-bB6nKqfsb1z,21,5,0,0,0,0,0,0,0,0,0,12, Bathroom
+00172-bB6nKqfsb1z,22,2,0,0,0,0,0,0,0,0,0,4, Bathroom
+00172-bB6nKqfsb1z,23,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00172-bB6nKqfsb1z,24,2,0,0,0,0,0,0,0,0,0,8, Bathroom
+00172-bB6nKqfsb1z,25,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00173-qZ4B7U6XE5Y,0,0,11,0,0,0,0,0,0,0,0,22, Bedroom
+00173-qZ4B7U6XE5Y,1,0,0,0,0,0,0,0,0,1,0,15, Office
+00173-qZ4B7U6XE5Y,2,4,0,0,0,0,0,0,0,0,0,13, Bathroom
+00173-qZ4B7U6XE5Y,3,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00173-qZ4B7U6XE5Y,4,0,0,0,0,0,0,0,0,1,0,27, Office
+00173-qZ4B7U6XE5Y,5,3,0,0,0,0,0,0,0,0,0,10, Bathroom
+00173-qZ4B7U6XE5Y,6,0,11,0,0,0,0,0,0,1,0,24, Bedroom
+00173-qZ4B7U6XE5Y,7,0,0,0,0,0,0,0,2,0,0,31, Living room
+00173-qZ4B7U6XE5Y,8,0,0,0,0,0,8,0,0,0,0,26, Kitchen
+00173-qZ4B7U6XE5Y,9,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00173-qZ4B7U6XE5Y,11,0,0,0,0,0,1,0,0,0,0,20, Kitchen
+00173-qZ4B7U6XE5Y,12,0,0,0,0,0,0,0,0,0,1,32, Rec room
+00173-qZ4B7U6XE5Y,13,3,0,0,0,0,0,0,0,0,0,19, Bathroom
+00173-qZ4B7U6XE5Y,14,0,0,0,0,0,4,0,2,0,0,32, Kitchen
+00173-qZ4B7U6XE5Y,15,0,0,0,0,1,0,0,0,0,0,17, Hall/stairwell
+00177-VSxVP19Cdyw,0,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00177-VSxVP19Cdyw,1,4,0,0,0,0,0,0,0,0,0,16, Bathroom
+00177-VSxVP19Cdyw,2,6,0,0,0,0,0,0,0,0,0,22, Bathroom
+00177-VSxVP19Cdyw,3,0,0,0,0,0,0,1,0,0,0,17, Laundry room
+00177-VSxVP19Cdyw,4,0,0,0,0,0,0,0,0,1,0,21, Office
+00177-VSxVP19Cdyw,5,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00177-VSxVP19Cdyw,6,0,0,1,0,0,0,0,2,0,0,23, Living room
+00177-VSxVP19Cdyw,7,5,0,0,0,0,0,0,0,0,0,21, Bathroom
+00177-VSxVP19Cdyw,8,0,11,0,0,0,0,0,0,0,0,19, Bedroom
+00177-VSxVP19Cdyw,9,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00177-VSxVP19Cdyw,10,0,0,0,0,0,6,0,0,1,0,19, Kitchen
+00179-MVVzj944atG,1,0,11,0,0,0,0,0,0,0,0,19, Bedroom
+00179-MVVzj944atG,2,1,0,0,0,2,0,0,0,0,0,14, Hall/stairwell
+00179-MVVzj944atG,3,6,0,0,0,0,0,0,0,0,0,14, Bathroom
+00179-MVVzj944atG,4,0,10,0,0,0,0,0,0,0,0,20, Bedroom
+00179-MVVzj944atG,5,0,11,0,0,0,0,0,0,2,0,20, Bedroom
+00179-MVVzj944atG,6,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00179-MVVzj944atG,7,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00179-MVVzj944atG,8,0,0,0,0,0,0,0,2,0,0,19, Living room
+00179-MVVzj944atG,9,0,0,2,0,0,3,0,1,0,0,36, Kitchen
+00188-dQrLTxHvLXU,1,0,11,0,0,0,0,0,0,0,0,11, Bedroom
+00188-dQrLTxHvLXU,2,7,0,0,0,0,0,0,0,0,0,14, Bathroom
+00188-dQrLTxHvLXU,3,6,0,0,0,0,0,0,0,0,0,17, Bathroom
+00188-dQrLTxHvLXU,4,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00188-dQrLTxHvLXU,5,0,11,0,0,0,0,0,0,0,0,12, Bedroom
+00188-dQrLTxHvLXU,6,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00188-dQrLTxHvLXU,7,0,0,0,0,2,0,0,0,0,0,3, Hall/stairwell
+00188-dQrLTxHvLXU,8,0,0,0,0,0,0,0,2,0,0,11, Living room
+00188-dQrLTxHvLXU,9,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00188-dQrLTxHvLXU,10,0,0,0,0,0,6,0,0,0,0,21, Kitchen
+00188-dQrLTxHvLXU,11,1,0,0,0,0,0,0,0,0,0,9, Bathroom
+00188-dQrLTxHvLXU,12,0,0,0,0,0,0,0,2,0,0,10, Living room
+00203-VoVGtfYrpuQ,0,0,11,0,0,0,0,0,0,0,0,16, Bedroom
+00203-VoVGtfYrpuQ,1,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00203-VoVGtfYrpuQ,2,2,0,0,0,0,0,0,0,0,0,12, Bathroom
+00203-VoVGtfYrpuQ,3,0,0,0,0,0,0,0,1,0,0,19, Living room
+00203-VoVGtfYrpuQ,4,1,0,0,0,0,0,0,0,0,0,4, Bathroom
+00203-VoVGtfYrpuQ,5,3,0,0,0,0,0,0,0,0,0,16, Bathroom
+00203-VoVGtfYrpuQ,6,0,10,0,0,0,0,0,0,1,0,18, Bedroom
+00203-VoVGtfYrpuQ,7,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00203-VoVGtfYrpuQ,8,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00203-VoVGtfYrpuQ,9,0,11,0,0,0,0,0,0,0,0,14, Bedroom
+00203-VoVGtfYrpuQ,10,0,11,0,0,0,0,0,0,0,0,14, Bedroom
+00203-VoVGtfYrpuQ,11,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00203-VoVGtfYrpuQ,12,0,0,0,0,1,0,0,0,0,0,9, Hall/stairwell
+00203-VoVGtfYrpuQ,13,1,0,0,0,0,0,0,0,0,0,11, Bathroom
+00203-VoVGtfYrpuQ,14,0,0,0,0,0,0,0,2,0,0,13, Living room
+00203-VoVGtfYrpuQ,15,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00203-VoVGtfYrpuQ,16,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00203-VoVGtfYrpuQ,17,0,0,0,0,0,4,0,2,0,0,35, Kitchen
+00203-VoVGtfYrpuQ,18,0,0,0,0,0,1,0,0,0,0,11, Kitchen
+00205-NEVASPhcrxR,0,0,0,0,0,0,0,0,0,0,0,25, Unknown room
+00205-NEVASPhcrxR,1,6,10,0,0,0,1,0,0,1,0,34, Bedroom
+00205-NEVASPhcrxR,2,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00205-NEVASPhcrxR,3,0,0,0,0,0,0,0,0,2,0,30, Office
+00205-NEVASPhcrxR,4,0,0,0,0,0,0,0,0,1,0,37, Office
+00205-NEVASPhcrxR,6,3,0,0,0,0,0,0,0,0,0,20, Bathroom
+00205-NEVASPhcrxR,7,4,0,0,0,0,0,0,0,0,0,8, Bathroom
+00205-NEVASPhcrxR,8,0,0,0,0,1,0,0,0,0,0,4, Hall/stairwell
+00205-NEVASPhcrxR,9,0,0,0,0,1,0,0,0,0,0,24, Hall/stairwell
+00205-NEVASPhcrxR,10,2,0,0,0,0,0,0,0,0,0,10, Bathroom
+00205-NEVASPhcrxR,11,3,0,0,0,0,0,0,0,0,0,4, Bathroom
+00205-NEVASPhcrxR,12,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00205-NEVASPhcrxR,13,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00205-NEVASPhcrxR,14,0,11,0,0,0,0,0,0,0,0,28, Bedroom
+00205-NEVASPhcrxR,15,0,11,0,0,0,0,0,0,0,0,16, Bedroom
+00205-NEVASPhcrxR,16,0,0,0,0,0,0,0,0,1,0,14, Office
+00205-NEVASPhcrxR,17,0,0,0,0,0,0,0,0,0,0,23, Unknown room
+00205-NEVASPhcrxR,18,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00205-NEVASPhcrxR,19,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00205-NEVASPhcrxR,20,0,0,0,0,0,0,0,0,1,0,30, Office
+00205-NEVASPhcrxR,21,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00205-NEVASPhcrxR,22,0,0,0,0,0,0,0,0,1,0,45, Office
+00205-NEVASPhcrxR,23,0,0,0,0,0,0,0,0,0,0,24, Unknown room
+00205-NEVASPhcrxR,24,3,0,0,0,0,0,0,0,0,0,25, Bathroom
+00205-NEVASPhcrxR,25,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00205-NEVASPhcrxR,26,0,0,0,0,0,0,0,0,0,0,3, Unknown room
+00205-NEVASPhcrxR,27,2,0,0,0,0,0,0,0,0,0,14, Bathroom
+00205-NEVASPhcrxR,28,1,0,0,0,0,0,0,0,0,0,13, Bathroom
+00205-NEVASPhcrxR,29,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00205-NEVASPhcrxR,30,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00205-NEVASPhcrxR,31,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00205-NEVASPhcrxR,32,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00207-FRQ75PjD278,0,0,10,0,0,0,0,0,0,0,0,27, Bedroom
+00207-FRQ75PjD278,1,0,0,0,0,1,0,0,0,0,0,6, Hall/stairwell
+00207-FRQ75PjD278,2,5,0,0,0,0,0,0,0,0,0,20, Bathroom
+00207-FRQ75PjD278,3,0,11,0,0,0,0,0,0,1,0,20, Bedroom
+00207-FRQ75PjD278,4,2,0,0,0,0,0,0,0,0,0,14, Bathroom
+00207-FRQ75PjD278,5,0,0,0,0,0,6,0,0,0,0,32, Kitchen
+00207-FRQ75PjD278,6,0,0,0,0,0,0,0,2,1,0,32, Living room
+00207-FRQ75PjD278,7,0,1,0,0,0,0,0,1,0,0,24, Tie: Bedroom & Living room
+00207-FRQ75PjD278,8,0,1,0,0,0,0,0,0,1,0,25, Tie: Bedroom & Office
+00207-FRQ75PjD278,9,0,1,0,0,0,1,0,0,0,1,14, Tie: Bedroom & Kitchen & Rec room
+00210-j2EJhFEQGCL,1,0,1,0,0,0,0,0,0,0,0,12, Bedroom
+00210-j2EJhFEQGCL,2,3,0,0,0,0,0,0,0,0,0,14, Bathroom
+00210-j2EJhFEQGCL,3,0,0,0,0,0,1,0,0,0,0,19, Kitchen
+00210-j2EJhFEQGCL,4,0,0,0,0,0,0,0,2,0,0,29, Living room
+00210-j2EJhFEQGCL,5,4,12,0,0,0,0,0,0,0,0,23, Bedroom
+00210-j2EJhFEQGCL,6,4,12,0,0,0,0,0,0,0,0,24, Bedroom
+00210-j2EJhFEQGCL,7,3,12,0,0,0,0,0,0,0,0,25, Bedroom
+00210-j2EJhFEQGCL,8,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00217-qz3829g1Lzf,0,0,0,0,0,0,0,0,0,0,0,1, Unknown room
+00217-qz3829g1Lzf,1,0,11,0,0,0,0,0,0,0,0,23, Bedroom
+00217-qz3829g1Lzf,2,0,11,0,0,0,0,0,0,0,0,26, Bedroom
+00217-qz3829g1Lzf,3,5,0,0,0,0,0,0,0,0,0,21, Bathroom
+00217-qz3829g1Lzf,4,3,0,0,0,0,0,0,0,0,0,18, Bathroom
+00217-qz3829g1Lzf,5,0,0,0,0,1,0,0,0,0,0,16, Hall/stairwell
+00217-qz3829g1Lzf,6,0,0,0,0,0,0,0,0,1,0,24, Office
+00217-qz3829g1Lzf,7,0,12,0,0,0,0,0,0,0,0,25, Bedroom
+00217-qz3829g1Lzf,8,0,0,0,0,0,0,0,0,0,0,21, Unknown room
+00217-qz3829g1Lzf,9,0,0,0,0,0,7,0,0,0,0,21, Kitchen
+00217-qz3829g1Lzf,10,4,0,0,0,0,0,0,0,0,0,26, Bathroom
+00217-qz3829g1Lzf,11,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00217-qz3829g1Lzf,12,0,2,0,0,0,0,0,3,3,0,51, Tie: Office & Living room
+00222-g8Xrdbe9fir,0,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00222-g8Xrdbe9fir,1,0,11,0,0,0,0,0,0,0,0,9, Bedroom
+00222-g8Xrdbe9fir,2,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00222-g8Xrdbe9fir,3,4,0,0,0,0,0,0,0,0,0,11, Bathroom
+00222-g8Xrdbe9fir,4,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00222-g8Xrdbe9fir,5,0,0,0,0,0,5,0,1,0,0,17, Kitchen
+00222-g8Xrdbe9fir,6,0,0,0,6,0,0,0,0,0,0,12, Garage
+00222-g8Xrdbe9fir,7,0,0,0,0,1,0,0,0,0,0,6, Hall/stairwell
+00222-g8Xrdbe9fir,8,5,0,0,0,0,0,0,0,0,0,9, Bathroom
+00222-g8Xrdbe9fir,9,0,0,0,0,0,0,0,0,0,0,3, Unknown room
+00222-g8Xrdbe9fir,10,0,11,0,0,0,0,0,1,0,0,9, Bedroom
+00234-nACV8wLu1u5,0,0,0,0,0,0,0,0,2,0,0,32, Living room
+00234-nACV8wLu1u5,1,0,11,0,0,0,0,0,0,0,0,9, Bedroom
+00234-nACV8wLu1u5,2,10,0,0,0,0,0,0,0,0,0,17, Bathroom
+00234-nACV8wLu1u5,3,0,11,0,0,0,0,0,0,0,0,19, Bedroom
+00234-nACV8wLu1u5,4,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00234-nACV8wLu1u5,5,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00234-nACV8wLu1u5,6,5,0,0,0,0,0,0,0,0,0,7, Bathroom
+00234-nACV8wLu1u5,7,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00234-nACV8wLu1u5,8,0,0,0,2,0,0,1,0,0,0,43, Garage
+00234-nACV8wLu1u5,9,0,0,0,0,0,5,0,0,0,0,20, Kitchen
+00234-nACV8wLu1u5,10,0,0,0,0,0,0,0,3,0,0,26, Living room
+00234-nACV8wLu1u5,11,3,0,0,0,0,0,0,0,0,0,17, Bathroom
+00234-nACV8wLu1u5,12,0,0,0,0,1,0,0,0,0,0,16, Hall/stairwell
+00234-nACV8wLu1u5,13,0,0,0,0,1,0,0,0,0,0,10, Hall/stairwell
+00238-j6fHrce9pHR,0,0,1,0,0,0,0,0,3,0,0,17, Living room
+00238-j6fHrce9pHR,1,0,0,2,0,0,0,0,0,0,0,13, Dining room
+00238-j6fHrce9pHR,2,0,11,0,0,0,0,0,0,2,0,13, Bedroom
+00238-j6fHrce9pHR,3,0,0,0,3,0,1,0,0,0,0,16, Garage
+00238-j6fHrce9pHR,4,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00238-j6fHrce9pHR,5,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00238-j6fHrce9pHR,6,2,0,0,0,0,0,0,0,0,0,18, Bathroom
+00238-j6fHrce9pHR,7,0,0,0,0,0,5,0,0,0,0,16, Kitchen
+00238-j6fHrce9pHR,8,0,0,0,0,0,0,0,2,0,0,16, Living room
+00238-j6fHrce9pHR,9,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00238-j6fHrce9pHR,10,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00238-j6fHrce9pHR,11,0,0,0,0,3,0,0,0,0,0,13, Hall/stairwell
+00238-j6fHrce9pHR,12,0,12,0,0,0,0,0,0,0,0,15, Bedroom
+00238-j6fHrce9pHR,13,4,0,0,0,0,0,0,0,0,0,14, Bathroom
+00238-j6fHrce9pHR,14,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00238-j6fHrce9pHR,15,0,12,0,0,0,0,0,0,0,0,12, Bedroom
+00238-j6fHrce9pHR,16,4,0,0,0,0,0,0,0,0,0,16, Bathroom
+00238-j6fHrce9pHR,17,0,0,0,0,0,0,0,1,3,0,21, Office
+00238-j6fHrce9pHR,18,0,11,0,0,0,0,0,1,0,0,19, Bedroom
+00238-j6fHrce9pHR,19,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00238-j6fHrce9pHR,20,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00238-j6fHrce9pHR,21,4,0,0,0,0,0,0,0,0,0,15, Bathroom
+00238-j6fHrce9pHR,22,2,0,0,0,0,0,0,0,0,0,14, Bathroom
+00241-h6nwVLpAKQz,0,0,0,0,0,1,0,0,0,0,0,7, Hall/stairwell
+00241-h6nwVLpAKQz,1,4,0,0,0,0,0,0,0,0,0,15, Bathroom
+00241-h6nwVLpAKQz,2,5,0,0,0,0,0,0,0,0,0,12, Bathroom
+00241-h6nwVLpAKQz,3,0,12,0,0,0,0,0,0,0,0,18, Bedroom
+00241-h6nwVLpAKQz,4,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00241-h6nwVLpAKQz,5,0,12,0,0,0,0,0,0,0,0,19, Bedroom
+00241-h6nwVLpAKQz,6,0,11,0,0,0,0,0,0,0,0,14, Bedroom
+00241-h6nwVLpAKQz,7,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00241-h6nwVLpAKQz,8,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00241-h6nwVLpAKQz,9,0,0,0,0,1,0,0,0,0,0,2, Hall/stairwell
+00241-h6nwVLpAKQz,10,2,0,0,0,0,0,0,0,0,0,14, Bathroom
+00241-h6nwVLpAKQz,11,0,0,0,0,0,4,0,0,0,0,17, Kitchen
+00241-h6nwVLpAKQz,12,0,0,0,0,0,0,0,1,0,0,22, Living room
+00241-h6nwVLpAKQz,13,0,0,0,0,1,0,0,0,0,0,15, Hall/stairwell
+00245-741Fdj7NLF9,0,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00245-741Fdj7NLF9,1,0,1,0,0,0,7,0,1,0,0,36, Kitchen
+00245-741Fdj7NLF9,2,8,0,0,0,0,0,0,0,0,0,20, Bathroom
+00245-741Fdj7NLF9,3,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00245-741Fdj7NLF9,4,0,11,0,0,0,0,0,0,0,0,16, Bedroom
+00245-741Fdj7NLF9,5,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00250-U3oQjwTuMX8,0,0,0,0,0,0,0,0,1,0,0,13, Living room
+00250-U3oQjwTuMX8,1,0,10,0,0,0,0,0,1,0,0,20, Bedroom
+00250-U3oQjwTuMX8,2,6,0,0,0,0,0,0,0,0,0,14, Bathroom
+00250-U3oQjwTuMX8,3,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00250-U3oQjwTuMX8,4,0,1,0,0,0,7,0,0,0,0,24, Kitchen
+00250-U3oQjwTuMX8,5,4,0,0,0,0,0,0,0,0,0,9, Bathroom
+00250-U3oQjwTuMX8,6,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00250-U3oQjwTuMX8,7,0,0,2,0,0,0,0,1,0,0,24, Dining room
+00250-U3oQjwTuMX8,8,0,0,0,0,0,1,0,1,0,0,16, Tie: Kitchen & Living room
+00250-U3oQjwTuMX8,9,0,10,0,0,0,0,0,0,0,0,7, Bedroom
+00250-U3oQjwTuMX8,10,0,11,0,0,0,0,0,0,3,0,21, Bedroom
+00250-U3oQjwTuMX8,11,0,1,0,0,0,0,0,0,0,0,9, Bedroom
+00250-U3oQjwTuMX8,12,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00250-U3oQjwTuMX8,13,6,0,0,0,0,0,0,0,0,0,14, Bathroom
+00250-U3oQjwTuMX8,14,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00250-U3oQjwTuMX8,15,9,0,0,0,0,0,0,0,0,0,10, Bathroom
+00250-U3oQjwTuMX8,16,0,1,0,0,0,0,0,0,0,0,7, Bedroom
+00250-U3oQjwTuMX8,17,0,10,0,0,0,0,0,1,0,0,24, Bedroom
+00250-U3oQjwTuMX8,18,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00251-wsAYBFtQaL7,0,0,0,0,4,0,0,0,0,0,0,29, Garage
+00251-wsAYBFtQaL7,1,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00251-wsAYBFtQaL7,2,0,1,0,0,0,0,0,0,0,0,18, Bedroom
+00251-wsAYBFtQaL7,3,0,0,0,0,0,8,0,0,0,0,17, Kitchen
+00251-wsAYBFtQaL7,4,0,0,2,0,0,0,0,0,0,0,10, Dining room
+00251-wsAYBFtQaL7,5,0,0,0,0,0,0,0,2,0,0,19, Living room
+00251-wsAYBFtQaL7,6,0,0,0,0,0,0,0,1,0,0,23, Living room
+00251-wsAYBFtQaL7,7,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00251-wsAYBFtQaL7,8,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00251-wsAYBFtQaL7,9,0,11,0,0,0,0,0,0,0,0,17, Bedroom
+00251-wsAYBFtQaL7,10,0,12,0,0,0,0,0,0,0,0,19, Bedroom
+00251-wsAYBFtQaL7,11,3,0,0,0,0,0,0,0,0,0,13, Bathroom
+00251-wsAYBFtQaL7,12,0,11,0,0,0,0,0,0,1,0,29, Bedroom
+00251-wsAYBFtQaL7,13,0,0,0,0,0,0,0,0,1,0,24, Office
+00251-wsAYBFtQaL7,14,1,0,0,0,0,0,0,0,0,0,13, Bathroom
+00251-wsAYBFtQaL7,15,5,0,0,0,0,0,0,0,0,0,16, Bathroom
+00254-YMNvYDhK8mB,0,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00254-YMNvYDhK8mB,1,0,0,0,0,0,0,0,0,2,0,11, Office
+00254-YMNvYDhK8mB,2,0,0,0,0,0,0,0,0,1,0,9, Office
+00254-YMNvYDhK8mB,3,0,0,0,0,0,0,0,0,3,0,18, Office
+00254-YMNvYDhK8mB,4,0,0,0,0,0,0,0,0,3,0,23, Office
+00254-YMNvYDhK8mB,5,0,0,0,0,0,0,0,0,3,0,20, Office
+00254-YMNvYDhK8mB,6,0,0,0,0,0,0,0,0,5,0,38, Office
+00254-YMNvYDhK8mB,7,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00254-YMNvYDhK8mB,8,2,0,0,0,0,0,0,0,0,0,14, Bathroom
+00254-YMNvYDhK8mB,9,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00254-YMNvYDhK8mB,10,0,0,0,0,0,0,0,0,1,0,12, Office
+00254-YMNvYDhK8mB,11,0,0,0,0,0,0,0,1,0,0,22, Living room
+00254-YMNvYDhK8mB,12,0,0,0,0,0,0,0,1,2,0,33, Office
+00254-YMNvYDhK8mB,13,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00255-NGyoyh91xXJ,0,0,0,0,0,0,0,0,2,0,0,17, Living room
+00255-NGyoyh91xXJ,1,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00255-NGyoyh91xXJ,2,0,0,1,0,0,0,0,0,0,0,11, Dining room
+00255-NGyoyh91xXJ,3,0,0,0,0,0,8,0,0,0,0,15, Kitchen
+00255-NGyoyh91xXJ,4,4,0,0,0,0,0,0,0,0,0,8, Bathroom
+00255-NGyoyh91xXJ,5,4,0,0,0,0,0,0,0,0,0,8, Bathroom
+00255-NGyoyh91xXJ,6,0,13,0,0,0,0,0,0,1,0,16, Bedroom
+00255-NGyoyh91xXJ,7,0,14,0,0,0,0,0,0,0,0,14, Bedroom
+00255-NGyoyh91xXJ,8,7,0,0,0,0,0,0,0,0,0,10, Bathroom
+00255-NGyoyh91xXJ,9,0,14,0,0,0,0,0,0,0,0,21, Bedroom
+00255-NGyoyh91xXJ,10,5,0,0,0,0,0,0,0,0,0,12, Bathroom
+00255-NGyoyh91xXJ,11,0,12,0,0,0,0,0,0,1,0,17, Bedroom
+00255-NGyoyh91xXJ,12,8,0,0,0,0,0,0,0,0,0,11, Bathroom
+00256-92vYG1q49FY,0,0,0,0,0,0,0,0,1,1,0,29, Tie: Office & Living room
+00256-92vYG1q49FY,1,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00256-92vYG1q49FY,2,1,0,0,0,0,0,0,0,0,0,13, Bathroom
+00256-92vYG1q49FY,3,3,0,0,0,0,0,0,0,0,0,16, Bathroom
+00256-92vYG1q49FY,4,0,12,0,0,0,0,0,1,0,0,26, Bedroom
+00256-92vYG1q49FY,5,0,0,0,0,0,0,0,0,1,1,10, Tie: Office & Rec room
+00256-92vYG1q49FY,6,0,1,0,0,0,0,0,2,0,0,36, Living room
+00256-92vYG1q49FY,7,0,13,0,0,0,0,0,0,0,0,24, Bedroom
+00256-92vYG1q49FY,8,0,0,0,0,0,6,1,0,0,0,28, Kitchen
+00256-92vYG1q49FY,9,0,0,0,0,0,0,0,2,0,0,25, Living room
+00256-92vYG1q49FY,10,0,0,0,0,1,0,0,0,0,0,26, Hall/stairwell
+00256-92vYG1q49FY,11,0,12,0,0,0,0,0,0,0,0,27, Bedroom
+00256-92vYG1q49FY,12,0,0,0,0,0,0,0,0,0,0,31, Unknown room
+00256-92vYG1q49FY,13,0,10,0,0,0,0,0,0,0,0,9, Bedroom
+00256-92vYG1q49FY,14,0,0,0,0,0,0,0,2,1,0,27, Living room
+00256-92vYG1q49FY,15,5,0,0,0,0,0,0,0,0,0,14, Bathroom
+00256-92vYG1q49FY,16,0,12,0,0,0,0,0,0,0,0,18, Bedroom
+00256-92vYG1q49FY,17,4,0,0,0,0,0,0,0,0,0,18, Bathroom
+00256-92vYG1q49FY,18,0,10,0,0,0,0,0,0,1,0,20, Bedroom
+00256-92vYG1q49FY,19,0,0,0,0,0,6,0,0,0,0,42, Kitchen
+00258-2Pc8W48bu21,1,0,10,0,0,0,0,0,0,0,0,23, Bedroom
+00258-2Pc8W48bu21,2,5,0,0,0,0,0,0,0,0,0,19, Bathroom
+00258-2Pc8W48bu21,3,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00258-2Pc8W48bu21,4,0,10,0,0,0,0,0,0,0,0,24, Bedroom
+00258-2Pc8W48bu21,5,0,0,0,0,0,0,0,1,0,0,18, Living room
+00258-2Pc8W48bu21,6,0,11,0,0,0,0,0,0,0,0,21, Bedroom
+00258-2Pc8W48bu21,7,5,0,0,0,0,0,0,0,0,0,13, Bathroom
+00258-2Pc8W48bu21,8,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00258-2Pc8W48bu21,9,0,10,0,0,0,0,0,0,0,0,22, Bedroom
+00258-2Pc8W48bu21,10,5,0,0,0,0,0,0,0,0,0,15, Bathroom
+00258-2Pc8W48bu21,11,0,0,0,0,0,0,0,2,0,1,21, Living room
+00258-2Pc8W48bu21,12,0,0,0,0,1,0,0,0,0,0,18, Hall/stairwell
+00258-2Pc8W48bu21,13,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00258-2Pc8W48bu21,14,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00258-2Pc8W48bu21,15,0,0,0,0,0,5,0,0,0,0,21, Kitchen
+00258-2Pc8W48bu21,16,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00258-2Pc8W48bu21,17,0,0,0,0,0,0,0,1,0,0,22, Living room
+00258-2Pc8W48bu21,18,0,10,0,0,0,0,0,0,0,0,23, Bedroom
+00258-2Pc8W48bu21,19,4,0,0,0,0,0,0,0,0,0,24, Bathroom
+00258-2Pc8W48bu21,20,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00258-2Pc8W48bu21,21,1,0,0,0,0,0,0,0,0,0,9, Bathroom
+00258-2Pc8W48bu21,22,0,0,0,0,0,0,1,0,0,0,19, Laundry room
+00258-2Pc8W48bu21,23,0,0,0,0,0,0,0,0,1,0,23, Office
+00258-2Pc8W48bu21,24,0,0,0,0,0,0,0,1,0,0,16, Living room
+00261-fK2vEV32Lag,1,0,10,0,0,0,0,0,0,0,0,18, Bedroom
+00261-fK2vEV32Lag,2,0,0,0,0,0,0,0,1,0,0,20, Living room
+00261-fK2vEV32Lag,3,0,0,0,0,0,0,0,0,2,0,20, Office
+00261-fK2vEV32Lag,4,2,0,0,0,0,0,1,0,0,0,12, Bathroom
+00261-fK2vEV32Lag,5,0,12,0,0,0,0,0,0,0,0,15, Bedroom
+00261-fK2vEV32Lag,6,0,0,0,0,0,0,0,0,1,0,24, Office
+00261-fK2vEV32Lag,7,0,0,0,0,0,4,0,0,0,0,22, Kitchen
+00261-fK2vEV32Lag,8,0,0,0,0,1,0,0,0,0,0,20, Hall/stairwell
+00261-fK2vEV32Lag,9,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00261-fK2vEV32Lag,10,2,0,0,0,0,0,0,0,0,0,16, Bathroom
+00262-1xGrZPxG1Hz,1,0,0,0,0,0,0,0,1,0,1,28, Tie: Living room & Rec room
+00262-1xGrZPxG1Hz,2,0,10,0,0,0,0,0,0,0,0,14, Bedroom
+00262-1xGrZPxG1Hz,3,6,0,0,0,0,0,0,0,0,0,17, Bathroom
+00262-1xGrZPxG1Hz,4,0,0,0,0,0,0,0,0,0,0,20, Unknown room
+00262-1xGrZPxG1Hz,5,0,0,0,0,2,6,0,0,0,0,20, Kitchen
+00262-1xGrZPxG1Hz,6,0,10,0,0,0,0,0,0,0,0,16, Bedroom
+00262-1xGrZPxG1Hz,7,0,0,0,0,0,1,0,0,0,0,16, Kitchen
+00262-1xGrZPxG1Hz,8,2,0,0,0,0,0,0,0,0,0,16, Bathroom
+00262-1xGrZPxG1Hz,9,1,0,0,0,0,0,1,0,0,0,21, Tie: Laundry room & Bathroom
+00263-GGBvSFddQgs,0,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00263-GGBvSFddQgs,1,0,0,0,0,1,4,0,1,0,0,27, Kitchen
+00263-GGBvSFddQgs,2,1,12,0,0,0,0,0,0,0,0,11, Bedroom
+00263-GGBvSFddQgs,3,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00263-GGBvSFddQgs,4,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00263-GGBvSFddQgs,5,1,0,0,0,0,0,1,0,0,0,11, Tie: Laundry room & Bathroom
+00263-GGBvSFddQgs,6,4,0,0,0,0,0,0,0,0,0,12, Bathroom
+00263-GGBvSFddQgs,7,0,0,0,0,1,0,0,0,0,0,7, Hall/stairwell
+00263-GGBvSFddQgs,8,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00263-GGBvSFddQgs,9,0,0,0,0,0,0,0,2,1,0,21, Living room
+00263-GGBvSFddQgs,10,0,0,0,0,0,5,0,0,0,0,28, Kitchen
+00263-GGBvSFddQgs,11,0,1,0,0,0,0,0,0,2,0,9, Office
+00263-GGBvSFddQgs,12,0,1,0,0,1,0,0,0,0,0,9, Tie: Bedroom & Hall/stairwell
+00263-GGBvSFddQgs,13,0,14,0,0,0,0,0,0,0,0,13, Bedroom
+00263-GGBvSFddQgs,14,0,13,0,0,0,0,0,0,0,0,16, Bedroom
+00263-GGBvSFddQgs,15,0,12,0,0,0,0,0,0,0,0,15, Bedroom
+00263-GGBvSFddQgs,16,5,0,0,0,0,0,0,0,0,0,13, Bathroom
+00263-GGBvSFddQgs,17,6,0,0,0,0,0,0,0,0,0,14, Bathroom
+00263-GGBvSFddQgs,18,0,11,0,0,0,0,0,0,0,0,13, Bedroom
+00267-gQ3xxshDiCz,0,0,11,0,0,0,0,0,0,0,0,21, Bedroom
+00267-gQ3xxshDiCz,1,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00267-gQ3xxshDiCz,2,0,0,0,0,0,0,0,0,0,0,23, Unknown room
+00267-gQ3xxshDiCz,3,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00267-gQ3xxshDiCz,4,0,0,0,0,0,0,0,1,0,0,19, Living room
+00267-gQ3xxshDiCz,5,0,0,0,0,0,0,0,0,2,0,23, Office
+00267-gQ3xxshDiCz,6,0,0,0,0,0,5,0,0,0,0,24, Kitchen
+00267-gQ3xxshDiCz,7,6,0,0,0,0,0,0,0,0,0,10, Bathroom
+00267-gQ3xxshDiCz,8,0,10,0,0,0,0,0,0,0,0,22, Bedroom
+00267-gQ3xxshDiCz,9,0,0,0,0,0,0,0,1,0,0,20, Living room
+00267-gQ3xxshDiCz,10,0,0,0,0,1,0,0,0,0,0,7, Hall/stairwell
+00267-gQ3xxshDiCz,11,0,0,0,0,1,0,0,0,0,0,6, Hall/stairwell
+00269-JNiWU5TZLtt,1,0,0,0,0,0,0,0,0,1,0,20, Office
+00269-JNiWU5TZLtt,2,0,0,0,0,0,0,0,0,0,0,19, Unknown room
+00269-JNiWU5TZLtt,3,0,0,0,0,0,0,0,0,0,0,20, Unknown room
+00269-JNiWU5TZLtt,4,0,0,0,0,0,0,0,0,0,0,22, Unknown room
+00269-JNiWU5TZLtt,5,0,0,0,0,0,0,0,0,0,0,21, Unknown room
+00269-JNiWU5TZLtt,6,0,0,0,0,0,0,0,0,0,0,21, Unknown room
+00269-JNiWU5TZLtt,7,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00269-JNiWU5TZLtt,8,0,0,0,0,0,0,0,1,0,0,30, Living room
+00269-JNiWU5TZLtt,9,0,0,0,0,0,0,0,0,0,0,24, Unknown room
+00269-JNiWU5TZLtt,10,0,0,0,0,0,0,0,0,1,0,35, Office
+00269-JNiWU5TZLtt,11,0,0,0,0,0,1,0,0,0,0,39, Kitchen
+00269-JNiWU5TZLtt,12,0,0,0,0,0,1,0,1,1,0,25, Tie: Office & Kitchen & Living room
+00272-kA2nG18hCAr,1,0,12,0,0,0,0,0,0,0,0,29, Bedroom
+00272-kA2nG18hCAr,2,4,0,0,0,0,0,0,0,0,0,18, Bathroom
+00272-kA2nG18hCAr,3,0,11,0,0,0,0,0,0,0,0,25, Bedroom
+00272-kA2nG18hCAr,4,0,1,0,0,0,0,0,0,2,0,27, Office
+00272-kA2nG18hCAr,5,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00272-kA2nG18hCAr,6,3,0,0,0,0,0,0,0,0,0,18, Bathroom
+00272-kA2nG18hCAr,7,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00272-kA2nG18hCAr,8,0,0,0,0,0,6,0,0,1,0,26, Kitchen
+00272-kA2nG18hCAr,9,0,0,0,3,2,0,0,0,0,0,42, Garage
+00272-kA2nG18hCAr,10,0,0,0,0,2,0,0,2,0,0,29, Tie: Living room & Hall/stairwell
+00272-kA2nG18hCAr,11,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00272-kA2nG18hCAr,12,0,0,0,0,0,1,0,0,0,0,11, Kitchen
+00272-kA2nG18hCAr,13,0,0,0,0,0,0,0,2,0,0,30, Living room
+00272-kA2nG18hCAr,14,3,0,0,0,0,0,0,0,0,0,16, Bathroom
+00272-kA2nG18hCAr,15,0,0,0,0,0,1,1,0,0,1,37, Tie: Laundry room & Kitchen & Rec room
+00294-PPTLa8SkUfo,0,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00294-PPTLa8SkUfo,1,0,0,0,0,2,0,0,0,0,0,13, Hall/stairwell
+00294-PPTLa8SkUfo,2,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00294-PPTLa8SkUfo,3,0,11,0,0,1,0,0,1,0,0,23, Bedroom
+00294-PPTLa8SkUfo,4,4,0,0,0,0,0,0,0,0,0,19, Bathroom
+00294-PPTLa8SkUfo,5,8,0,0,0,0,0,0,0,0,0,2, Bathroom
+00294-PPTLa8SkUfo,6,0,1,0,0,0,0,0,0,0,0,18, Bedroom
+00294-PPTLa8SkUfo,7,3,0,0,0,0,0,0,0,0,0,16, Bathroom
+00294-PPTLa8SkUfo,8,0,10,0,0,0,0,0,0,0,0,14, Bedroom
+00294-PPTLa8SkUfo,9,0,0,0,0,0,4,0,0,0,0,12, Kitchen
+00294-PPTLa8SkUfo,10,0,0,0,0,0,0,0,1,0,0,22, Living room
+00294-PPTLa8SkUfo,11,0,0,0,0,0,8,0,0,0,0,18, Kitchen
+00294-PPTLa8SkUfo,12,0,1,0,0,1,0,0,4,0,0,34, Living room
+00294-PPTLa8SkUfo,13,0,12,0,0,0,0,0,1,0,0,16, Bedroom
+00294-PPTLa8SkUfo,14,6,0,0,0,0,0,0,0,0,0,17, Bathroom
+00294-PPTLa8SkUfo,15,0,1,0,0,0,0,0,1,0,0,20, Tie: Bedroom & Living room
+00294-PPTLa8SkUfo,16,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00294-PPTLa8SkUfo,17,5,0,0,0,0,0,0,0,0,0,21, Bathroom
+00294-PPTLa8SkUfo,18,0,12,0,0,0,0,0,1,0,0,28, Bedroom
+00299-bdp1XNEdvmW,0,0,0,0,0,0,0,0,1,4,0,23, Office
+00299-bdp1XNEdvmW,1,0,0,2,0,0,9,0,1,0,0,46, Kitchen
+00299-bdp1XNEdvmW,2,0,11,0,0,0,0,0,0,2,0,25, Bedroom
+00299-bdp1XNEdvmW,3,8,0,0,0,0,0,0,0,0,0,13, Bathroom
+00299-bdp1XNEdvmW,4,0,10,0,0,0,0,0,0,0,0,18, Bedroom
+00299-bdp1XNEdvmW,5,8,0,0,0,0,0,0,0,0,0,10, Bathroom
+00299-bdp1XNEdvmW,6,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00304-X6Pct1msZv5,0,0,1,0,0,0,0,0,1,0,0,26, Tie: Bedroom & Living room
+00304-X6Pct1msZv5,1,0,1,0,0,0,1,0,0,0,0,11, Tie: Bedroom & Kitchen
+00304-X6Pct1msZv5,2,0,0,0,0,0,3,0,0,0,0,14, Kitchen
+00304-X6Pct1msZv5,3,0,1,0,0,0,0,0,0,1,0,24, Tie: Bedroom & Office
+00304-X6Pct1msZv5,4,0,11,0,0,0,0,0,0,1,0,23, Bedroom
+00304-X6Pct1msZv5,5,2,0,0,0,0,0,0,0,0,0,17, Bathroom
+00304-X6Pct1msZv5,6,0,1,0,0,0,0,0,0,0,0,9, Bedroom
+00304-X6Pct1msZv5,7,0,11,0,0,0,0,0,0,1,0,23, Bedroom
+00304-X6Pct1msZv5,8,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00304-X6Pct1msZv5,9,6,0,0,0,0,0,0,0,0,0,14, Bathroom
+00304-X6Pct1msZv5,10,0,12,0,0,0,0,0,0,0,0,18, Bedroom
+00307-vDfkYo5VqEQ,0,0,0,0,0,0,7,0,1,0,0,39, Kitchen
+00307-vDfkYo5VqEQ,1,0,0,0,0,2,0,0,0,0,0,10, Hall/stairwell
+00307-vDfkYo5VqEQ,2,0,0,0,0,2,0,0,0,3,0,16, Office
+00307-vDfkYo5VqEQ,3,0,0,0,0,0,0,0,1,0,0,20, Living room
+00307-vDfkYo5VqEQ,4,0,10,0,0,0,0,0,0,0,0,19, Bedroom
+00307-vDfkYo5VqEQ,5,3,0,0,0,0,0,0,0,0,0,12, Bathroom
+00307-vDfkYo5VqEQ,6,0,10,0,0,0,0,0,1,0,0,19, Bedroom
+00307-vDfkYo5VqEQ,7,4,0,0,0,0,0,0,0,0,0,20, Bathroom
+00307-vDfkYo5VqEQ,8,0,0,0,0,0,0,0,0,0,0,1, Unknown room
+00313-PE6kVEtrxtj,0,0,0,0,0,2,0,0,0,0,0,25, Hall/stairwell
+00313-PE6kVEtrxtj,1,0,1,0,0,0,1,1,0,0,0,37, Tie: Laundry room & Bedroom & Kitchen
+00313-PE6kVEtrxtj,2,10,0,0,0,0,0,0,0,0,0,28, Bathroom
+00313-PE6kVEtrxtj,3,0,0,0,0,0,9,0,0,0,0,45, Kitchen
+00313-PE6kVEtrxtj,4,0,0,2,0,0,0,0,0,0,0,16, Dining room
+00313-PE6kVEtrxtj,5,0,0,0,0,0,0,0,1,0,0,30, Living room
+00313-PE6kVEtrxtj,6,0,1,0,0,0,0,0,0,0,0,15, Bedroom
+00313-PE6kVEtrxtj,7,0,13,0,0,0,0,0,0,0,0,22, Bedroom
+00313-PE6kVEtrxtj,8,0,0,0,0,0,0,0,0,5,1,45, Office
+00313-PE6kVEtrxtj,9,12,0,0,0,0,0,0,0,0,0,38, Bathroom
+00313-PE6kVEtrxtj,10,0,10,0,0,0,0,0,1,0,0,19, Bedroom
+00323-yHLr6bvWsVm,0,0,0,2,0,0,0,0,2,0,0,23, Tie: Dining room & Living room
+00323-yHLr6bvWsVm,1,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00323-yHLr6bvWsVm,2,8,0,0,0,0,0,0,0,0,0,15, Bathroom
+00323-yHLr6bvWsVm,3,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00323-yHLr6bvWsVm,4,0,0,2,0,0,8,0,0,0,0,14, Kitchen
+00323-yHLr6bvWsVm,5,0,1,0,0,0,0,1,0,0,0,7, Tie: Laundry room & Bedroom
+00323-yHLr6bvWsVm,6,0,1,0,0,0,0,0,0,0,0,8, Bedroom
+00323-yHLr6bvWsVm,7,0,12,0,0,0,0,0,0,0,0,19, Bedroom
+00323-yHLr6bvWsVm,8,6,0,0,0,0,0,0,0,0,0,22, Bathroom
+00323-yHLr6bvWsVm,9,0,13,0,0,0,0,0,0,0,0,19, Bedroom
+00323-yHLr6bvWsVm,10,0,13,0,0,0,0,0,0,0,0,17, Bedroom
+00324-DoSbsoo4EAg,0,9,0,0,0,0,0,0,0,0,0,11, Bathroom
+00324-DoSbsoo4EAg,1,0,13,0,0,0,0,0,0,0,0,16, Bedroom
+00324-DoSbsoo4EAg,2,9,0,0,0,0,0,0,0,0,0,11, Bathroom
+00324-DoSbsoo4EAg,3,0,14,0,0,0,0,0,0,0,0,18, Bedroom
+00324-DoSbsoo4EAg,4,0,1,0,0,0,0,0,0,0,0,13, Bedroom
+00324-DoSbsoo4EAg,5,0,0,0,0,0,4,0,1,0,0,27, Kitchen
+00326-u9rPN5cHWBg,0,0,0,0,0,0,0,0,2,0,0,40, Living room
+00326-u9rPN5cHWBg,1,0,0,0,0,0,6,1,0,0,0,29, Kitchen
+00326-u9rPN5cHWBg,2,0,1,0,0,0,0,0,0,0,0,13, Bedroom
+00326-u9rPN5cHWBg,3,4,0,0,0,0,0,0,0,0,0,20, Bathroom
+00326-u9rPN5cHWBg,4,0,0,0,0,0,0,1,0,0,0,24, Laundry room
+00326-u9rPN5cHWBg,5,0,11,0,0,0,0,0,0,0,0,50, Bedroom
+00326-u9rPN5cHWBg,6,3,0,0,0,0,0,0,0,0,0,20, Bathroom
+00326-u9rPN5cHWBg,7,12,0,0,0,0,0,0,0,0,0,11, Bathroom
+00326-u9rPN5cHWBg,8,0,1,0,0,0,0,0,0,0,0,26, Bedroom
+00326-u9rPN5cHWBg,9,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00326-u9rPN5cHWBg,10,7,0,0,0,0,0,0,0,0,0,19, Bathroom
+00326-u9rPN5cHWBg,11,0,1,0,0,0,0,0,0,0,0,18, Bedroom
+00326-u9rPN5cHWBg,12,0,10,1,0,0,4,0,2,0,0,56, Bedroom
+00326-u9rPN5cHWBg,13,0,0,0,0,0,0,0,0,0,0,22, Unknown room
+00326-u9rPN5cHWBg,14,0,1,0,0,0,0,0,0,2,0,33, Office
+00326-u9rPN5cHWBg,15,0,0,0,0,3,0,0,0,0,0,20, Hall/stairwell
+00326-u9rPN5cHWBg,16,0,11,0,0,0,0,0,0,3,0,30, Bedroom
+00326-u9rPN5cHWBg,17,0,0,0,0,0,0,0,0,0,0,25, Unknown room
+00326-u9rPN5cHWBg,18,11,0,0,0,0,0,1,0,0,0,26, Bathroom
+00326-u9rPN5cHWBg,19,0,13,0,0,1,0,0,0,0,0,35, Bedroom
+00326-u9rPN5cHWBg,20,0,1,0,0,0,0,0,0,0,0,26, Bedroom
+00327-xgLmjqzoAzF,0,0,11,0,0,0,0,0,0,3,0,33, Bedroom
+00327-xgLmjqzoAzF,1,0,0,0,0,0,0,0,0,0,3,10, Rec room
+00327-xgLmjqzoAzF,2,0,0,0,0,0,0,0,0,0,1,11, Rec room
+00327-xgLmjqzoAzF,3,8,0,0,0,0,0,0,0,0,0,18, Bathroom
+00327-xgLmjqzoAzF,4,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00327-xgLmjqzoAzF,5,0,0,0,0,0,0,0,1,0,2,21, Rec room
+00327-xgLmjqzoAzF,6,0,0,0,0,0,0,0,2,0,0,38, Living room
+00327-xgLmjqzoAzF,7,0,1,0,0,0,0,0,0,5,0,21, Office
+00327-xgLmjqzoAzF,8,0,0,2,0,0,9,0,0,0,0,33, Kitchen
+00327-xgLmjqzoAzF,9,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00327-xgLmjqzoAzF,10,2,0,0,0,0,0,0,0,0,0,11, Bathroom
+00327-xgLmjqzoAzF,11,8,0,0,0,0,0,0,0,0,0,9, Bathroom
+00327-xgLmjqzoAzF,12,0,10,0,0,0,0,0,0,0,0,32, Bedroom
+00327-xgLmjqzoAzF,13,1,0,0,0,0,0,0,0,0,0,11, Bathroom
+00327-xgLmjqzoAzF,14,4,0,0,0,0,0,0,0,0,0,10, Bathroom
+00327-xgLmjqzoAzF,15,3,0,0,0,0,0,0,0,0,0,7, Bathroom
+00327-xgLmjqzoAzF,16,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00327-xgLmjqzoAzF,17,0,10,0,0,0,0,0,0,0,0,21, Bedroom
+00327-xgLmjqzoAzF,18,0,10,0,0,0,0,0,0,0,0,25, Bedroom
+00327-xgLmjqzoAzF,19,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00327-xgLmjqzoAzF,20,0,0,0,4,1,1,0,0,0,0,33, Garage
+00327-xgLmjqzoAzF,21,0,0,0,0,0,0,0,0,0,0,1, Unknown room
+00330-WhNyDTnd9g5,0,0,0,0,0,0,1,3,0,0,0,24, Laundry room
+00330-WhNyDTnd9g5,1,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00330-WhNyDTnd9g5,2,3,0,0,0,0,0,0,0,0,0,18, Bathroom
+00330-WhNyDTnd9g5,3,0,10,0,0,0,0,0,0,0,0,16, Bedroom
+00330-WhNyDTnd9g5,4,0,0,0,0,0,0,0,1,0,0,10, Living room
+00330-WhNyDTnd9g5,5,0,11,0,0,0,0,0,0,0,0,16, Bedroom
+00330-WhNyDTnd9g5,6,0,10,0,0,0,0,0,0,1,0,19, Bedroom
+00330-WhNyDTnd9g5,7,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00330-WhNyDTnd9g5,8,8,0,0,0,0,0,0,0,0,0,18, Bathroom
+00330-WhNyDTnd9g5,9,4,0,0,0,0,0,0,0,0,0,15, Bathroom
+00330-WhNyDTnd9g5,10,0,0,0,0,0,0,0,1,0,0,14, Living room
+00330-WhNyDTnd9g5,11,0,0,0,0,0,7,0,0,2,0,23, Kitchen
+00330-WhNyDTnd9g5,12,0,0,0,0,0,0,0,1,0,0,31, Living room
+00330-WhNyDTnd9g5,13,0,0,0,0,1,0,0,0,0,0,6, Hall/stairwell
+00330-WhNyDTnd9g5,14,0,0,0,0,1,0,0,0,0,0,7, Hall/stairwell
+00366-fxbzYAGkrtm,1,0,0,0,0,0,0,0,0,2,0,12, Office
+00366-fxbzYAGkrtm,2,0,0,0,0,2,0,0,1,0,0,15, Hall/stairwell
+00366-fxbzYAGkrtm,3,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00366-fxbzYAGkrtm,4,2,0,0,0,0,0,0,0,0,0,11, Bathroom
+00366-fxbzYAGkrtm,5,0,0,0,0,0,4,0,2,0,0,31, Kitchen
+00366-fxbzYAGkrtm,6,0,11,0,0,0,0,0,0,0,0,16, Bedroom
+00366-fxbzYAGkrtm,7,1,0,0,0,0,0,0,0,0,0,11, Bathroom
+00366-fxbzYAGkrtm,8,0,1,0,0,0,0,0,0,1,0,17, Tie: Bedroom & Office
+00366-fxbzYAGkrtm,9,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00366-fxbzYAGkrtm,10,0,10,0,0,0,0,0,1,0,0,13, Bedroom
+00366-fxbzYAGkrtm,11,3,0,0,0,0,0,0,0,0,0,11, Bathroom
+00366-fxbzYAGkrtm,12,0,10,0,0,0,0,0,0,1,0,14, Bedroom
+00366-fxbzYAGkrtm,13,1,0,0,0,0,0,0,0,0,0,11, Bathroom
+00366-fxbzYAGkrtm,14,0,11,0,0,0,0,0,0,0,0,9, Bedroom
+00378-DqJKU7YU7dA,0,0,11,0,0,0,0,0,0,1,0,32, Bedroom
+00378-DqJKU7YU7dA,1,0,0,0,0,0,0,0,2,0,0,34, Living room
+00378-DqJKU7YU7dA,2,11,0,0,0,0,0,0,0,0,0,23, Bathroom
+00378-DqJKU7YU7dA,3,0,0,0,0,1,0,0,2,0,0,42, Living room
+00378-DqJKU7YU7dA,4,0,0,0,0,0,0,0,0,0,0,23, Unknown room
+00378-DqJKU7YU7dA,5,0,0,0,0,0,4,0,0,0,0,21, Kitchen
+00378-DqJKU7YU7dA,6,0,0,0,0,0,0,0,2,1,0,30, Living room
+00378-DqJKU7YU7dA,7,0,0,0,0,0,0,0,0,4,0,31, Office
+00378-DqJKU7YU7dA,8,12,0,0,0,0,0,0,0,0,0,21, Bathroom
+00378-DqJKU7YU7dA,9,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00378-DqJKU7YU7dA,10,6,1,0,0,0,0,0,0,0,0,32, Bathroom
+00378-DqJKU7YU7dA,11,0,0,0,0,0,0,0,2,1,0,29, Living room
+00378-DqJKU7YU7dA,12,0,10,0,0,0,0,0,0,0,0,25, Bedroom
+00382-S7uMvxjBVZq,0,0,0,0,0,0,0,0,2,0,0,31, Living room
+00382-S7uMvxjBVZq,1,0,0,0,0,1,0,0,1,0,0,24, Tie: Living room & Hall/stairwell
+00382-S7uMvxjBVZq,2,0,0,0,0,0,0,0,0,0,0,24, Unknown room
+00382-S7uMvxjBVZq,3,0,0,0,0,0,6,0,0,0,0,17, Kitchen
+00382-S7uMvxjBVZq,4,0,0,0,0,0,1,0,0,0,0,22, Kitchen
+00382-S7uMvxjBVZq,5,9,0,0,0,0,0,0,0,0,0,14, Bathroom
+00382-S7uMvxjBVZq,6,0,11,0,0,0,0,0,0,1,0,16, Bedroom
+00382-S7uMvxjBVZq,7,0,11,0,0,0,0,0,0,3,0,26, Bedroom
+00382-S7uMvxjBVZq,8,9,0,0,0,0,1,0,0,0,0,17, Bathroom
+00382-S7uMvxjBVZq,9,0,11,0,0,0,0,0,0,1,0,35, Bedroom
+00382-S7uMvxjBVZq,10,0,11,0,0,0,0,0,0,3,0,25, Bedroom
+00382-S7uMvxjBVZq,11,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00382-S7uMvxjBVZq,12,0,0,0,0,1,0,0,0,0,0,9, Hall/stairwell
+00384-ceJTwFNjqCt,0,0,0,0,0,0,0,0,0,0,0,29, Unknown room
+00384-ceJTwFNjqCt,1,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00384-ceJTwFNjqCt,2,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00384-ceJTwFNjqCt,3,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00384-ceJTwFNjqCt,4,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00384-ceJTwFNjqCt,5,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00384-ceJTwFNjqCt,6,0,0,0,0,0,0,0,0,0,0,19, Unknown room
+00384-ceJTwFNjqCt,7,0,0,0,0,0,0,0,0,1,0,87, Office
+00386-b3WpMbPFB6q,0,0,12,0,0,0,0,0,0,1,0,25, Bedroom
+00386-b3WpMbPFB6q,1,0,0,0,0,0,0,0,0,1,0,19, Office
+00386-b3WpMbPFB6q,2,0,12,0,0,0,0,0,0,1,0,29, Bedroom
+00386-b3WpMbPFB6q,3,4,0,0,0,0,0,0,0,0,0,11, Bathroom
+00386-b3WpMbPFB6q,4,0,12,0,0,0,0,0,0,0,0,19, Bedroom
+00386-b3WpMbPFB6q,5,3,0,0,0,0,0,0,0,0,0,16, Bathroom
+00386-b3WpMbPFB6q,6,0,0,0,0,0,0,1,0,0,0,15, Laundry room
+00386-b3WpMbPFB6q,7,0,0,0,0,0,0,0,1,0,0,15, Living room
+00386-b3WpMbPFB6q,8,0,12,0,0,0,0,0,2,0,0,19, Bedroom
+00386-b3WpMbPFB6q,9,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00386-b3WpMbPFB6q,10,6,0,0,0,0,0,0,0,0,0,22, Bathroom
+00386-b3WpMbPFB6q,11,0,0,0,0,1,0,0,0,0,0,7, Hall/stairwell
+00386-b3WpMbPFB6q,12,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00386-b3WpMbPFB6q,13,0,0,0,0,0,0,0,0,1,0,20, Office
+00386-b3WpMbPFB6q,14,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00386-b3WpMbPFB6q,15,0,0,0,0,0,7,0,1,0,0,28, Kitchen
+00386-b3WpMbPFB6q,16,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00386-b3WpMbPFB6q,17,0,0,0,0,0,0,0,1,1,0,22, Tie: Office & Living room
+00386-b3WpMbPFB6q,18,8,0,0,0,0,0,0,0,0,0,27, Bathroom
+00388-pcpn6mFqFCg,0,0,1,0,0,0,0,0,1,0,0,28, Tie: Bedroom & Living room
+00388-pcpn6mFqFCg,1,0,10,0,0,0,0,0,1,1,0,32, Bedroom
+00388-pcpn6mFqFCg,2,0,12,0,0,0,0,0,0,1,0,41, Bedroom
+00388-pcpn6mFqFCg,3,5,0,0,0,0,0,0,0,0,0,22, Bathroom
+00388-pcpn6mFqFCg,4,0,12,0,0,0,0,0,0,1,0,24, Bedroom
+00388-pcpn6mFqFCg,5,0,0,0,0,1,0,0,0,0,0,24, Hall/stairwell
+00388-pcpn6mFqFCg,6,0,0,0,0,0,9,0,0,0,0,40, Kitchen
+00388-pcpn6mFqFCg,7,0,1,0,0,0,0,0,0,1,0,42, Tie: Bedroom & Office
+00388-pcpn6mFqFCg,8,0,0,0,0,0,0,0,3,0,0,46, Living room
+00397-ZNanfzgCdm3,0,0,0,0,0,0,8,0,0,0,0,32, Kitchen
+00397-ZNanfzgCdm3,1,14,0,0,0,0,0,0,0,0,0,32, Bathroom
+00397-ZNanfzgCdm3,2,0,0,0,0,1,0,0,0,0,0,12, Hall/stairwell
+00397-ZNanfzgCdm3,3,0,10,0,0,0,0,0,0,0,0,19, Bedroom
+00397-ZNanfzgCdm3,4,0,0,0,0,0,0,0,1,2,0,28, Office
+00397-ZNanfzgCdm3,6,0,0,0,0,2,0,0,0,0,0,11, Hall/stairwell
+00397-ZNanfzgCdm3,7,0,10,0,0,0,0,0,0,0,0,20, Bedroom
+00397-ZNanfzgCdm3,8,0,10,0,0,0,0,0,0,1,0,22, Bedroom
+00401-H8rQCnvBgo6,0,0,0,0,0,0,0,0,2,0,0,28, Living room
+00401-H8rQCnvBgo6,1,0,0,0,0,0,6,0,0,0,0,19, Kitchen
+00401-H8rQCnvBgo6,2,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00401-H8rQCnvBgo6,3,0,11,0,0,0,0,0,0,0,0,15, Bedroom
+00401-H8rQCnvBgo6,4,7,0,0,0,0,0,0,0,0,0,26, Bathroom
+00401-H8rQCnvBgo6,5,0,11,0,0,0,0,0,0,0,0,11, Bedroom
+00401-H8rQCnvBgo6,6,11,0,0,0,0,0,0,0,0,0,12, Bathroom
+00401-H8rQCnvBgo6,7,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00401-H8rQCnvBgo6,8,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00404-QN2dRqwd84J,1,7,0,0,0,0,0,0,0,0,0,15, Bathroom
+00404-QN2dRqwd84J,2,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00404-QN2dRqwd84J,3,0,14,0,0,0,0,0,0,0,0,24, Bedroom
+00404-QN2dRqwd84J,4,0,1,0,0,0,0,0,0,0,0,16, Bedroom
+00404-QN2dRqwd84J,5,3,1,0,0,0,0,0,0,0,0,15, Bathroom
+00404-QN2dRqwd84J,6,0,3,1,0,0,0,0,2,0,0,34, Bedroom
+00404-QN2dRqwd84J,7,0,0,0,0,0,5,0,0,0,0,14, Kitchen
+00404-QN2dRqwd84J,8,0,12,0,0,0,0,0,0,0,0,18, Bedroom
+00404-QN2dRqwd84J,9,0,2,0,0,0,0,0,0,0,0,8, Bedroom
+00404-QN2dRqwd84J,10,3,0,0,0,0,0,0,0,0,0,12, Bathroom
+00404-QN2dRqwd84J,11,0,0,0,0,0,0,0,1,0,0,11, Living room
+00407-NPHxDe6VeCc,1,0,1,0,0,0,0,0,2,0,0,33, Living room
+00407-NPHxDe6VeCc,2,0,0,0,0,1,0,0,0,0,0,16, Hall/stairwell
+00407-NPHxDe6VeCc,3,1,0,0,0,0,0,0,0,0,0,9, Bathroom
+00407-NPHxDe6VeCc,4,0,0,0,0,0,3,0,1,0,0,22, Kitchen
+00407-NPHxDe6VeCc,5,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00407-NPHxDe6VeCc,6,0,0,0,0,0,0,2,0,0,0,21, Laundry room
+00407-NPHxDe6VeCc,7,0,1,0,0,0,0,0,1,0,0,25, Tie: Bedroom & Living room
+00407-NPHxDe6VeCc,8,0,2,0,0,0,0,0,0,2,0,15, Tie: Bedroom & Office
+00407-NPHxDe6VeCc,9,0,0,0,0,0,0,0,1,0,0,27, Living room
+00407-NPHxDe6VeCc,10,0,10,0,0,0,0,0,0,0,0,19, Bedroom
+00407-NPHxDe6VeCc,11,0,12,0,0,0,0,0,0,0,0,19, Bedroom
+00407-NPHxDe6VeCc,12,7,0,0,0,0,0,0,0,0,0,17, Bathroom
+00407-NPHxDe6VeCc,13,4,0,0,0,0,0,0,0,0,0,20, Bathroom
+00407-NPHxDe6VeCc,14,0,0,0,0,0,0,0,1,1,1,24, Tie: Office & Living room & Rec room
+00407-NPHxDe6VeCc,15,0,11,0,0,0,0,0,0,0,0,17, Bedroom
+00407-NPHxDe6VeCc,16,4,0,0,0,0,0,0,0,0,0,12, Bathroom
+00407-NPHxDe6VeCc,17,0,0,0,0,3,0,0,0,0,0,13, Hall/stairwell
+00407-NPHxDe6VeCc,18,0,0,0,0,0,0,0,0,0,0,1, Unknown room
+00407-NPHxDe6VeCc,19,0,0,0,0,0,0,0,0,0,0,1, Unknown room
+00410-v7DzfFFEpsD,0,0,0,0,0,0,1,0,1,0,0,22, Tie: Kitchen & Living room
+00410-v7DzfFFEpsD,1,0,11,0,0,0,0,0,0,0,0,17, Bedroom
+00410-v7DzfFFEpsD,2,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00410-v7DzfFFEpsD,3,4,0,0,0,0,0,0,0,0,0,11, Bathroom
+00410-v7DzfFFEpsD,4,0,0,0,0,0,0,0,1,2,0,28, Office
+00410-v7DzfFFEpsD,5,0,0,0,0,0,0,0,0,0,0,24, Unknown room
+00410-v7DzfFFEpsD,6,0,0,0,0,0,0,0,0,0,0,19, Unknown room
+00410-v7DzfFFEpsD,7,3,0,0,0,0,0,0,0,0,0,7, Bathroom
+00410-v7DzfFFEpsD,8,10,0,0,0,0,0,0,0,0,0,18, Bathroom
+00410-v7DzfFFEpsD,9,0,12,0,0,0,0,0,1,0,0,24, Bedroom
+00410-v7DzfFFEpsD,10,0,0,0,0,0,0,1,0,0,0,18, Laundry room
+00410-v7DzfFFEpsD,11,0,0,0,0,1,0,0,0,0,0,12, Hall/stairwell
+00410-v7DzfFFEpsD,12,0,0,0,0,0,0,0,0,0,0,20, Unknown room
+00410-v7DzfFFEpsD,13,0,0,0,0,0,0,0,2,0,0,42, Living room
+00410-v7DzfFFEpsD,14,0,10,0,0,0,0,0,0,0,0,16, Bedroom
+00410-v7DzfFFEpsD,15,5,0,0,0,0,0,0,0,0,0,20, Bathroom
+00410-v7DzfFFEpsD,16,0,0,0,0,0,10,0,0,0,0,29, Kitchen
+00414-77mMEyxhs44,0,0,12,0,0,0,0,0,0,0,0,20, Bedroom
+00414-77mMEyxhs44,1,0,12,0,0,0,0,0,0,0,0,22, Bedroom
+00414-77mMEyxhs44,2,11,0,0,0,0,0,0,0,0,0,25, Bathroom
+00414-77mMEyxhs44,3,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00414-77mMEyxhs44,4,10,0,0,0,0,0,0,0,0,0,21, Bathroom
+00414-77mMEyxhs44,5,11,0,0,0,0,0,0,0,0,0,22, Bathroom
+00414-77mMEyxhs44,6,0,11,0,0,0,0,0,0,1,0,37, Bedroom
+00414-77mMEyxhs44,7,0,0,0,0,1,1,0,1,0,0,35, Tie: Kitchen & Living room & Hall/stairwell
+00414-77mMEyxhs44,8,0,0,0,0,0,0,0,0,2,0,33, Office
+00414-77mMEyxhs44,9,6,0,0,0,0,0,0,0,0,0,19, Bathroom
+00414-77mMEyxhs44,10,0,0,0,0,0,0,0,0,0,0,35, Unknown room
+00414-77mMEyxhs44,11,0,0,0,0,0,1,0,1,0,0,27, Tie: Kitchen & Living room
+00414-77mMEyxhs44,12,0,0,0,0,0,8,1,0,0,0,44, Kitchen
+00417-nGhNxKrgBPb,1,0,0,0,3,0,0,0,0,0,0,10, Garage
+00417-nGhNxKrgBPb,2,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00417-nGhNxKrgBPb,3,0,10,0,0,0,0,0,0,0,0,15, Bedroom
+00417-nGhNxKrgBPb,4,5,0,0,0,0,0,0,0,0,0,8, Bathroom
+00417-nGhNxKrgBPb,5,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00417-nGhNxKrgBPb,6,0,0,0,0,0,0,0,0,1,0,9, Office
+00417-nGhNxKrgBPb,7,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00417-nGhNxKrgBPb,8,0,0,0,0,0,0,0,1,0,0,17, Living room
+00417-nGhNxKrgBPb,9,0,0,2,0,0,7,0,2,0,0,27, Kitchen
+00417-nGhNxKrgBPb,10,0,0,0,0,0,1,0,0,0,0,10, Kitchen
+00417-nGhNxKrgBPb,11,0,0,0,0,0,0,0,2,0,0,14, Living room
+00417-nGhNxKrgBPb,12,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00417-nGhNxKrgBPb,13,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00417-nGhNxKrgBPb,14,0,12,0,0,0,0,0,0,0,0,12, Bedroom
+00417-nGhNxKrgBPb,15,0,11,0,0,0,0,0,0,0,0,11, Bedroom
+00417-nGhNxKrgBPb,16,1,0,0,0,0,2,0,0,0,0,7, Kitchen
+00417-nGhNxKrgBPb,17,5,0,0,0,0,0,0,0,0,0,8, Bathroom
+00417-nGhNxKrgBPb,18,0,11,0,0,0,0,0,0,0,0,10, Bedroom
+00422-8wJuSPJ9FXG,0,0,0,0,0,0,0,0,0,0,0,25, Unknown room
+00422-8wJuSPJ9FXG,1,0,0,2,0,0,0,0,1,0,0,35, Dining room
+00422-8wJuSPJ9FXG,2,0,0,0,0,0,9,0,0,0,0,20, Kitchen
+00422-8wJuSPJ9FXG,3,4,0,0,0,0,0,0,0,0,0,16, Bathroom
+00422-8wJuSPJ9FXG,4,0,1,0,0,0,0,0,0,0,0,7, Bedroom
+00422-8wJuSPJ9FXG,5,0,0,0,0,1,0,0,0,0,0,1, Hall/stairwell
+00422-8wJuSPJ9FXG,6,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00422-8wJuSPJ9FXG,7,0,0,0,0,2,0,0,0,0,0,2, Hall/stairwell
+00422-8wJuSPJ9FXG,8,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00422-8wJuSPJ9FXG,9,0,1,0,0,0,0,0,0,4,0,35, Office
+00422-8wJuSPJ9FXG,10,9,0,0,0,0,0,0,0,0,0,17, Bathroom
+00422-8wJuSPJ9FXG,11,0,13,0,0,0,0,0,0,0,0,19, Bedroom
+00422-8wJuSPJ9FXG,12,11,0,0,0,0,0,0,0,0,0,19, Bathroom
+00422-8wJuSPJ9FXG,13,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00434-L5QEsaVqwrY,0,0,12,0,0,0,0,0,1,0,0,17, Bedroom
+00434-L5QEsaVqwrY,1,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00434-L5QEsaVqwrY,2,0,0,0,0,0,0,0,0,2,0,21, Office
+00434-L5QEsaVqwrY,3,6,0,0,0,0,0,0,0,0,0,15, Bathroom
+00434-L5QEsaVqwrY,4,3,0,0,0,0,0,0,0,0,0,5, Bathroom
+00434-L5QEsaVqwrY,5,0,1,0,0,0,0,0,0,0,0,14, Bedroom
+00434-L5QEsaVqwrY,6,0,1,0,0,0,0,0,0,0,0,7, Bedroom
+00434-L5QEsaVqwrY,7,0,12,0,0,0,0,0,0,1,0,14, Bedroom
+00434-L5QEsaVqwrY,8,0,0,0,0,0,4,0,2,0,0,30, Kitchen
+00434-L5QEsaVqwrY,9,1,0,0,0,0,0,0,0,0,0,13, Bathroom
+00434-L5QEsaVqwrY,10,3,0,0,0,0,0,0,0,0,0,5, Bathroom
+00434-L5QEsaVqwrY,11,0,0,0,0,0,6,0,0,0,0,17, Kitchen
+00434-L5QEsaVqwrY,12,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00434-L5QEsaVqwrY,13,0,0,0,0,0,0,0,2,0,0,20, Living room
+00434-L5QEsaVqwrY,14,0,1,0,0,0,0,0,2,0,0,24, Living room
+00434-L5QEsaVqwrY,15,3,0,0,0,0,0,0,0,0,0,15, Bathroom
+00434-L5QEsaVqwrY,16,3,0,0,0,0,0,0,0,0,0,6, Bathroom
+00434-L5QEsaVqwrY,17,0,12,0,0,0,0,0,0,1,0,15, Bedroom
+00434-L5QEsaVqwrY,18,0,12,0,0,0,0,0,0,1,0,19, Bedroom
+00434-L5QEsaVqwrY,19,0,12,0,0,0,0,0,0,3,0,17, Bedroom
+00434-L5QEsaVqwrY,20,4,0,0,0,0,0,0,0,0,0,14, Bathroom
+00434-L5QEsaVqwrY,21,0,0,0,0,0,3,0,0,0,0,14, Kitchen
+00434-L5QEsaVqwrY,22,0,0,0,2,1,1,0,0,0,0,28, Garage
+00434-L5QEsaVqwrY,23,0,0,0,0,0,0,1,0,0,0,15, Laundry room
+00434-L5QEsaVqwrY,24,0,0,0,0,0,0,0,3,0,0,13, Living room
+00434-L5QEsaVqwrY,25,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00434-L5QEsaVqwrY,26,0,0,0,0,0,0,0,1,0,0,12, Living room
+00440-wPLokgvCnuk,0,0,0,0,0,0,4,0,3,0,0,27, Kitchen
+00440-wPLokgvCnuk,1,2,0,0,0,0,0,0,0,0,0,12, Bathroom
+00440-wPLokgvCnuk,2,0,0,0,0,1,0,0,0,0,0,10, Hall/stairwell
+00440-wPLokgvCnuk,3,0,10,0,0,0,0,0,0,0,0,16, Bedroom
+00440-wPLokgvCnuk,4,5,0,0,0,0,0,0,0,0,0,15, Bathroom
+00440-wPLokgvCnuk,5,4,11,0,0,0,0,0,1,0,0,31, Bedroom
+00444-sX9xad6ULKc,0,0,0,2,0,0,6,0,2,1,0,38, Kitchen
+00444-sX9xad6ULKc,1,0,0,2,0,0,0,0,2,0,0,23, Tie: Dining room & Living room
+00444-sX9xad6ULKc,2,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00444-sX9xad6ULKc,3,0,0,0,0,0,0,0,0,3,0,28, Office
+00444-sX9xad6ULKc,4,6,0,0,0,0,0,0,0,0,0,15, Bathroom
+00444-sX9xad6ULKc,5,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00444-sX9xad6ULKc,6,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00444-sX9xad6ULKc,7,4,0,0,0,0,0,0,0,0,0,12, Bathroom
+00444-sX9xad6ULKc,8,0,10,0,0,0,0,0,0,0,0,14, Bedroom
+00444-sX9xad6ULKc,9,0,10,0,0,0,0,0,0,0,0,13, Bedroom
+00444-sX9xad6ULKc,10,0,10,0,0,0,0,0,0,0,0,21, Bedroom
+00444-sX9xad6ULKc,11,5,0,0,0,0,0,0,0,0,0,18, Bathroom
+00463-URjpCob8MGw,1,0,1,0,0,0,0,2,0,0,0,20, Laundry room
+00463-URjpCob8MGw,2,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00463-URjpCob8MGw,3,0,11,0,0,0,0,0,0,0,0,8, Bedroom
+00463-URjpCob8MGw,4,9,0,0,0,0,0,0,0,0,0,12, Bathroom
+00463-URjpCob8MGw,5,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00463-URjpCob8MGw,6,0,12,0,0,0,0,0,0,0,0,9, Bedroom
+00463-URjpCob8MGw,7,0,11,0,0,0,0,0,1,1,0,12, Bedroom
+00463-URjpCob8MGw,8,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00463-URjpCob8MGw,9,8,0,0,0,0,0,0,0,0,0,12, Bathroom
+00463-URjpCob8MGw,10,0,1,0,0,0,0,0,0,2,0,14, Office
+00463-URjpCob8MGw,11,0,11,0,0,0,0,0,0,2,0,13, Bedroom
+00463-URjpCob8MGw,12,0,1,0,0,2,0,0,0,0,0,17, Hall/stairwell
+00463-URjpCob8MGw,13,0,0,0,0,2,0,0,0,0,0,20, Hall/stairwell
+00463-URjpCob8MGw,14,0,12,0,0,0,0,0,0,0,0,12, Bedroom
+00463-URjpCob8MGw,15,7,0,0,0,0,0,0,0,0,0,12, Bathroom
+00463-URjpCob8MGw,16,1,0,0,0,0,0,0,0,0,0,9, Bathroom
+00463-URjpCob8MGw,17,0,0,0,0,0,0,0,1,0,0,16, Living room
+00463-URjpCob8MGw,18,0,0,1,0,0,0,0,0,0,0,14, Dining room
+00463-URjpCob8MGw,19,0,0,0,0,0,2,0,0,0,0,24, Kitchen
+00463-URjpCob8MGw,20,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00463-URjpCob8MGw,21,0,1,0,0,0,0,0,0,0,0,7, Bedroom
+00463-URjpCob8MGw,22,0,0,0,0,0,0,0,0,0,0,3, Unknown room
+00466-xAHnY3QzFUN,0,0,0,0,0,0,0,0,1,0,0,16, Living room
+00466-xAHnY3QzFUN,1,0,0,0,0,0,5,0,1,0,0,39, Kitchen
+00466-xAHnY3QzFUN,2,0,11,0,0,0,0,0,0,0,0,14, Bedroom
+00466-xAHnY3QzFUN,3,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00466-xAHnY3QzFUN,5,0,0,0,0,0,0,0,0,0,0,25, Unknown room
+00466-xAHnY3QzFUN,7,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00466-xAHnY3QzFUN,9,0,0,0,0,0,0,0,0,1,0,11, Office
+00466-xAHnY3QzFUN,10,7,0,0,0,0,0,0,0,0,0,18, Bathroom
+00466-xAHnY3QzFUN,11,2,0,0,0,0,0,0,0,0,0,7, Bathroom
+00466-xAHnY3QzFUN,12,0,11,0,0,0,0,0,0,0,0,14, Bedroom
+00466-xAHnY3QzFUN,13,7,0,0,0,0,0,0,0,0,0,15, Bathroom
+00466-xAHnY3QzFUN,14,0,11,0,0,0,0,0,0,0,0,17, Bedroom
+00466-xAHnY3QzFUN,15,0,11,0,0,0,0,0,0,0,0,21, Bedroom
+00475-g7hUFVNac26,0,0,0,0,0,0,0,0,1,0,3,25, Rec room
+00475-g7hUFVNac26,1,0,0,0,0,0,0,0,0,2,0,17, Office
+00475-g7hUFVNac26,2,0,10,0,0,0,0,0,0,0,0,15, Bedroom
+00475-g7hUFVNac26,3,5,0,0,0,0,0,0,0,0,0,18, Bathroom
+00475-g7hUFVNac26,4,0,10,0,0,0,0,0,0,2,0,20, Bedroom
+00475-g7hUFVNac26,5,0,10,0,0,0,0,0,0,0,0,19, Bedroom
+00475-g7hUFVNac26,6,4,0,0,0,0,0,0,0,0,0,15, Bathroom
+00475-g7hUFVNac26,7,0,0,0,0,3,0,0,0,0,0,15, Hall/stairwell
+00475-g7hUFVNac26,8,0,0,2,0,0,0,0,0,0,0,17, Dining room
+00475-g7hUFVNac26,9,0,0,0,0,0,0,0,2,0,0,24, Living room
+00475-g7hUFVNac26,10,0,0,0,0,0,9,0,0,0,0,30, Kitchen
+00475-g7hUFVNac26,11,0,0,0,0,0,0,0,1,0,0,23, Living room
+00475-g7hUFVNac26,12,0,0,0,0,2,0,0,0,0,0,11, Hall/stairwell
+00475-g7hUFVNac26,13,0,0,0,0,0,1,0,0,0,0,16, Kitchen
+00475-g7hUFVNac26,14,5,0,0,0,0,0,0,0,0,0,16, Bathroom
+00475-g7hUFVNac26,15,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00475-g7hUFVNac26,16,0,10,0,0,0,0,0,0,0,0,27, Bedroom
+00475-g7hUFVNac26,17,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00475-g7hUFVNac26,18,5,0,0,0,0,0,0,0,0,0,19, Bathroom
+00475-g7hUFVNac26,19,2,0,0,0,0,0,0,0,0,0,10, Bathroom
+00475-g7hUFVNac26,20,0,0,0,0,0,0,0,0,0,0,21, Unknown room
+00475-g7hUFVNac26,21,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00475-g7hUFVNac26,22,0,0,0,0,3,0,0,1,2,2,32, Hall/stairwell
+00475-g7hUFVNac26,23,4,0,0,0,0,0,0,0,0,0,14, Bathroom
+00475-g7hUFVNac26,24,0,10,0,0,0,0,0,0,1,0,24, Bedroom
+00475-g7hUFVNac26,25,0,11,0,0,0,0,0,0,0,0,15, Bedroom
+00476-NtnvZSMK3en,1,0,12,0,0,0,0,0,0,0,0,23, Bedroom
+00476-NtnvZSMK3en,2,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00476-NtnvZSMK3en,3,0,0,0,0,0,0,0,2,0,0,19, Living room
+00476-NtnvZSMK3en,4,4,0,0,0,0,0,0,0,0,0,16, Bathroom
+00476-NtnvZSMK3en,5,0,13,0,0,0,0,0,0,2,1,21, Bedroom
+00476-NtnvZSMK3en,6,0,13,0,0,0,0,0,0,3,0,20, Bedroom
+00476-NtnvZSMK3en,7,0,0,0,0,3,0,0,0,0,0,11, Hall/stairwell
+00476-NtnvZSMK3en,8,0,12,0,0,0,0,0,0,0,0,13, Bedroom
+00476-NtnvZSMK3en,9,0,0,0,0,0,0,0,2,1,0,21, Living room
+00476-NtnvZSMK3en,10,0,0,2,0,0,1,0,0,1,0,17, Dining room
+00476-NtnvZSMK3en,11,0,0,0,0,0,5,0,0,0,0,16, Kitchen
+00476-NtnvZSMK3en,12,0,0,0,0,0,1,1,0,0,0,14, Tie: Laundry room & Kitchen
+00487-erXNfWVjqZ8,0,1,0,0,0,2,1,1,0,0,0,59, Hall/stairwell
+00487-erXNfWVjqZ8,1,0,0,0,0,0,0,0,1,0,0,23, Living room
+00487-erXNfWVjqZ8,2,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00487-erXNfWVjqZ8,3,0,2,0,0,0,0,0,2,0,0,27, Tie: Bedroom & Living room
+00487-erXNfWVjqZ8,4,0,1,1,0,0,0,0,0,0,0,16, Tie: Bedroom & Dining room
+00487-erXNfWVjqZ8,5,0,0,0,0,0,9,0,0,0,0,31, Kitchen
+00487-erXNfWVjqZ8,6,2,0,0,0,0,0,0,0,0,0,22, Bathroom
+00487-erXNfWVjqZ8,7,0,0,0,0,5,0,0,0,0,0,5, Hall/stairwell
+00487-erXNfWVjqZ8,8,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00487-erXNfWVjqZ8,9,0,0,0,0,0,0,0,0,0,0,20, Unknown room
+00487-erXNfWVjqZ8,10,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00487-erXNfWVjqZ8,11,0,13,0,0,0,0,0,0,0,0,15, Bedroom
+00487-erXNfWVjqZ8,12,0,0,0,0,0,0,0,0,1,0,14, Office
+00487-erXNfWVjqZ8,13,8,0,0,0,0,0,0,0,0,0,22, Bathroom
+00495-CQWES1bawee,0,0,0,0,2,0,0,0,0,0,0,32, Garage
+00495-CQWES1bawee,1,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00495-CQWES1bawee,2,0,0,0,0,0,0,0,0,0,0,27, Unknown room
+00495-CQWES1bawee,3,0,0,0,0,0,0,3,0,0,0,20, Laundry room
+00495-CQWES1bawee,4,3,0,0,0,0,0,0,0,0,0,18, Bathroom
+00495-CQWES1bawee,5,0,0,0,0,1,0,0,0,0,0,6, Hall/stairwell
+00495-CQWES1bawee,6,0,0,0,0,1,0,0,0,0,0,8, Hall/stairwell
+00495-CQWES1bawee,7,6,0,0,0,0,0,0,0,0,0,16, Bathroom
+00495-CQWES1bawee,8,0,1,0,0,0,0,0,0,0,0,20, Bedroom
+00495-CQWES1bawee,9,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00495-CQWES1bawee,10,0,0,0,0,1,0,0,2,0,0,44, Living room
+00495-CQWES1bawee,11,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00495-CQWES1bawee,12,0,0,0,0,0,10,0,0,0,0,43, Kitchen
+00495-CQWES1bawee,13,0,0,0,0,0,0,0,0,0,0,20, Unknown room
+00495-CQWES1bawee,14,0,0,0,0,2,0,0,0,0,0,6, Hall/stairwell
+00495-CQWES1bawee,15,0,1,0,0,0,0,0,0,0,0,13, Bedroom
+00495-CQWES1bawee,16,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00495-CQWES1bawee,17,13,0,0,0,0,0,0,0,0,0,16, Bathroom
+00495-CQWES1bawee,18,10,0,0,0,0,0,0,0,0,0,21, Bathroom
+00495-CQWES1bawee,19,0,12,0,0,0,0,0,0,2,0,28, Bedroom
+00495-CQWES1bawee,20,0,11,0,0,0,0,0,0,4,0,27, Bedroom
+00495-CQWES1bawee,21,0,11,0,0,0,0,0,0,4,0,28, Bedroom
+00495-CQWES1bawee,22,0,11,0,0,0,0,0,0,0,0,27, Bedroom
+00495-CQWES1bawee,23,0,1,0,0,0,0,0,1,2,0,28, Office
+00495-CQWES1bawee,24,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00495-CQWES1bawee,25,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00495-CQWES1bawee,26,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00506-QVAA6zecMHu,0,0,0,0,0,0,0,1,0,0,0,6, Laundry room
+00506-QVAA6zecMHu,1,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00506-QVAA6zecMHu,2,0,0,0,0,0,0,0,2,0,0,22, Living room
+00506-QVAA6zecMHu,3,0,10,0,0,0,0,0,0,0,0,17, Bedroom
+00506-QVAA6zecMHu,4,0,10,0,0,0,0,0,0,0,0,17, Bedroom
+00506-QVAA6zecMHu,5,0,0,0,0,0,4,0,0,0,0,14, Kitchen
+00506-QVAA6zecMHu,6,0,0,0,0,0,1,0,0,0,0,14, Kitchen
+00506-QVAA6zecMHu,7,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00506-QVAA6zecMHu,8,9,0,0,0,0,0,0,0,0,0,13, Bathroom
+00508-4vwGX7U38Ux,0,0,13,0,0,0,0,0,0,1,0,22, Bedroom
+00508-4vwGX7U38Ux,1,0,1,0,0,2,0,0,0,0,0,12, Hall/stairwell
+00508-4vwGX7U38Ux,2,0,12,0,0,0,0,0,0,0,0,12, Bedroom
+00508-4vwGX7U38Ux,3,5,0,0,0,0,0,0,0,0,0,15, Bathroom
+00508-4vwGX7U38Ux,4,0,1,0,0,0,0,0,0,0,0,7, Bedroom
+00508-4vwGX7U38Ux,5,6,0,0,0,0,0,0,0,0,0,16, Bathroom
+00508-4vwGX7U38Ux,6,0,1,0,0,0,2,0,1,0,0,41, Kitchen
+00508-4vwGX7U38Ux,7,0,1,0,0,0,0,0,1,1,0,21, Tie: Bedroom & Office & Living room
+00525-iKFn6fzyRqs,0,0,10,0,0,0,0,0,0,0,0,21, Bedroom
+00525-iKFn6fzyRqs,1,7,0,0,0,0,0,0,0,0,0,20, Bathroom
+00525-iKFn6fzyRqs,2,3,0,0,0,0,0,0,0,0,0,12, Bathroom
+00525-iKFn6fzyRqs,3,0,1,0,0,0,0,0,0,0,0,14, Bedroom
+00525-iKFn6fzyRqs,4,6,0,0,0,0,0,0,0,0,0,22, Bathroom
+00525-iKFn6fzyRqs,5,0,10,0,0,0,0,0,0,0,0,23, Bedroom
+00525-iKFn6fzyRqs,6,0,0,0,0,0,0,0,1,1,0,23, Tie: Office & Living room
+00525-iKFn6fzyRqs,7,0,0,0,0,0,0,1,0,0,0,24, Laundry room
+00525-iKFn6fzyRqs,8,0,11,0,0,0,0,0,0,0,0,22, Bedroom
+00525-iKFn6fzyRqs,9,0,0,0,0,0,4,0,1,0,0,38, Kitchen
+00525-iKFn6fzyRqs,10,0,0,0,0,0,0,0,1,0,0,15, Living room
+00525-iKFn6fzyRqs,11,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00525-iKFn6fzyRqs,12,3,0,0,0,0,0,0,0,0,0,23, Bathroom
+00525-iKFn6fzyRqs,13,0,0,0,0,1,0,0,0,0,0,17, Hall/stairwell
+00529-W9YAR9qcuvN,0,0,10,0,0,0,0,0,0,0,0,21, Bedroom
+00529-W9YAR9qcuvN,1,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00529-W9YAR9qcuvN,2,0,0,0,0,1,0,0,0,0,0,5, Hall/stairwell
+00529-W9YAR9qcuvN,3,0,11,0,0,0,0,0,0,0,0,17, Bedroom
+00529-W9YAR9qcuvN,4,3,0,0,0,0,0,0,0,0,0,14, Bathroom
+00529-W9YAR9qcuvN,5,3,0,0,0,0,0,0,0,0,0,16, Bathroom
+00529-W9YAR9qcuvN,6,0,10,0,0,0,0,0,0,0,0,11, Bedroom
+00529-W9YAR9qcuvN,7,0,0,0,0,0,1,1,1,0,0,25, Tie: Laundry room & Kitchen & Living room
+00529-W9YAR9qcuvN,8,0,0,0,0,0,4,1,0,0,0,14, Kitchen
+00529-W9YAR9qcuvN,9,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00529-W9YAR9qcuvN,10,2,0,0,0,0,0,0,0,0,0,19, Bathroom
+00534-DBBESbk4Y3k,0,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00534-DBBESbk4Y3k,1,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00534-DBBESbk4Y3k,2,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00534-DBBESbk4Y3k,3,4,0,0,0,0,0,0,0,0,0,7, Bathroom
+00534-DBBESbk4Y3k,4,0,0,0,0,2,0,0,0,0,0,3, Hall/stairwell
+00534-DBBESbk4Y3k,5,0,0,0,0,2,0,0,0,0,0,3, Hall/stairwell
+00534-DBBESbk4Y3k,6,0,0,0,0,2,0,0,0,0,0,13, Hall/stairwell
+00534-DBBESbk4Y3k,7,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00534-DBBESbk4Y3k,8,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00534-DBBESbk4Y3k,9,0,0,0,0,0,7,0,0,0,0,12, Kitchen
+00534-DBBESbk4Y3k,10,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00534-DBBESbk4Y3k,11,0,0,2,0,0,0,0,2,0,0,33, Tie: Dining room & Living room
+00534-DBBESbk4Y3k,12,3,0,0,0,0,0,0,0,0,0,6, Bathroom
+00534-DBBESbk4Y3k,13,0,0,0,0,0,0,2,0,0,0,11, Laundry room
+00534-DBBESbk4Y3k,14,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00534-DBBESbk4Y3k,15,4,0,0,0,0,0,0,0,0,0,12, Bathroom
+00534-DBBESbk4Y3k,16,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00534-DBBESbk4Y3k,17,0,12,0,0,0,0,0,0,0,0,10, Bedroom
+00534-DBBESbk4Y3k,18,0,13,0,0,0,0,0,0,0,0,8, Bedroom
+00534-DBBESbk4Y3k,19,0,12,0,0,0,0,0,0,0,0,20, Bedroom
+00534-DBBESbk4Y3k,20,8,0,0,0,0,0,0,0,0,0,10, Bathroom
+00534-DBBESbk4Y3k,21,1,0,0,0,0,0,0,0,0,0,3, Bathroom
+00534-DBBESbk4Y3k,22,1,0,0,0,0,0,0,0,0,0,2, Bathroom
+00537-oahi4u45xMf,0,0,0,0,0,0,0,0,1,0,0,26, Living room
+00537-oahi4u45xMf,1,0,0,0,0,2,10,0,0,0,0,31, Kitchen
+00537-oahi4u45xMf,2,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00537-oahi4u45xMf,3,0,0,0,0,0,0,0,1,0,0,11, Living room
+00537-oahi4u45xMf,4,0,0,0,0,2,0,0,0,0,0,8, Hall/stairwell
+00537-oahi4u45xMf,5,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00537-oahi4u45xMf,6,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00537-oahi4u45xMf,7,0,11,0,0,0,0,0,0,0,0,14, Bedroom
+00537-oahi4u45xMf,8,0,11,0,0,0,0,0,0,0,0,11, Bedroom
+00537-oahi4u45xMf,9,0,10,0,0,0,0,0,0,0,0,22, Bedroom
+00537-oahi4u45xMf,10,6,0,0,0,0,0,0,0,0,0,12, Bathroom
+00538-3CBBjsNkhqW,0,0,12,0,0,0,0,0,0,0,0,16, Bedroom
+00538-3CBBjsNkhqW,1,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00538-3CBBjsNkhqW,2,12,0,0,0,0,0,0,0,0,0,15, Bathroom
+00538-3CBBjsNkhqW,3,0,0,0,0,0,0,0,2,2,1,41, Tie: Office & Living room
+00538-3CBBjsNkhqW,4,0,10,0,0,0,0,0,0,0,0,12, Bedroom
+00538-3CBBjsNkhqW,5,0,0,0,0,0,0,0,0,0,1,32, Rec room
+00538-3CBBjsNkhqW,6,0,0,0,0,0,0,0,0,0,0,30, Unknown room
+00538-3CBBjsNkhqW,7,0,0,0,0,2,0,0,0,0,0,3, Hall/stairwell
+00538-3CBBjsNkhqW,8,0,0,0,0,1,0,0,1,0,0,21, Tie: Living room & Hall/stairwell
+00538-3CBBjsNkhqW,9,0,0,0,0,0,9,0,0,0,0,29, Kitchen
+00538-3CBBjsNkhqW,10,0,11,0,0,0,0,0,0,0,0,23, Bedroom
+00538-3CBBjsNkhqW,11,3,0,0,0,0,0,0,0,0,0,13, Bathroom
+00538-3CBBjsNkhqW,12,4,0,0,0,0,0,0,0,0,0,7, Bathroom
+00538-3CBBjsNkhqW,13,7,0,0,0,0,0,0,0,0,0,3, Bathroom
+00538-3CBBjsNkhqW,14,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00538-3CBBjsNkhqW,15,0,0,0,0,0,0,0,0,0,0,21, Unknown room
+00538-3CBBjsNkhqW,16,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00538-3CBBjsNkhqW,17,0,0,0,0,0,0,2,0,0,0,13, Laundry room
+00538-3CBBjsNkhqW,18,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00538-3CBBjsNkhqW,19,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00538-3CBBjsNkhqW,20,0,10,0,0,0,0,0,0,2,0,14, Bedroom
+00538-3CBBjsNkhqW,21,0,1,0,0,0,0,0,2,2,0,21, Tie: Office & Living room
+00538-3CBBjsNkhqW,22,13,0,0,0,0,0,0,0,0,0,12, Bathroom
+00539-zUG6FL9TYeR,1,0,10,0,0,0,0,0,0,0,0,13, Bedroom
+00539-zUG6FL9TYeR,2,7,0,0,0,0,0,0,0,0,0,14, Bathroom
+00539-zUG6FL9TYeR,3,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00539-zUG6FL9TYeR,4,0,0,0,0,2,0,0,2,0,0,19, Tie: Living room & Hall/stairwell
+00539-zUG6FL9TYeR,5,5,0,0,0,0,0,0,0,0,0,15, Bathroom
+00539-zUG6FL9TYeR,6,0,10,0,0,0,0,0,0,0,0,17, Bedroom
+00539-zUG6FL9TYeR,7,0,0,0,0,1,3,0,1,0,0,34, Kitchen
+00539-zUG6FL9TYeR,8,3,0,0,0,0,0,0,0,0,0,12, Bathroom
+00539-zUG6FL9TYeR,9,0,10,0,0,0,0,0,0,0,0,17, Bedroom
+00539-zUG6FL9TYeR,10,9,0,0,0,0,0,0,0,0,0,12, Bathroom
+00541-FnDDfrBZPhh,1,0,10,0,0,0,0,0,0,0,0,29, Bedroom
+00541-FnDDfrBZPhh,2,0,11,0,0,0,0,0,0,0,0,19, Bedroom
+00541-FnDDfrBZPhh,3,0,11,0,0,0,0,0,0,0,0,25, Bedroom
+00541-FnDDfrBZPhh,4,5,0,0,0,0,0,0,0,0,0,23, Bathroom
+00541-FnDDfrBZPhh,5,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00541-FnDDfrBZPhh,6,0,0,0,0,0,0,0,2,1,0,26, Living room
+00541-FnDDfrBZPhh,7,0,0,0,0,1,0,0,0,0,0,28, Hall/stairwell
+00541-FnDDfrBZPhh,8,0,0,0,0,0,4,0,0,1,0,54, Kitchen
+00541-FnDDfrBZPhh,9,0,10,0,0,0,0,0,0,0,0,10, Bedroom
+00541-FnDDfrBZPhh,10,7,0,0,0,0,0,0,0,0,0,11, Bathroom
+00541-FnDDfrBZPhh,11,0,0,0,0,0,0,0,0,0,0,27, Unknown room
+00541-FnDDfrBZPhh,12,0,0,0,0,1,0,1,0,0,0,67, Tie: Laundry room & Hall/stairwell
+00546-nS8T59Aw3sf,1,1,14,0,0,0,0,0,0,0,0,21, Bedroom
+00546-nS8T59Aw3sf,2,4,0,0,0,0,0,0,0,0,0,13, Bathroom
+00546-nS8T59Aw3sf,3,0,0,0,0,2,0,0,0,0,0,6, Hall/stairwell
+00546-nS8T59Aw3sf,4,1,13,0,0,0,0,0,0,2,0,23, Bedroom
+00546-nS8T59Aw3sf,5,0,14,0,0,0,0,0,0,1,0,25, Bedroom
+00546-nS8T59Aw3sf,6,0,11,0,0,0,0,0,0,0,0,15, Bedroom
+00546-nS8T59Aw3sf,7,5,0,0,0,0,0,0,0,0,0,15, Bathroom
+00546-nS8T59Aw3sf,8,0,1,0,0,0,0,0,2,0,0,26, Living room
+00546-nS8T59Aw3sf,9,0,1,1,0,0,0,0,0,0,0,18, Tie: Bedroom & Dining room
+00546-nS8T59Aw3sf,10,2,0,0,0,0,0,0,0,0,0,11, Bathroom
+00546-nS8T59Aw3sf,11,0,0,0,0,0,4,0,0,0,0,30, Kitchen
+00546-nS8T59Aw3sf,12,0,0,0,0,1,0,0,0,0,0,11, Hall/stairwell
+00546-nS8T59Aw3sf,13,0,1,0,0,2,0,0,0,0,0,15, Hall/stairwell
+00547-9h5JJxM6E5S,0,0,0,0,0,0,0,0,1,0,0,30, Living room
+00547-9h5JJxM6E5S,1,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00547-9h5JJxM6E5S,2,0,0,0,0,0,6,0,0,1,0,34, Kitchen
+00547-9h5JJxM6E5S,3,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00547-9h5JJxM6E5S,4,0,0,0,0,0,0,0,2,0,0,18, Living room
+00547-9h5JJxM6E5S,5,3,0,0,0,0,0,0,0,0,0,12, Bathroom
+00547-9h5JJxM6E5S,6,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00547-9h5JJxM6E5S,7,0,0,0,0,1,0,0,0,0,0,9, Hall/stairwell
+00547-9h5JJxM6E5S,8,0,1,0,0,0,0,0,0,0,0,20, Bedroom
+00547-9h5JJxM6E5S,9,1,0,0,0,0,2,0,0,0,0,12, Kitchen
+00547-9h5JJxM6E5S,10,7,0,0,0,0,0,0,0,0,0,9, Bathroom
+00547-9h5JJxM6E5S,11,5,0,0,0,0,0,0,0,0,0,13, Bathroom
+00547-9h5JJxM6E5S,12,0,11,0,0,0,0,0,0,0,0,23, Bedroom
+00547-9h5JJxM6E5S,13,0,11,0,0,0,0,0,0,1,0,29, Bedroom
+00547-9h5JJxM6E5S,14,0,11,0,0,0,0,0,0,0,0,15, Bedroom
+00547-9h5JJxM6E5S,15,0,1,0,0,0,0,0,0,0,0,7, Bedroom
+00557-fRZhp6vWGw7,1,0,12,0,0,0,0,0,0,0,0,19, Bedroom
+00557-fRZhp6vWGw7,2,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00557-fRZhp6vWGw7,3,10,0,0,0,0,0,0,0,0,0,19, Bathroom
+00557-fRZhp6vWGw7,4,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00557-fRZhp6vWGw7,5,0,12,0,0,0,0,0,0,0,0,20, Bedroom
+00557-fRZhp6vWGw7,6,0,0,0,0,0,0,0,0,0,0,3, Unknown room
+00557-fRZhp6vWGw7,7,0,12,0,0,0,0,0,0,0,0,21, Bedroom
+00557-fRZhp6vWGw7,8,6,0,0,0,0,0,0,0,0,0,13, Bathroom
+00557-fRZhp6vWGw7,9,0,0,0,0,0,0,0,0,0,0,3, Unknown room
+00557-fRZhp6vWGw7,10,0,13,0,0,0,0,0,1,0,0,18, Bedroom
+00557-fRZhp6vWGw7,11,0,0,0,0,0,0,0,0,0,0,3, Unknown room
+00557-fRZhp6vWGw7,12,0,0,0,0,2,0,0,0,0,0,11, Hall/stairwell
+00557-fRZhp6vWGw7,13,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00557-fRZhp6vWGw7,14,3,0,0,0,0,0,0,0,0,0,13, Bathroom
+00557-fRZhp6vWGw7,15,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00557-fRZhp6vWGw7,16,0,1,0,0,0,0,0,2,0,0,21, Living room
+00557-fRZhp6vWGw7,17,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00557-fRZhp6vWGw7,18,0,0,0,0,0,8,0,0,0,0,11, Kitchen
+00557-fRZhp6vWGw7,19,0,0,0,0,0,0,0,0,1,0,15, Office
+00557-fRZhp6vWGw7,20,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00557-fRZhp6vWGw7,21,0,0,0,0,0,0,0,2,0,0,23, Living room
+00560-gjhYih4upQ9,1,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00560-gjhYih4upQ9,2,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00560-gjhYih4upQ9,3,0,10,0,0,0,0,0,0,0,0,13, Bedroom
+00560-gjhYih4upQ9,4,0,0,0,0,1,0,0,0,0,0,17, Hall/stairwell
+00560-gjhYih4upQ9,5,0,0,0,0,0,3,0,0,0,0,14, Kitchen
+00560-gjhYih4upQ9,6,0,0,0,0,2,3,0,0,0,0,15, Kitchen
+00560-gjhYih4upQ9,7,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00560-gjhYih4upQ9,8,0,0,0,0,0,0,1,0,0,0,10, Laundry room
+00560-gjhYih4upQ9,9,0,1,0,0,0,0,0,0,0,0,14, Bedroom
+00560-gjhYih4upQ9,10,4,0,0,0,0,0,0,0,0,0,13, Bathroom
+00560-gjhYih4upQ9,11,0,11,0,0,0,0,0,0,0,0,17, Bedroom
+00560-gjhYih4upQ9,12,2,0,0,0,0,0,0,0,0,0,10, Bathroom
+00560-gjhYih4upQ9,13,4,0,0,0,0,0,0,0,0,0,14, Bathroom
+00567-KjZrPggnHm8,0,0,11,0,0,0,0,0,0,0,0,13, Bedroom
+00567-KjZrPggnHm8,1,7,0,0,0,0,0,0,0,0,0,15, Bathroom
+00567-KjZrPggnHm8,2,0,1,0,0,0,0,0,1,0,0,13, Tie: Bedroom & Living room
+00567-KjZrPggnHm8,3,0,1,0,0,0,0,0,1,3,0,14, Office
+00567-KjZrPggnHm8,4,0,10,0,0,0,0,0,0,0,0,14, Bedroom
+00567-KjZrPggnHm8,5,9,0,0,0,0,0,0,0,0,0,15, Bathroom
+00567-KjZrPggnHm8,6,0,1,0,0,0,0,0,0,0,0,11, Bedroom
+00567-KjZrPggnHm8,7,7,0,0,0,0,0,0,0,0,0,16, Bathroom
+00567-KjZrPggnHm8,8,0,1,0,0,0,0,0,0,0,0,7, Bedroom
+00567-KjZrPggnHm8,9,0,1,0,0,0,0,0,0,0,0,12, Bedroom
+00567-KjZrPggnHm8,10,0,0,0,0,0,0,0,1,0,0,27, Living room
+00567-KjZrPggnHm8,11,0,0,0,0,0,4,1,0,0,0,22, Kitchen
+00567-KjZrPggnHm8,12,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00567-KjZrPggnHm8,13,0,1,0,0,0,0,0,0,0,0,9, Bedroom
+00569-YJDUB7hWg9h,1,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00569-YJDUB7hWg9h,2,0,0,0,0,0,5,0,0,0,0,16, Kitchen
+00569-YJDUB7hWg9h,3,0,0,0,0,0,0,1,0,4,0,13, Office
+00569-YJDUB7hWg9h,4,6,0,0,0,0,0,0,0,0,0,12, Bathroom
+00569-YJDUB7hWg9h,5,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00569-YJDUB7hWg9h,6,0,12,0,0,0,0,0,0,0,0,21, Bedroom
+00569-YJDUB7hWg9h,7,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00569-YJDUB7hWg9h,8,0,12,0,0,0,0,0,0,0,0,12, Bedroom
+00569-YJDUB7hWg9h,9,0,0,0,0,0,1,0,0,4,0,16, Office
+00569-YJDUB7hWg9h,10,4,0,0,0,0,0,0,0,0,0,14, Bathroom
+00582-TYDavTf8oyy,0,0,0,0,0,0,0,0,0,2,0,16, Office
+00582-TYDavTf8oyy,1,0,1,0,0,0,0,0,0,0,1,6, Tie: Bedroom & Rec room
+00582-TYDavTf8oyy,2,0,0,0,3,1,0,0,0,0,1,32, Garage
+00582-TYDavTf8oyy,3,2,0,0,0,0,0,0,0,0,0,14, Bathroom
+00582-TYDavTf8oyy,4,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00582-TYDavTf8oyy,5,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00582-TYDavTf8oyy,6,0,0,0,0,0,0,0,0,0,1,19, Rec room
+00582-TYDavTf8oyy,7,0,0,0,0,3,1,0,0,0,2,11, Hall/stairwell
+00582-TYDavTf8oyy,8,5,0,0,0,0,0,0,0,0,0,8, Bathroom
+00582-TYDavTf8oyy,9,0,1,0,0,3,0,0,2,0,0,20, Hall/stairwell
+00582-TYDavTf8oyy,10,0,0,0,0,0,9,0,0,0,0,17, Kitchen
+00582-TYDavTf8oyy,11,0,0,2,0,0,0,0,0,0,0,17, Dining room
+00582-TYDavTf8oyy,12,0,13,0,0,0,0,0,0,0,0,18, Bedroom
+00582-TYDavTf8oyy,13,0,13,0,0,0,0,0,0,0,0,15, Bedroom
+00582-TYDavTf8oyy,14,0,13,0,0,0,0,0,0,0,0,13, Bedroom
+00582-TYDavTf8oyy,15,3,0,0,0,0,0,0,0,0,0,17, Bathroom
+00582-TYDavTf8oyy,16,3,0,0,0,0,0,0,0,0,0,13, Bathroom
+00582-TYDavTf8oyy,17,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00590-qgZhhx1MpTi,0,0,12,0,0,0,0,0,0,0,0,12, Bedroom
+00590-qgZhhx1MpTi,1,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00590-qgZhhx1MpTi,2,4,0,0,0,0,0,0,0,0,0,13, Bathroom
+00590-qgZhhx1MpTi,3,0,0,0,0,2,0,0,0,0,0,9, Hall/stairwell
+00590-qgZhhx1MpTi,4,3,0,0,0,0,0,0,0,0,0,10, Bathroom
+00590-qgZhhx1MpTi,5,0,13,0,0,0,0,0,0,1,0,12, Bedroom
+00590-qgZhhx1MpTi,6,0,1,0,0,0,0,0,0,0,0,10, Bedroom
+00590-qgZhhx1MpTi,7,0,0,0,0,0,0,0,1,0,0,10, Living room
+00590-qgZhhx1MpTi,8,0,1,0,0,0,0,0,1,0,0,22, Tie: Bedroom & Living room
+00590-qgZhhx1MpTi,9,0,0,0,0,0,3,1,0,0,0,21, Kitchen
+00590-qgZhhx1MpTi,10,0,1,0,0,0,0,0,0,0,0,9, Bedroom
+00590-qgZhhx1MpTi,11,3,0,0,0,0,0,0,0,0,0,14, Bathroom
+00590-qgZhhx1MpTi,12,1,0,0,1,0,1,0,0,0,0,25, Tie: Kitchen & Bathroom & Garage
+00591-JptJPosx1Z6,0,0,10,0,0,0,0,0,0,0,0,23, Bedroom
+00591-JptJPosx1Z6,1,4,0,0,0,0,0,0,0,0,0,13, Bathroom
+00591-JptJPosx1Z6,2,0,0,0,0,0,0,0,1,0,0,11, Living room
+00591-JptJPosx1Z6,4,0,0,0,0,0,4,0,0,0,0,14, Kitchen
+00591-JptJPosx1Z6,5,0,0,0,0,0,0,1,0,0,0,10, Laundry room
+00591-JptJPosx1Z6,6,0,0,0,0,0,0,0,0,1,0,11, Office
+00591-JptJPosx1Z6,7,0,1,0,0,0,0,0,0,0,0,18, Bedroom
+00591-JptJPosx1Z6,8,0,1,0,0,0,0,0,1,0,0,24, Tie: Bedroom & Living room
+00591-JptJPosx1Z6,9,2,0,0,0,0,0,0,0,0,0,19, Bathroom
+00591-JptJPosx1Z6,10,0,1,0,0,0,0,0,0,0,0,6, Bedroom
+00591-JptJPosx1Z6,11,0,10,0,0,0,0,0,0,3,0,20, Bedroom
+00591-JptJPosx1Z6,12,4,0,0,0,0,0,0,0,0,0,14, Bathroom
+00591-JptJPosx1Z6,13,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00591-JptJPosx1Z6,14,0,10,0,0,0,0,0,0,0,0,19, Bedroom
+00591-JptJPosx1Z6,15,4,0,0,0,0,0,0,0,0,0,14, Bathroom
+00591-JptJPosx1Z6,16,0,11,0,0,0,0,0,1,0,0,24, Bedroom
+00591-JptJPosx1Z6,17,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00591-JptJPosx1Z6,18,3,0,0,0,0,0,0,0,0,0,10, Bathroom
+00591-JptJPosx1Z6,19,4,1,0,0,0,0,0,0,0,0,6, Bathroom
+00591-JptJPosx1Z6,20,2,0,0,0,0,0,0,0,0,0,15, Bathroom
+00591-JptJPosx1Z6,21,3,0,0,0,0,0,0,0,0,0,23, Bathroom
+00591-JptJPosx1Z6,22,0,2,0,0,0,0,0,0,0,0,15, Bedroom
+00591-JptJPosx1Z6,23,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00592-CthA7sQNTPK,0,0,12,0,0,0,0,0,0,0,0,15, Bedroom
+00592-CthA7sQNTPK,1,4,0,0,0,0,0,0,0,0,0,7, Bathroom
+00592-CthA7sQNTPK,2,7,0,0,0,0,0,0,0,0,0,11, Bathroom
+00592-CthA7sQNTPK,3,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00592-CthA7sQNTPK,4,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00592-CthA7sQNTPK,5,0,0,0,0,0,0,0,0,0,0,3, Unknown room
+00592-CthA7sQNTPK,6,0,0,0,0,2,0,0,0,0,0,6, Hall/stairwell
+00592-CthA7sQNTPK,7,0,0,0,0,2,0,0,0,0,0,3, Hall/stairwell
+00592-CthA7sQNTPK,8,0,0,0,0,0,0,0,0,2,0,12, Office
+00592-CthA7sQNTPK,9,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00592-CthA7sQNTPK,10,8,0,0,0,0,0,0,0,0,0,13, Bathroom
+00592-CthA7sQNTPK,11,0,10,0,0,0,0,0,0,0,0,10, Bedroom
+00592-CthA7sQNTPK,12,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00592-CthA7sQNTPK,13,0,0,0,0,2,0,0,0,0,0,4, Hall/stairwell
+00592-CthA7sQNTPK,14,0,0,2,0,0,6,0,1,0,0,25, Kitchen
+00598-mt9H8KcxRKD,0,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00598-mt9H8KcxRKD,1,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00598-mt9H8KcxRKD,2,1,0,0,0,0,0,0,0,0,0,6, Bathroom
+00598-mt9H8KcxRKD,3,1,0,0,0,0,0,0,0,0,0,6, Bathroom
+00598-mt9H8KcxRKD,4,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00598-mt9H8KcxRKD,5,1,0,0,0,0,0,0,0,0,0,5, Bathroom
+00598-mt9H8KcxRKD,6,0,1,0,0,0,0,0,0,1,0,7, Tie: Bedroom & Office
+00598-mt9H8KcxRKD,7,0,1,0,0,0,0,0,0,1,0,9, Tie: Bedroom & Office
+00598-mt9H8KcxRKD,8,0,0,0,0,0,0,0,1,1,0,12, Tie: Office & Living room
+00598-mt9H8KcxRKD,9,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00598-mt9H8KcxRKD,10,0,0,0,0,0,0,0,0,1,0,8, Office
+00598-mt9H8KcxRKD,11,0,0,0,0,0,0,0,0,1,0,8, Office
+00598-mt9H8KcxRKD,12,0,0,0,0,0,0,0,0,1,0,8, Office
+00598-mt9H8KcxRKD,13,0,1,0,0,0,0,0,0,0,0,6, Bedroom
+00598-mt9H8KcxRKD,14,0,0,0,0,0,1,0,0,0,0,16, Kitchen
+00598-mt9H8KcxRKD,15,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00598-mt9H8KcxRKD,16,1,0,0,0,0,0,0,0,0,0,11, Bathroom
+00598-mt9H8KcxRKD,17,0,0,0,0,0,0,0,1,0,0,13, Living room
+00598-mt9H8KcxRKD,18,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00598-mt9H8KcxRKD,19,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00598-mt9H8KcxRKD,20,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00598-mt9H8KcxRKD,21,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00598-mt9H8KcxRKD,22,1,0,0,0,0,0,0,0,0,0,8, Bathroom
+00598-mt9H8KcxRKD,23,0,0,0,0,0,0,0,0,1,0,10, Office
+00598-mt9H8KcxRKD,24,0,0,0,0,0,0,0,0,1,0,10, Office
+00598-mt9H8KcxRKD,25,0,0,0,0,0,0,0,0,1,0,5, Office
+00598-mt9H8KcxRKD,26,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00598-mt9H8KcxRKD,27,0,0,0,0,0,0,0,1,1,0,12, Tie: Office & Living room
+00598-mt9H8KcxRKD,28,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00598-mt9H8KcxRKD,29,0,0,0,0,0,0,0,0,1,0,16, Office
+00606-W16Bm4ysK8v,0,6,0,0,0,0,0,0,0,0,0,24, Bathroom
+00606-W16Bm4ysK8v,1,0,0,0,0,1,0,0,0,0,0,14, Hall/stairwell
+00606-W16Bm4ysK8v,2,0,1,0,0,0,0,0,0,3,1,26, Office
+00606-W16Bm4ysK8v,3,6,0,0,0,0,0,0,0,0,0,24, Bathroom
+00606-W16Bm4ysK8v,4,0,12,0,0,0,0,0,0,0,0,28, Bedroom
+00606-W16Bm4ysK8v,5,0,0,0,4,0,1,1,0,0,0,53, Garage
+00606-W16Bm4ysK8v,6,3,0,0,0,0,0,0,0,0,0,32, Bathroom
+00606-W16Bm4ysK8v,7,0,0,0,0,0,3,0,0,0,0,33, Kitchen
+00606-W16Bm4ysK8v,8,0,12,0,0,0,0,0,0,1,0,29, Bedroom
+00606-W16Bm4ysK8v,9,0,0,0,0,1,0,0,2,0,0,30, Living room
+00606-W16Bm4ysK8v,10,0,0,0,0,0,0,0,0,0,0,20, Unknown room
+00612-GsQBY83r3hb,0,0,0,0,0,0,0,0,1,0,0,19, Living room
+00612-GsQBY83r3hb,1,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00612-GsQBY83r3hb,2,5,0,0,0,0,0,0,0,0,0,12, Bathroom
+00612-GsQBY83r3hb,3,0,10,0,0,0,0,0,1,2,0,26, Bedroom
+00612-GsQBY83r3hb,4,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00612-GsQBY83r3hb,5,7,0,0,0,0,0,0,0,0,0,13, Bathroom
+00612-GsQBY83r3hb,6,0,10,0,0,0,0,0,1,2,0,25, Bedroom
+00619-R9fYpvCUkV7,0,0,0,0,0,0,0,0,0,0,7,11, Rec room
+00619-R9fYpvCUkV7,1,0,0,0,0,0,0,0,0,0,1,22, Rec room
+00619-R9fYpvCUkV7,2,0,0,0,0,1,0,0,0,0,0,10, Hall/stairwell
+00619-R9fYpvCUkV7,3,0,0,0,0,0,0,0,1,0,1,18, Tie: Living room & Rec room
+00619-R9fYpvCUkV7,4,0,0,0,0,0,0,0,1,0,6,18, Rec room
+00619-R9fYpvCUkV7,5,0,0,0,0,0,1,0,0,1,0,25, Tie: Office & Kitchen
+00619-R9fYpvCUkV7,6,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00619-R9fYpvCUkV7,7,1,0,0,0,0,0,0,0,0,0,4, Bathroom
+00619-R9fYpvCUkV7,8,3,0,0,0,0,0,0,0,0,0,12, Bathroom
+00619-R9fYpvCUkV7,9,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00619-R9fYpvCUkV7,10,3,0,0,0,0,0,0,0,0,0,4, Bathroom
+00619-R9fYpvCUkV7,11,3,0,0,0,0,0,0,0,0,0,10, Bathroom
+00624-ooq3SnvC79d,0,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00624-ooq3SnvC79d,1,0,2,0,0,0,0,0,0,0,0,11, Bedroom
+00624-ooq3SnvC79d,2,6,0,0,0,0,0,0,0,0,0,18, Bathroom
+00624-ooq3SnvC79d,3,0,1,0,0,0,0,0,0,0,0,8, Bedroom
+00624-ooq3SnvC79d,4,2,0,0,0,0,0,0,0,0,0,21, Bathroom
+00624-ooq3SnvC79d,5,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00624-ooq3SnvC79d,6,0,11,0,0,0,0,0,0,0,0,16, Bedroom
+00624-ooq3SnvC79d,7,0,1,0,0,0,0,1,0,0,0,20, Tie: Laundry room & Bedroom
+00624-ooq3SnvC79d,8,0,0,0,0,0,0,0,0,4,0,27, Office
+00624-ooq3SnvC79d,9,0,1,0,0,0,3,0,0,0,0,28, Kitchen
+00624-ooq3SnvC79d,10,0,0,0,0,0,0,0,2,0,0,21, Living room
+00624-ooq3SnvC79d,11,0,1,0,0,0,5,0,0,0,0,24, Kitchen
+00624-ooq3SnvC79d,12,9,0,0,0,0,0,0,0,0,0,26, Bathroom
+00624-ooq3SnvC79d,13,0,1,0,0,0,0,0,0,0,0,12, Bedroom
+00624-ooq3SnvC79d,14,0,11,0,0,0,0,0,0,0,0,25, Bedroom
+00624-ooq3SnvC79d,15,0,0,0,0,0,0,0,2,0,0,24, Living room
+00626-XiJhRLvpKpX,0,0,0,0,0,0,0,0,0,0,1,12, Rec room
+00626-XiJhRLvpKpX,1,0,0,0,0,0,0,0,0,2,0,24, Office
+00626-XiJhRLvpKpX,2,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00626-XiJhRLvpKpX,3,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00626-XiJhRLvpKpX,4,0,0,0,0,0,0,0,1,0,0,44, Living room
+00626-XiJhRLvpKpX,5,0,0,0,0,0,0,0,2,1,0,23, Living room
+00626-XiJhRLvpKpX,6,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00626-XiJhRLvpKpX,7,0,0,0,0,0,2,0,0,0,0,21, Kitchen
+00626-XiJhRLvpKpX,8,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00626-XiJhRLvpKpX,9,0,0,0,0,2,0,0,0,0,0,20, Hall/stairwell
+00626-XiJhRLvpKpX,10,0,0,0,0,2,0,0,0,0,0,13, Hall/stairwell
+00626-XiJhRLvpKpX,11,0,0,0,0,0,0,0,2,1,0,14, Living room
+00626-XiJhRLvpKpX,12,0,0,0,0,0,0,0,1,0,0,13, Living room
+00626-XiJhRLvpKpX,13,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00626-XiJhRLvpKpX,14,1,0,0,0,0,0,0,0,0,0,7, Bathroom
+00626-XiJhRLvpKpX,15,0,0,0,0,0,0,0,0,0,3,14, Rec room
+00626-XiJhRLvpKpX,16,1,1,0,0,0,0,0,0,0,0,18, Tie: Bedroom & Bathroom
+00626-XiJhRLvpKpX,17,3,0,0,0,0,0,0,0,0,0,5, Bathroom
+00626-XiJhRLvpKpX,18,1,0,0,0,0,0,0,0,0,1,18, Tie: Bathroom & Rec room
+00626-XiJhRLvpKpX,19,2,0,0,0,0,0,0,0,0,0,7, Bathroom
+00626-XiJhRLvpKpX,20,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00626-XiJhRLvpKpX,21,3,0,0,0,0,0,0,0,0,0,12, Bathroom
+00626-XiJhRLvpKpX,22,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00626-XiJhRLvpKpX,23,4,0,0,0,0,0,0,0,0,0,19, Bathroom
+00626-XiJhRLvpKpX,24,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00626-XiJhRLvpKpX,25,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00626-XiJhRLvpKpX,26,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00626-XiJhRLvpKpX,27,0,0,0,0,0,0,0,1,0,0,13, Living room
+00638-iePHCSf119p,1,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00638-iePHCSf119p,2,0,0,0,0,0,0,0,0,0,0,23, Unknown room
+00638-iePHCSf119p,3,0,0,0,0,0,0,0,0,0,0,47, Unknown room
+00638-iePHCSf119p,4,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00638-iePHCSf119p,5,0,0,0,0,0,0,0,1,0,0,18, Living room
+00638-iePHCSf119p,6,0,0,0,0,0,3,0,0,0,0,40, Kitchen
+00643-ggNAcMh8JPT,0,0,0,2,0,3,9,0,2,0,0,37, Kitchen
+00643-ggNAcMh8JPT,1,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00643-ggNAcMh8JPT,2,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00643-ggNAcMh8JPT,3,2,0,0,0,0,0,0,0,0,0,14, Bathroom
+00643-ggNAcMh8JPT,4,8,0,0,0,0,0,0,0,0,0,15, Bathroom
+00643-ggNAcMh8JPT,5,0,11,0,0,0,0,0,0,0,0,22, Bedroom
+00643-ggNAcMh8JPT,6,0,11,0,0,0,0,0,0,0,0,17, Bedroom
+00643-ggNAcMh8JPT,7,3,0,0,0,0,0,0,0,0,0,16, Bathroom
+00643-ggNAcMh8JPT,8,0,10,0,0,0,0,0,0,3,3,29, Bedroom
+00643-ggNAcMh8JPT,9,0,0,0,0,1,0,0,0,0,0,7, Hall/stairwell
+00643-ggNAcMh8JPT,10,0,0,0,0,0,0,0,0,0,0,37, Unknown room
+00643-ggNAcMh8JPT,11,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00657-TSJmdttd2GV,0,0,11,0,0,0,0,0,0,0,0,24, Bedroom
+00657-TSJmdttd2GV,1,0,11,0,0,0,0,0,1,1,0,25, Bedroom
+00657-TSJmdttd2GV,2,0,11,0,0,0,0,0,0,1,0,26, Bedroom
+00657-TSJmdttd2GV,3,7,0,0,0,0,0,0,0,0,0,20, Bathroom
+00657-TSJmdttd2GV,4,0,11,0,0,0,0,0,1,0,0,19, Bedroom
+00657-TSJmdttd2GV,5,0,11,0,0,0,0,0,0,0,0,21, Bedroom
+00657-TSJmdttd2GV,6,6,0,0,0,0,0,0,0,0,0,19, Bathroom
+00657-TSJmdttd2GV,7,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00657-TSJmdttd2GV,8,0,0,0,0,0,0,0,0,0,0,34, Unknown room
+00657-TSJmdttd2GV,9,0,11,0,0,0,0,0,0,0,0,26, Bedroom
+00657-TSJmdttd2GV,10,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00657-TSJmdttd2GV,11,0,0,0,0,1,0,0,0,0,0,21, Hall/stairwell
+00657-TSJmdttd2GV,12,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00657-TSJmdttd2GV,13,5,0,0,0,0,0,0,0,0,0,17, Bathroom
+00657-TSJmdttd2GV,14,0,10,0,0,0,0,0,0,0,0,23, Bedroom
+00657-TSJmdttd2GV,15,0,0,0,0,1,0,0,0,0,0,28, Hall/stairwell
+00657-TSJmdttd2GV,16,0,0,0,0,0,7,0,0,0,0,45, Kitchen
+00662-aRKASs4e8j1,0,0,0,0,0,0,0,0,0,0,0,35, Unknown room
+00662-aRKASs4e8j1,1,1,0,0,0,0,0,0,0,0,0,34, Bathroom
+00662-aRKASs4e8j1,2,0,0,0,0,0,1,0,0,1,0,36, Tie: Office & Kitchen
+00662-aRKASs4e8j1,3,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00664-u5atqC7vRCY,1,0,0,0,0,1,0,0,1,1,0,30, Tie: Office & Living room & Hall/stairwell
+00664-u5atqC7vRCY,2,3,0,0,0,0,0,0,0,0,0,19, Bathroom
+00664-u5atqC7vRCY,3,0,0,0,0,0,2,0,0,0,0,20, Kitchen
+00664-u5atqC7vRCY,4,0,11,0,0,0,0,0,0,0,0,15, Bedroom
+00664-u5atqC7vRCY,5,0,10,0,0,0,0,0,1,0,0,16, Bedroom
+00664-u5atqC7vRCY,6,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00664-u5atqC7vRCY,7,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00664-u5atqC7vRCY,8,2,0,0,0,0,0,0,0,0,0,20, Bathroom
+00664-u5atqC7vRCY,9,0,11,0,0,0,0,0,0,0,0,20, Bedroom
+00664-u5atqC7vRCY,10,0,10,0,0,0,0,0,1,0,0,13, Bedroom
+00664-u5atqC7vRCY,11,2,0,0,0,0,0,0,0,0,0,16, Bathroom
+00664-u5atqC7vRCY,12,0,1,0,0,0,0,0,0,0,0,17, Bedroom
+00664-u5atqC7vRCY,13,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00668-6YtDG3FhNvx,1,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00668-6YtDG3FhNvx,2,0,10,0,0,0,0,0,0,1,0,16, Bedroom
+00668-6YtDG3FhNvx,3,0,0,0,0,0,3,1,0,0,0,25, Kitchen
+00668-6YtDG3FhNvx,4,4,0,0,0,0,0,0,0,0,0,17, Bathroom
+00668-6YtDG3FhNvx,5,0,0,0,0,0,0,0,1,0,0,10, Living room
+00668-6YtDG3FhNvx,6,0,11,0,0,0,0,0,0,1,0,14, Bedroom
+00668-6YtDG3FhNvx,7,0,11,0,0,0,0,0,0,1,0,17, Bedroom
+00668-6YtDG3FhNvx,8,0,11,0,0,0,0,0,0,1,0,16, Bedroom
+00668-6YtDG3FhNvx,9,0,11,0,0,0,0,0,0,1,0,15, Bedroom
+00668-6YtDG3FhNvx,10,3,0,0,0,0,0,0,0,0,0,13, Bathroom
+00668-6YtDG3FhNvx,11,0,11,0,0,0,0,0,0,1,0,15, Bedroom
+00668-6YtDG3FhNvx,12,0,0,0,0,1,0,0,0,0,0,8, Hall/stairwell
+00669-DNWbUAJYsPy,1,0,0,0,0,0,0,0,1,0,0,24, Living room
+00669-DNWbUAJYsPy,2,3,0,0,0,0,0,0,0,0,0,7, Bathroom
+00669-DNWbUAJYsPy,3,1,11,0,0,0,0,0,1,0,0,20, Bedroom
+00669-DNWbUAJYsPy,4,9,0,0,0,0,0,0,0,0,0,15, Bathroom
+00680-YmWinf3mhb5,0,1,10,0,0,0,0,0,0,0,0,24, Bedroom
+00680-YmWinf3mhb5,1,3,0,0,0,0,0,0,0,0,0,15, Bathroom
+00680-YmWinf3mhb5,2,0,0,0,0,0,0,0,0,0,0,3, Unknown room
+00680-YmWinf3mhb5,3,0,0,0,0,0,0,0,1,0,0,22, Living room
+00680-YmWinf3mhb5,4,0,0,0,0,0,7,1,0,0,0,24, Kitchen
+00680-YmWinf3mhb5,5,0,0,0,0,0,0,0,1,0,0,9, Living room
+00680-YmWinf3mhb5,6,0,11,0,0,0,0,0,0,0,0,21, Bedroom
+00680-YmWinf3mhb5,7,6,0,0,0,0,0,0,0,0,0,26, Bathroom
+00680-YmWinf3mhb5,8,0,0,0,0,0,0,0,0,4,0,35, Office
+00680-YmWinf3mhb5,9,0,0,0,0,0,1,0,2,0,0,21, Living room
+00680-YmWinf3mhb5,10,0,0,0,0,0,0,0,0,0,0,3, Unknown room
+00685-ENiCjXWB6aQ,0,2,0,0,0,0,0,1,0,0,0,14, Bathroom
+00685-ENiCjXWB6aQ,1,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00685-ENiCjXWB6aQ,2,0,0,0,0,2,0,0,0,0,0,21, Hall/stairwell
+00685-ENiCjXWB6aQ,3,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00685-ENiCjXWB6aQ,4,0,0,0,0,0,10,1,0,2,0,40, Kitchen
+00685-ENiCjXWB6aQ,5,0,0,0,0,0,1,0,3,0,0,26, Living room
+00685-ENiCjXWB6aQ,6,0,12,0,0,0,0,0,1,0,0,21, Bedroom
+00685-ENiCjXWB6aQ,7,9,0,0,0,0,0,0,0,0,0,24, Bathroom
+00685-ENiCjXWB6aQ,8,0,12,0,0,0,0,0,0,1,0,26, Bedroom
+00685-ENiCjXWB6aQ,9,0,0,0,0,0,0,0,0,2,0,16, Office
+00685-ENiCjXWB6aQ,10,0,0,0,0,0,0,0,2,0,0,18, Living room
+00685-ENiCjXWB6aQ,11,0,12,0,0,0,0,0,1,2,0,24, Bedroom
+00685-ENiCjXWB6aQ,12,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00685-ENiCjXWB6aQ,13,0,0,0,0,0,0,1,0,0,0,12, Laundry room
+00685-ENiCjXWB6aQ,14,11,0,0,0,0,0,1,0,0,0,9, Bathroom
+00685-ENiCjXWB6aQ,15,1,0,0,0,0,0,1,0,0,0,12, Tie: Laundry room & Bathroom
+00685-ENiCjXWB6aQ,16,0,11,0,0,0,0,0,0,2,0,24, Bedroom
+00688-SgkmkWjjmDJ,0,0,0,0,0,0,0,0,3,0,0,24, Living room
+00688-SgkmkWjjmDJ,1,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00688-SgkmkWjjmDJ,2,3,0,0,0,0,0,0,0,0,0,12, Bathroom
+00688-SgkmkWjjmDJ,3,0,0,0,0,0,9,1,0,0,0,24, Kitchen
+00688-SgkmkWjjmDJ,4,0,0,0,0,0,0,0,0,2,0,17, Office
+00688-SgkmkWjjmDJ,5,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00688-SgkmkWjjmDJ,6,0,0,0,0,2,0,0,0,0,0,3, Hall/stairwell
+00688-SgkmkWjjmDJ,7,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00688-SgkmkWjjmDJ,8,8,0,0,0,0,0,0,0,0,0,14, Bathroom
+00688-SgkmkWjjmDJ,9,0,11,0,0,0,0,0,0,0,0,20, Bedroom
+00688-SgkmkWjjmDJ,10,2,0,0,0,0,0,0,0,0,0,8, Bathroom
+00688-SgkmkWjjmDJ,11,0,12,0,0,0,0,0,0,0,0,17, Bedroom
+00688-SgkmkWjjmDJ,12,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00688-SgkmkWjjmDJ,13,0,11,0,0,0,0,0,0,0,0,20, Bedroom
+00688-SgkmkWjjmDJ,14,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00688-SgkmkWjjmDJ,15,11,0,0,0,0,0,0,0,0,0,14, Bathroom
+00696-DsEJeNPcZtE,1,0,0,0,3,0,0,1,0,0,0,18, Garage
+00696-DsEJeNPcZtE,2,0,0,0,0,0,3,0,0,0,0,24, Kitchen
+00696-DsEJeNPcZtE,3,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00696-DsEJeNPcZtE,4,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00696-DsEJeNPcZtE,5,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00696-DsEJeNPcZtE,6,3,0,0,0,0,0,0,0,0,0,16, Bathroom
+00696-DsEJeNPcZtE,7,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00696-DsEJeNPcZtE,8,0,10,0,0,0,0,0,0,0,0,19, Bedroom
+00696-DsEJeNPcZtE,9,7,0,0,0,0,0,0,0,0,0,14, Bathroom
+00696-DsEJeNPcZtE,10,0,0,0,0,0,0,0,1,2,0,17, Office
+00696-DsEJeNPcZtE,11,0,0,0,0,1,0,0,1,0,0,28, Tie: Living room & Hall/stairwell
+00696-DsEJeNPcZtE,12,0,0,0,0,1,0,0,0,0,0,7, Hall/stairwell
+00696-DsEJeNPcZtE,13,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00696-DsEJeNPcZtE,14,3,0,0,0,0,0,0,0,0,0,19, Bathroom
+00696-DsEJeNPcZtE,15,0,10,0,0,0,0,0,0,0,0,7, Bedroom
+00706-YHmAkqgwe2p,0,1,13,0,0,0,0,0,0,0,0,19, Bedroom
+00706-YHmAkqgwe2p,1,0,1,0,0,0,0,0,0,0,0,11, Bedroom
+00706-YHmAkqgwe2p,2,0,0,0,0,0,0,0,1,0,0,26, Living room
+00706-YHmAkqgwe2p,3,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00706-YHmAkqgwe2p,4,7,0,0,0,0,0,0,0,0,0,17, Bathroom
+00706-YHmAkqgwe2p,5,0,1,1,0,0,0,0,1,0,0,26, Tie: Bedroom & Dining room & Living room
+00706-YHmAkqgwe2p,6,1,0,0,0,0,1,1,0,0,0,25, Tie: Laundry room & Kitchen & Bathroom
+00706-YHmAkqgwe2p,7,0,0,0,0,0,4,0,0,0,0,17, Kitchen
+00707-XVSZJAtHKdi,1,2,0,0,0,0,0,0,0,0,0,15, Bathroom
+00707-XVSZJAtHKdi,2,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00707-XVSZJAtHKdi,3,0,0,0,0,0,2,0,0,0,0,15, Kitchen
+00707-XVSZJAtHKdi,4,0,10,0,0,0,0,0,0,0,0,9, Bedroom
+00707-XVSZJAtHKdi,5,2,10,0,0,0,2,0,0,0,0,22, Bedroom
+00707-XVSZJAtHKdi,6,2,10,0,0,0,2,0,0,0,0,25, Bedroom
+00707-XVSZJAtHKdi,7,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00707-XVSZJAtHKdi,8,2,10,0,0,0,2,0,0,0,0,22, Bedroom
+00707-XVSZJAtHKdi,9,2,10,0,0,1,0,0,0,0,0,18, Bedroom
+00707-XVSZJAtHKdi,10,1,0,0,0,0,0,0,0,0,0,13, Bathroom
+00707-XVSZJAtHKdi,11,0,10,0,0,0,2,0,0,0,0,16, Bedroom
+00707-XVSZJAtHKdi,12,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00707-XVSZJAtHKdi,13,1,10,0,0,1,2,0,0,0,0,23, Bedroom
+00707-XVSZJAtHKdi,14,2,0,0,0,0,0,0,0,0,0,10, Bathroom
+00707-XVSZJAtHKdi,15,0,10,0,0,0,0,0,0,0,0,11, Bedroom
+00712-HZ2iMMBsBQ9,1,0,12,0,0,0,0,0,0,0,0,14, Bedroom
+00712-HZ2iMMBsBQ9,2,5,0,0,0,0,0,0,0,0,0,13, Bathroom
+00712-HZ2iMMBsBQ9,3,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00712-HZ2iMMBsBQ9,4,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00712-HZ2iMMBsBQ9,5,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00712-HZ2iMMBsBQ9,6,0,0,0,0,0,0,0,2,0,0,19, Living room
+00712-HZ2iMMBsBQ9,7,0,11,0,0,0,0,0,0,2,0,24, Bedroom
+00712-HZ2iMMBsBQ9,8,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00712-HZ2iMMBsBQ9,9,0,11,0,0,0,0,0,0,0,0,20, Bedroom
+00712-HZ2iMMBsBQ9,10,0,11,0,0,0,0,0,0,0,0,19, Bedroom
+00712-HZ2iMMBsBQ9,11,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00712-HZ2iMMBsBQ9,12,6,0,0,0,0,0,0,0,0,0,13, Bathroom
+00712-HZ2iMMBsBQ9,13,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00712-HZ2iMMBsBQ9,14,0,0,0,0,0,7,0,1,0,0,37, Kitchen
+00720-8B43pG641ff,0,0,11,0,0,0,0,0,0,0,0,25, Bedroom
+00720-8B43pG641ff,1,0,1,0,0,0,0,0,1,0,0,23, Tie: Bedroom & Living room
+00720-8B43pG641ff,2,0,0,0,0,0,0,0,1,0,0,9, Living room
+00720-8B43pG641ff,3,3,0,0,0,0,0,0,0,0,0,23, Bathroom
+00720-8B43pG641ff,4,0,0,0,0,1,0,0,2,0,0,44, Living room
+00720-8B43pG641ff,5,0,0,0,0,0,0,0,1,0,0,16, Living room
+00720-8B43pG641ff,6,0,0,0,0,0,8,0,0,0,0,28, Kitchen
+00720-8B43pG641ff,7,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00720-8B43pG641ff,8,2,0,0,0,0,0,3,0,0,0,20, Laundry room
+00720-8B43pG641ff,9,0,11,0,0,0,0,0,0,0,0,21, Bedroom
+00720-8B43pG641ff,10,0,12,0,0,0,0,0,0,1,0,23, Bedroom
+00720-8B43pG641ff,11,5,0,0,0,0,0,0,0,0,0,18, Bathroom
+00720-8B43pG641ff,12,0,0,0,0,1,0,0,1,0,0,24, Tie: Living room & Hall/stairwell
+00720-8B43pG641ff,13,0,0,0,0,1,0,0,0,0,0,11, Hall/stairwell
+00720-8B43pG641ff,14,0,0,0,0,0,2,0,1,1,2,52, Tie: Kitchen & Rec room
+00723-hWDDQnSDMXb,1,0,11,0,0,0,0,0,0,2,0,31, Bedroom
+00723-hWDDQnSDMXb,2,0,1,0,0,0,0,0,0,0,0,11, Bedroom
+00723-hWDDQnSDMXb,3,0,10,0,0,1,0,0,0,6,1,24, Bedroom
+00723-hWDDQnSDMXb,4,0,0,0,0,1,0,0,0,1,0,17, Tie: Office & Hall/stairwell
+00723-hWDDQnSDMXb,5,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00723-hWDDQnSDMXb,6,0,0,0,0,0,0,0,1,0,0,16, Living room
+00723-hWDDQnSDMXb,7,6,0,0,0,0,0,0,0,0,0,13, Bathroom
+00723-hWDDQnSDMXb,8,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00723-hWDDQnSDMXb,9,0,11,0,0,0,0,0,0,0,0,25, Bedroom
+00723-hWDDQnSDMXb,10,12,0,0,0,0,0,0,0,0,0,23, Bathroom
+00723-hWDDQnSDMXb,11,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00723-hWDDQnSDMXb,12,0,0,0,0,0,0,0,1,0,0,40, Living room
+00723-hWDDQnSDMXb,13,0,0,0,0,0,5,0,0,0,0,21, Kitchen
+00723-hWDDQnSDMXb,14,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00723-hWDDQnSDMXb,15,0,1,0,0,3,0,0,0,0,0,25, Hall/stairwell
+00723-hWDDQnSDMXb,16,7,0,0,0,0,0,1,0,0,0,10, Bathroom
+00723-hWDDQnSDMXb,17,0,0,0,0,0,0,0,0,1,3,30, Rec room
+00723-hWDDQnSDMXb,18,0,0,0,0,0,0,0,0,4,0,22, Office
+00723-hWDDQnSDMXb,19,0,11,0,0,0,0,0,0,2,0,16, Bedroom
+00723-hWDDQnSDMXb,20,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00723-hWDDQnSDMXb,21,0,0,0,0,0,0,0,0,1,0,31, Office
+00723-hWDDQnSDMXb,22,0,0,0,0,0,1,0,0,0,0,10, Kitchen
+00723-hWDDQnSDMXb,23,2,0,0,0,0,0,0,0,0,0,12, Bathroom
+00723-hWDDQnSDMXb,24,7,0,0,0,0,0,0,0,0,0,9, Bathroom
+00723-hWDDQnSDMXb,25,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00732-Z2DQddYp1fn,1,0,0,0,0,2,0,0,1,0,1,19, Hall/stairwell
+00732-Z2DQddYp1fn,2,0,12,0,0,0,0,0,0,0,0,11, Bedroom
+00732-Z2DQddYp1fn,3,0,1,0,0,0,0,0,0,0,0,34, Bedroom
+00732-Z2DQddYp1fn,4,4,0,0,0,0,0,0,0,0,0,10, Bathroom
+00732-Z2DQddYp1fn,5,0,10,0,0,0,0,0,0,4,0,18, Bedroom
+00732-Z2DQddYp1fn,6,4,0,0,0,0,0,0,0,0,0,15, Bathroom
+00732-Z2DQddYp1fn,7,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00732-Z2DQddYp1fn,8,0,10,0,0,0,0,0,0,0,0,17, Bedroom
+00732-Z2DQddYp1fn,9,0,0,0,0,0,4,1,0,0,0,35, Kitchen
+00732-Z2DQddYp1fn,10,2,0,0,0,0,0,0,0,0,0,11, Bathroom
+00732-Z2DQddYp1fn,11,0,1,0,0,0,0,0,0,0,0,12, Bedroom
+00732-Z2DQddYp1fn,12,7,0,0,0,0,0,0,0,0,0,21, Bathroom
+00732-Z2DQddYp1fn,13,0,0,0,0,0,0,0,1,0,0,19, Living room
+00733-GtM3JtRvvvR,0,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00733-GtM3JtRvvvR,1,0,1,0,0,0,0,0,1,0,0,17, Tie: Bedroom & Living room
+00733-GtM3JtRvvvR,2,4,1,0,0,0,0,0,0,0,0,11, Bathroom
+00733-GtM3JtRvvvR,3,0,0,0,0,0,5,0,0,0,0,11, Kitchen
+00733-GtM3JtRvvvR,4,0,0,1,0,0,0,0,1,0,0,21, Tie: Dining room & Living room
+00733-GtM3JtRvvvR,5,4,0,0,0,0,0,0,0,0,0,16, Bathroom
+00733-GtM3JtRvvvR,6,0,1,0,0,0,0,0,0,0,0,6, Bedroom
+00733-GtM3JtRvvvR,7,7,0,0,0,0,0,0,0,0,0,16, Bathroom
+00733-GtM3JtRvvvR,8,0,11,0,0,0,0,0,0,1,0,16, Bedroom
+00733-GtM3JtRvvvR,9,0,11,0,0,0,0,0,0,1,0,17, Bedroom
+00733-GtM3JtRvvvR,10,0,11,0,0,0,0,0,0,1,0,16, Bedroom
+00738-GPyDUnjwZQy,0,0,11,0,0,0,0,0,0,0,0,18, Bedroom
+00738-GPyDUnjwZQy,1,7,0,0,0,0,0,0,0,0,0,15, Bathroom
+00738-GPyDUnjwZQy,2,0,0,0,0,1,0,0,0,0,0,11, Hall/stairwell
+00738-GPyDUnjwZQy,3,0,10,0,0,0,0,0,0,0,0,16, Bedroom
+00738-GPyDUnjwZQy,4,0,11,0,0,0,0,0,0,0,0,19, Bedroom
+00738-GPyDUnjwZQy,5,0,0,0,0,1,5,0,1,0,0,27, Kitchen
+00738-GPyDUnjwZQy,6,0,0,0,0,1,0,0,0,0,0,11, Hall/stairwell
+00738-GPyDUnjwZQy,7,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00738-GPyDUnjwZQy,8,0,0,0,0,1,0,0,0,0,0,6, Hall/stairwell
+00738-GPyDUnjwZQy,9,0,0,0,0,0,0,0,1,2,0,26, Office
+00738-GPyDUnjwZQy,10,0,0,0,0,1,0,0,0,0,0,5, Hall/stairwell
+00738-GPyDUnjwZQy,11,0,0,0,0,0,0,2,0,0,0,18, Laundry room
+00738-GPyDUnjwZQy,12,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00741-w8GiikYuFRk,0,0,0,0,0,0,1,0,0,0,0,29, Kitchen
+00741-w8GiikYuFRk,1,0,0,0,0,0,1,0,1,0,0,30, Tie: Kitchen & Living room
+00741-w8GiikYuFRk,2,0,0,0,0,0,0,0,1,1,0,31, Tie: Office & Living room
+00741-w8GiikYuFRk,3,0,1,0,0,0,1,0,0,0,0,27, Tie: Bedroom & Kitchen
+00741-w8GiikYuFRk,4,0,0,0,0,0,1,0,0,1,0,32, Tie: Office & Kitchen
+00741-w8GiikYuFRk,5,0,0,0,0,0,0,0,0,0,0,21, Unknown room
+00741-w8GiikYuFRk,6,0,1,0,0,0,1,0,0,0,0,26, Tie: Bedroom & Kitchen
+00741-w8GiikYuFRk,7,0,0,0,0,0,1,0,0,1,0,26, Tie: Office & Kitchen
+00744-1S7LAXRdDqK,0,0,0,0,0,0,7,0,0,0,0,32, Kitchen
+00744-1S7LAXRdDqK,1,0,0,0,0,0,0,0,2,0,0,21, Living room
+00744-1S7LAXRdDqK,4,16,0,0,0,0,0,0,0,0,0,21, Bathroom
+00744-1S7LAXRdDqK,5,0,11,0,0,0,0,0,0,0,0,21, Bedroom
+00744-1S7LAXRdDqK,6,0,11,0,0,0,0,0,1,5,0,27, Bedroom
+00744-1S7LAXRdDqK,7,8,0,0,0,0,0,0,0,0,0,15, Bathroom
+00744-1S7LAXRdDqK,8,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00744-1S7LAXRdDqK,9,0,0,0,0,0,0,0,1,4,0,50, Office
+00744-1S7LAXRdDqK,10,0,0,0,0,0,0,1,0,0,0,16, Laundry room
+00744-1S7LAXRdDqK,11,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00744-1S7LAXRdDqK,12,0,0,0,0,0,0,0,2,0,0,24, Living room
+00744-1S7LAXRdDqK,13,0,10,0,0,0,0,0,0,0,0,14, Bedroom
+00744-1S7LAXRdDqK,14,0,0,0,0,1,0,0,0,0,0,13, Hall/stairwell
+00745-yX5efd48dLf,0,0,3,0,0,0,0,0,0,0,0,20, Bedroom
+00745-yX5efd48dLf,1,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00745-yX5efd48dLf,2,0,0,0,0,0,0,0,1,0,0,39, Living room
+00745-yX5efd48dLf,3,0,0,0,0,0,0,0,0,0,0,33, Unknown room
+00745-yX5efd48dLf,4,0,0,0,0,0,11,0,0,0,0,15, Kitchen
+00745-yX5efd48dLf,5,5,1,0,0,0,0,1,0,0,0,13, Bathroom
+00745-yX5efd48dLf,6,0,0,0,0,1,0,0,0,0,0,5, Hall/stairwell
+00745-yX5efd48dLf,7,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00745-yX5efd48dLf,8,0,12,0,0,0,0,0,0,1,0,22, Bedroom
+00745-yX5efd48dLf,9,0,0,0,0,0,0,0,0,0,0,25, Unknown room
+00745-yX5efd48dLf,10,0,2,0,0,0,0,0,0,0,0,16, Bedroom
+00745-yX5efd48dLf,11,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00746-RTV2n6fXB2w,0,0,0,0,0,0,0,0,0,1,0,33, Office
+00746-RTV2n6fXB2w,1,0,10,0,0,0,0,0,0,0,0,29, Bedroom
+00746-RTV2n6fXB2w,2,0,0,0,0,0,3,0,0,0,0,22, Kitchen
+00746-RTV2n6fXB2w,3,1,0,0,0,0,0,0,0,0,0,14, Bathroom
+00746-RTV2n6fXB2w,4,0,0,0,0,0,0,0,0,0,0,24, Unknown room
+00746-RTV2n6fXB2w,5,0,0,0,0,0,2,0,0,0,0,41, Kitchen
+00746-RTV2n6fXB2w,6,0,0,0,0,1,0,0,0,0,0,32, Hall/stairwell
+00746-RTV2n6fXB2w,7,0,10,0,0,0,0,0,0,0,0,26, Bedroom
+00746-RTV2n6fXB2w,8,0,11,0,0,0,0,0,0,0,0,36, Bedroom
+00750-E1NrAhMoqvB,1,0,12,0,0,0,0,0,1,0,0,28, Bedroom
+00750-E1NrAhMoqvB,2,8,1,0,0,0,0,0,0,0,0,24, Bathroom
+00750-E1NrAhMoqvB,3,0,12,0,0,0,0,0,0,2,0,28, Bedroom
+00750-E1NrAhMoqvB,4,0,1,0,0,0,0,0,0,0,0,22, Bedroom
+00750-E1NrAhMoqvB,5,0,1,0,0,0,0,0,0,0,0,14, Bedroom
+00750-E1NrAhMoqvB,6,4,0,0,0,0,0,0,0,0,0,20, Bathroom
+00750-E1NrAhMoqvB,7,1,0,0,0,0,0,0,0,0,0,12, Bathroom
+00750-E1NrAhMoqvB,8,0,0,0,0,0,0,1,0,0,0,17, Laundry room
+00750-E1NrAhMoqvB,9,0,1,0,0,0,0,0,1,2,0,32, Office
+00750-E1NrAhMoqvB,10,0,0,1,0,0,9,0,0,1,0,26, Kitchen
+00750-E1NrAhMoqvB,11,0,0,1,0,0,0,0,0,0,0,29, Dining room
+00750-E1NrAhMoqvB,12,0,0,1,0,0,0,0,2,0,0,48, Living room
+00750-E1NrAhMoqvB,13,0,0,0,0,1,0,0,1,0,0,19, Tie: Living room & Hall/stairwell
+00750-E1NrAhMoqvB,14,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00750-E1NrAhMoqvB,15,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00757-LVgQNuK8vtv,0,0,0,0,0,0,0,0,2,0,0,20, Living room
+00757-LVgQNuK8vtv,1,0,0,0,0,0,0,0,2,0,0,30, Living room
+00757-LVgQNuK8vtv,2,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00757-LVgQNuK8vtv,3,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00757-LVgQNuK8vtv,4,0,0,0,0,0,8,0,0,0,0,21, Kitchen
+00757-LVgQNuK8vtv,5,0,0,0,0,0,0,0,1,0,0,17, Living room
+00757-LVgQNuK8vtv,6,4,0,0,0,0,2,0,0,0,0,14, Bathroom
+00757-LVgQNuK8vtv,7,0,0,0,0,0,0,0,0,2,0,31, Office
+00757-LVgQNuK8vtv,8,1,0,0,0,1,0,0,0,0,0,36, Tie: Bathroom & Hall/stairwell
+00757-LVgQNuK8vtv,9,0,11,0,0,0,0,0,0,0,0,19, Bedroom
+00757-LVgQNuK8vtv,10,5,0,0,0,0,0,0,0,0,0,16, Bathroom
+00757-LVgQNuK8vtv,11,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00757-LVgQNuK8vtv,12,0,11,0,0,0,0,0,0,0,0,15, Bedroom
+00757-LVgQNuK8vtv,13,0,10,0,0,0,0,0,0,1,0,19, Bedroom
+00757-LVgQNuK8vtv,14,0,11,0,0,0,0,0,0,0,0,15, Bedroom
+00757-LVgQNuK8vtv,15,9,0,0,0,0,0,0,0,0,0,15, Bathroom
+00757-LVgQNuK8vtv,16,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00757-LVgQNuK8vtv,17,0,0,0,0,1,0,0,0,0,0,10, Hall/stairwell
+00758-HfMobPm86Xn,0,0,0,0,0,0,0,0,1,0,0,25, Living room
+00758-HfMobPm86Xn,1,0,0,0,0,0,1,0,0,0,0,16, Kitchen
+00758-HfMobPm86Xn,2,0,1,0,0,0,0,0,0,0,0,5, Bedroom
+00758-HfMobPm86Xn,3,2,0,0,0,0,0,0,0,0,0,16, Bathroom
+00758-HfMobPm86Xn,4,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00758-HfMobPm86Xn,5,0,0,0,0,0,0,0,0,0,0,19, Unknown room
+00758-HfMobPm86Xn,6,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00758-HfMobPm86Xn,7,0,0,0,0,0,5,0,0,0,0,23, Kitchen
+00758-HfMobPm86Xn,8,0,0,0,0,0,0,1,0,0,0,20, Laundry room
+00758-HfMobPm86Xn,9,2,0,0,0,0,0,0,0,0,0,12, Bathroom
+00758-HfMobPm86Xn,10,7,0,0,0,0,0,0,0,0,0,14, Bathroom
+00758-HfMobPm86Xn,11,4,11,0,0,0,0,0,0,2,0,31, Bedroom
+00758-HfMobPm86Xn,12,0,11,0,0,0,0,0,0,0,0,23, Bedroom
+00758-HfMobPm86Xn,13,0,1,0,0,0,0,0,0,0,0,13, Bedroom
+00758-HfMobPm86Xn,14,6,0,0,0,0,0,0,0,0,0,21, Bathroom
+00758-HfMobPm86Xn,15,0,1,0,0,0,0,0,1,0,0,32, Tie: Bedroom & Living room
+00758-HfMobPm86Xn,16,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00758-HfMobPm86Xn,17,0,0,0,0,0,0,0,0,2,0,18, Office
+00758-HfMobPm86Xn,18,0,10,0,0,0,0,0,0,0,0,11, Bedroom
+00758-HfMobPm86Xn,19,5,1,0,0,0,0,0,0,0,0,14, Bathroom
+00758-HfMobPm86Xn,20,0,10,0,1,0,1,0,1,0,0,34, Bedroom
+00800-TEEsavR23oF,1,0,12,0,0,0,0,0,0,0,0,18, Bedroom
+00800-TEEsavR23oF,2,3,0,0,0,0,0,0,0,0,0,12, Bathroom
+00800-TEEsavR23oF,3,0,1,0,0,0,0,0,1,2,0,41, Office
+00800-TEEsavR23oF,4,0,0,0,0,1,0,0,1,0,0,27, Tie: Living room & Hall/stairwell
+00800-TEEsavR23oF,5,0,0,0,0,0,7,0,0,0,0,24, Kitchen
+00800-TEEsavR23oF,6,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00800-TEEsavR23oF,7,4,0,0,0,0,0,0,0,0,0,13, Bathroom
+00800-TEEsavR23oF,8,1,0,0,0,0,0,0,0,0,0,13, Bathroom
+00800-TEEsavR23oF,9,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00800-TEEsavR23oF,10,0,13,0,0,0,0,0,0,0,0,22, Bedroom
+00800-TEEsavR23oF,11,6,0,0,0,0,0,0,0,0,0,14, Bathroom
+00800-TEEsavR23oF,12,0,0,0,0,0,0,0,0,0,0,21, Unknown room
+00800-TEEsavR23oF,13,2,0,0,0,0,1,0,0,0,0,8, Bathroom
+00802-wcojb4TFT35,0,0,0,0,0,0,0,0,0,0,0,32, Unknown room
+00802-wcojb4TFT35,1,0,0,0,0,2,0,1,0,1,0,45, Hall/stairwell
+00802-wcojb4TFT35,2,2,0,0,0,0,0,0,0,0,0,15, Bathroom
+00802-wcojb4TFT35,3,0,0,0,0,0,4,0,0,0,0,28, Kitchen
+00802-wcojb4TFT35,4,0,0,0,0,0,0,0,0,0,0,26, Unknown room
+00802-wcojb4TFT35,5,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00802-wcojb4TFT35,6,0,0,0,0,0,0,0,1,1,0,26, Tie: Office & Living room
+00802-wcojb4TFT35,7,0,0,0,4,1,0,0,0,0,0,36, Garage
+00802-wcojb4TFT35,8,0,0,0,0,0,0,0,0,0,0,41, Unknown room
+00802-wcojb4TFT35,9,0,0,0,0,3,0,0,0,0,0,8, Hall/stairwell
+00802-wcojb4TFT35,10,0,12,0,0,0,0,0,0,0,0,12, Bedroom
+00802-wcojb4TFT35,11,0,1,0,0,0,0,0,0,0,0,19, Bedroom
+00802-wcojb4TFT35,12,7,0,0,0,0,0,0,0,0,0,16, Bathroom
+00802-wcojb4TFT35,13,5,0,0,0,0,0,0,0,0,0,22, Bathroom
+00802-wcojb4TFT35,14,0,11,0,0,0,0,0,0,0,0,28, Bedroom
+00802-wcojb4TFT35,15,0,12,0,0,0,0,0,0,0,0,27, Bedroom
+00802-wcojb4TFT35,16,0,12,0,0,0,0,0,0,0,0,24, Bedroom
+00803-k1cupFYWXJ6,0,0,0,0,0,0,0,0,1,0,0,12, Living room
+00803-k1cupFYWXJ6,1,0,0,0,0,1,0,0,0,0,0,24, Hall/stairwell
+00803-k1cupFYWXJ6,2,0,0,0,0,0,0,0,0,0,0,19, Unknown room
+00803-k1cupFYWXJ6,3,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00803-k1cupFYWXJ6,4,0,0,0,0,1,0,0,0,0,0,21, Hall/stairwell
+00803-k1cupFYWXJ6,5,0,0,0,0,1,0,0,0,0,0,16, Hall/stairwell
+00803-k1cupFYWXJ6,6,0,0,0,0,1,0,0,0,0,0,18, Hall/stairwell
+00803-k1cupFYWXJ6,7,0,0,0,0,1,0,0,0,0,0,18, Hall/stairwell
+00803-k1cupFYWXJ6,8,0,0,0,0,1,0,0,2,0,0,38, Living room
+00803-k1cupFYWXJ6,10,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00808-y9hTuugGdiq,0,0,11,0,0,0,0,0,0,0,0,19, Bedroom
+00808-y9hTuugGdiq,1,10,0,0,0,0,0,0,0,0,0,22, Bathroom
+00808-y9hTuugGdiq,2,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00808-y9hTuugGdiq,3,0,0,0,0,1,0,0,0,0,0,13, Hall/stairwell
+00808-y9hTuugGdiq,4,0,0,0,0,0,0,0,3,0,0,24, Living room
+00808-y9hTuugGdiq,5,0,0,0,0,0,8,0,0,0,0,25, Kitchen
+00808-y9hTuugGdiq,6,0,0,0,0,0,0,1,0,0,0,11, Laundry room
+00808-y9hTuugGdiq,7,7,0,0,0,0,0,0,0,0,0,18, Bathroom
+00808-y9hTuugGdiq,8,10,0,0,0,0,0,0,0,0,0,16, Bathroom
+00808-y9hTuugGdiq,9,0,11,0,0,0,0,0,1,0,0,17, Bedroom
+00808-y9hTuugGdiq,10,0,11,0,0,0,0,0,1,0,0,17, Bedroom
+00808-y9hTuugGdiq,11,0,10,0,0,0,0,0,0,0,0,15, Bedroom
+00808-y9hTuugGdiq,12,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00808-y9hTuugGdiq,13,0,0,0,0,0,6,0,2,0,0,33, Kitchen
+00808-y9hTuugGdiq,14,0,10,0,0,0,0,0,0,0,0,14, Bedroom
+00808-y9hTuugGdiq,15,10,0,0,0,0,0,0,0,0,0,15, Bathroom
+00808-y9hTuugGdiq,16,0,10,0,0,0,0,0,0,0,0,14, Bedroom
+00808-y9hTuugGdiq,17,5,0,0,0,0,0,0,0,0,0,15, Bathroom
+00808-y9hTuugGdiq,18,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00810-CrMo8WxCyVb,0,4,0,0,0,0,0,0,0,0,0,10, Bathroom
+00810-CrMo8WxCyVb,1,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00810-CrMo8WxCyVb,2,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00810-CrMo8WxCyVb,3,0,10,0,0,0,0,0,0,0,0,15, Bedroom
+00810-CrMo8WxCyVb,4,0,11,0,0,0,0,0,0,0,0,15, Bedroom
+00810-CrMo8WxCyVb,5,0,0,0,0,0,0,1,0,0,0,16, Laundry room
+00810-CrMo8WxCyVb,7,0,12,0,0,0,0,0,0,0,0,14, Bedroom
+00810-CrMo8WxCyVb,8,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00810-CrMo8WxCyVb,9,2,0,0,0,0,0,0,0,0,0,8, Bathroom
+00810-CrMo8WxCyVb,10,0,0,0,0,0,0,0,0,1,0,12, Office
+00810-CrMo8WxCyVb,11,0,0,0,0,0,0,0,1,0,0,20, Living room
+00810-CrMo8WxCyVb,12,0,0,0,0,0,3,1,0,1,0,22, Kitchen
+00810-CrMo8WxCyVb,13,0,0,0,0,1,0,0,1,0,0,13, Tie: Living room & Hall/stairwell
+00810-CrMo8WxCyVb,14,0,0,0,0,0,0,0,0,1,0,16, Office
+00810-CrMo8WxCyVb,15,1,0,0,0,0,0,0,0,0,0,13, Bathroom
+00810-CrMo8WxCyVb,16,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00813-svBbv1Pavdk,1,0,0,0,0,0,0,0,1,1,0,18, Tie: Office & Living room
+00813-svBbv1Pavdk,2,5,0,0,0,0,0,0,0,0,0,14, Bathroom
+00813-svBbv1Pavdk,3,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00813-svBbv1Pavdk,4,0,10,0,0,0,0,0,0,0,0,23, Bedroom
+00813-svBbv1Pavdk,5,0,10,0,0,0,0,0,0,0,0,19, Bedroom
+00813-svBbv1Pavdk,6,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00813-svBbv1Pavdk,7,3,0,0,0,0,0,0,0,0,0,16, Bathroom
+00813-svBbv1Pavdk,8,0,0,0,0,0,0,1,0,0,0,17, Laundry room
+00813-svBbv1Pavdk,9,0,0,0,0,0,0,0,1,0,0,25, Living room
+00813-svBbv1Pavdk,10,0,0,0,0,0,3,0,0,0,0,29, Kitchen
+00814-p53SfW6mjZe,0,0,0,0,0,0,0,0,0,0,1,15, Rec room
+00814-p53SfW6mjZe,1,0,0,0,0,0,0,0,1,0,0,17, Living room
+00814-p53SfW6mjZe,2,0,0,0,0,1,0,0,1,0,0,11, Tie: Living room & Hall/stairwell
+00814-p53SfW6mjZe,3,0,0,0,0,2,0,0,0,0,0,12, Hall/stairwell
+00814-p53SfW6mjZe,4,0,11,0,0,0,0,0,0,1,0,14, Bedroom
+00814-p53SfW6mjZe,5,8,0,0,0,0,0,0,0,0,0,13, Bathroom
+00814-p53SfW6mjZe,6,0,0,0,0,0,1,0,0,0,0,11, Kitchen
+00814-p53SfW6mjZe,7,2,0,0,0,0,0,0,0,0,0,10, Bathroom
+00814-p53SfW6mjZe,8,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00814-p53SfW6mjZe,9,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00814-p53SfW6mjZe,10,0,0,0,0,0,7,0,0,0,0,19, Kitchen
+00814-p53SfW6mjZe,11,0,0,2,0,0,0,0,0,0,0,9, Dining room
+00814-p53SfW6mjZe,12,0,0,0,0,0,0,0,2,0,0,25, Living room
+00814-p53SfW6mjZe,13,0,0,0,0,4,0,0,0,0,0,13, Hall/stairwell
+00814-p53SfW6mjZe,14,0,0,0,0,2,0,0,0,0,3,10, Rec room
+00814-p53SfW6mjZe,15,0,10,0,0,0,0,0,1,0,0,14, Bedroom
+00814-p53SfW6mjZe,16,3,0,0,0,0,0,0,0,0,0,7, Bathroom
+00814-p53SfW6mjZe,17,0,1,0,0,0,0,0,0,0,0,9, Bedroom
+00814-p53SfW6mjZe,18,0,0,0,0,3,0,0,0,0,0,8, Hall/stairwell
+00814-p53SfW6mjZe,19,0,13,0,0,0,0,0,1,0,0,12, Bedroom
+00814-p53SfW6mjZe,20,4,0,0,0,0,0,0,0,0,0,14, Bathroom
+00814-p53SfW6mjZe,21,0,13,0,0,0,0,0,0,0,0,11, Bedroom
+00814-p53SfW6mjZe,22,0,13,0,0,0,0,0,0,0,0,14, Bedroom
+00814-p53SfW6mjZe,23,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00814-p53SfW6mjZe,24,5,0,0,0,0,0,0,0,0,0,8, Bathroom
+00815-h1zeeAwLh9Z,0,0,0,0,0,0,0,0,0,0,0,23, Unknown room
+00815-h1zeeAwLh9Z,1,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00815-h1zeeAwLh9Z,2,0,0,0,0,0,0,2,0,0,0,12, Laundry room
+00815-h1zeeAwLh9Z,3,4,0,0,0,0,0,0,0,0,0,18, Bathroom
+00815-h1zeeAwLh9Z,4,0,0,0,0,0,0,0,1,0,0,17, Living room
+00815-h1zeeAwLh9Z,5,0,0,0,0,0,11,0,0,0,0,25, Kitchen
+00815-h1zeeAwLh9Z,6,0,0,2,0,0,0,0,0,1,0,10, Dining room
+00815-h1zeeAwLh9Z,7,0,0,0,0,0,0,0,1,0,0,19, Living room
+00815-h1zeeAwLh9Z,8,0,0,0,0,2,0,0,0,0,0,14, Hall/stairwell
+00815-h1zeeAwLh9Z,9,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00815-h1zeeAwLh9Z,10,0,0,0,0,0,0,0,1,0,0,12, Living room
+00815-h1zeeAwLh9Z,11,0,0,0,0,0,0,0,0,1,0,15, Office
+00815-h1zeeAwLh9Z,12,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00815-h1zeeAwLh9Z,13,0,12,0,0,0,0,0,0,0,0,14, Bedroom
+00815-h1zeeAwLh9Z,14,7,0,0,0,0,0,0,0,0,0,14, Bathroom
+00815-h1zeeAwLh9Z,15,2,0,0,0,0,0,0,0,0,0,14, Bathroom
+00815-h1zeeAwLh9Z,16,5,0,0,0,0,0,0,0,0,0,11, Bathroom
+00815-h1zeeAwLh9Z,17,0,12,0,0,0,0,0,0,0,0,15, Bedroom
+00820-mL8ThkuaVTM,1,0,10,0,0,0,0,0,0,0,0,17, Bedroom
+00820-mL8ThkuaVTM,2,6,0,0,0,0,0,0,0,0,0,17, Bathroom
+00820-mL8ThkuaVTM,3,0,12,0,0,0,0,0,0,0,0,15, Bedroom
+00820-mL8ThkuaVTM,4,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00820-mL8ThkuaVTM,5,0,0,0,0,1,0,0,0,0,0,13, Hall/stairwell
+00820-mL8ThkuaVTM,6,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00820-mL8ThkuaVTM,7,0,0,0,0,0,4,1,2,0,0,33, Kitchen
+00820-mL8ThkuaVTM,8,0,12,0,0,0,0,0,0,0,0,19, Bedroom
+00820-mL8ThkuaVTM,9,0,1,0,0,0,0,0,1,0,0,16, Tie: Bedroom & Living room
+00820-mL8ThkuaVTM,10,3,0,0,0,0,0,0,0,0,0,17, Bathroom
+00820-mL8ThkuaVTM,11,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00820-mL8ThkuaVTM,12,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00821-eF36g7L6Z9M,0,0,0,0,0,0,0,0,1,0,0,14, Living room
+00821-eF36g7L6Z9M,1,0,0,0,0,0,5,0,2,0,0,41, Kitchen
+00821-eF36g7L6Z9M,2,0,0,0,0,0,0,0,1,0,0,29, Living room
+00821-eF36g7L6Z9M,3,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00821-eF36g7L6Z9M,4,0,0,0,0,1,0,0,0,0,0,7, Hall/stairwell
+00821-eF36g7L6Z9M,5,2,0,0,0,0,0,0,0,0,0,19, Bathroom
+00821-eF36g7L6Z9M,6,13,12,0,0,0,0,0,0,1,0,32, Bathroom
+00821-eF36g7L6Z9M,10,0,0,0,0,0,2,0,3,0,0,34, Living room
+00821-eF36g7L6Z9M,11,0,11,0,0,0,0,0,0,0,0,12, Bedroom
+00821-eF36g7L6Z9M,12,8,11,0,0,0,0,0,0,0,0,23, Bedroom
+00821-eF36g7L6Z9M,13,0,0,0,0,0,0,0,0,0,0,1, Unknown room
+00821-eF36g7L6Z9M,14,11,0,0,0,0,0,0,0,0,0,18, Bathroom
+00821-eF36g7L6Z9M,15,0,11,0,0,0,0,0,0,0,0,16, Bedroom
+00821-eF36g7L6Z9M,16,0,11,0,0,0,0,0,0,0,0,14, Bedroom
+00823-7MXmsvcQjpJ,0,0,10,0,0,0,0,0,0,1,0,23, Bedroom
+00823-7MXmsvcQjpJ,1,0,0,0,0,0,0,0,0,2,0,24, Office
+00823-7MXmsvcQjpJ,2,0,10,0,0,0,0,0,0,0,0,22, Bedroom
+00823-7MXmsvcQjpJ,3,5,1,0,0,0,0,0,0,0,0,24, Bathroom
+00823-7MXmsvcQjpJ,4,0,0,0,0,2,0,0,0,0,0,14, Hall/stairwell
+00823-7MXmsvcQjpJ,5,0,0,0,0,1,0,0,0,0,0,17, Hall/stairwell
+00823-7MXmsvcQjpJ,6,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00823-7MXmsvcQjpJ,7,3,0,0,0,0,0,0,0,0,0,11, Bathroom
+00823-7MXmsvcQjpJ,8,5,0,0,0,0,0,0,0,1,0,26, Bathroom
+00823-7MXmsvcQjpJ,9,0,10,0,0,0,0,0,0,2,0,26, Bedroom
+00823-7MXmsvcQjpJ,10,0,11,0,0,0,0,0,0,2,0,25, Bedroom
+00823-7MXmsvcQjpJ,11,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00823-7MXmsvcQjpJ,12,0,11,0,0,0,0,0,0,2,0,29, Bedroom
+00823-7MXmsvcQjpJ,13,0,10,0,0,0,0,0,0,2,0,27, Bedroom
+00823-7MXmsvcQjpJ,14,0,0,2,0,0,0,0,0,0,0,28, Dining room
+00823-7MXmsvcQjpJ,15,0,0,2,0,0,9,0,0,0,0,38, Kitchen
+00823-7MXmsvcQjpJ,16,0,0,0,0,0,0,0,1,0,0,39, Living room
+00823-7MXmsvcQjpJ,17,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00823-7MXmsvcQjpJ,18,1,0,0,0,0,0,0,0,0,0,9, Bathroom
+00823-7MXmsvcQjpJ,19,0,0,0,0,1,0,0,1,2,0,40, Office
+00823-7MXmsvcQjpJ,20,0,0,0,0,2,1,0,0,0,0,36, Hall/stairwell
+00823-7MXmsvcQjpJ,21,0,0,0,0,0,0,0,0,0,0,44, Unknown room
+00823-7MXmsvcQjpJ,22,0,0,0,0,0,0,0,0,0,0,12, Unknown room
+00824-Dd4bFSTQ8gi,0,0,0,0,0,0,0,0,2,0,0,29, Living room
+00824-Dd4bFSTQ8gi,1,0,0,2,0,0,0,0,0,0,0,15, Dining room
+00824-Dd4bFSTQ8gi,2,0,0,0,0,0,0,0,0,2,0,14, Office
+00824-Dd4bFSTQ8gi,3,0,0,0,0,0,11,0,1,0,0,28, Kitchen
+00824-Dd4bFSTQ8gi,4,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00824-Dd4bFSTQ8gi,5,0,10,0,0,0,0,0,0,0,0,16, Bedroom
+00824-Dd4bFSTQ8gi,6,0,10,0,0,0,0,0,0,0,0,14, Bedroom
+00824-Dd4bFSTQ8gi,7,0,10,0,0,0,0,0,0,0,0,14, Bedroom
+00824-Dd4bFSTQ8gi,8,4,0,0,0,0,0,0,0,0,0,10, Bathroom
+00824-Dd4bFSTQ8gi,9,4,1,0,0,0,0,0,0,0,0,12, Bathroom
+00827-BAbdmeyTvMZ,0,0,0,0,0,0,0,1,0,0,0,7, Laundry room
+00827-BAbdmeyTvMZ,1,0,0,0,0,0,0,0,1,0,0,15, Living room
+00827-BAbdmeyTvMZ,2,0,0,0,0,0,0,0,0,1,0,16, Office
+00827-BAbdmeyTvMZ,3,0,10,0,0,0,0,0,0,0,0,17, Bedroom
+00827-BAbdmeyTvMZ,4,0,10,0,0,0,0,0,0,0,0,14, Bedroom
+00827-BAbdmeyTvMZ,5,8,0,0,0,0,0,0,0,0,0,17, Bathroom
+00827-BAbdmeyTvMZ,6,0,0,0,0,1,0,0,1,0,0,21, Tie: Living room & Hall/stairwell
+00827-BAbdmeyTvMZ,7,3,0,0,0,0,0,0,0,0,0,15, Bathroom
+00827-BAbdmeyTvMZ,8,0,0,0,0,0,7,0,0,0,0,26, Kitchen
+00829-QaLdnwvtxbs,0,0,11,0,0,0,0,0,1,1,0,21, Bedroom
+00829-QaLdnwvtxbs,1,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00829-QaLdnwvtxbs,2,4,0,0,0,0,0,0,0,0,0,21, Bathroom
+00829-QaLdnwvtxbs,3,9,0,0,0,0,0,0,0,0,0,2, Bathroom
+00829-QaLdnwvtxbs,4,0,0,0,0,0,0,0,2,1,0,23, Living room
+00829-QaLdnwvtxbs,5,0,0,0,0,0,2,0,0,0,0,17, Kitchen
+00829-QaLdnwvtxbs,7,2,0,0,0,0,0,0,0,0,0,18, Bathroom
+00831-yr17PDCnDDW,1,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00831-yr17PDCnDDW,2,0,0,0,0,0,0,0,0,1,0,19, Office
+00831-yr17PDCnDDW,3,0,0,0,0,0,3,0,0,0,0,23, Kitchen
+00831-yr17PDCnDDW,4,0,0,0,0,0,0,0,1,0,0,10, Living room
+00831-yr17PDCnDDW,5,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00831-yr17PDCnDDW,6,0,0,0,0,1,0,0,0,2,0,38, Office
+00831-yr17PDCnDDW,7,0,0,0,0,0,0,0,0,3,0,24, Office
+00831-yr17PDCnDDW,8,0,0,0,0,0,0,0,0,3,0,27, Office
+00831-yr17PDCnDDW,9,0,0,0,0,0,0,0,0,3,0,20, Office
+00831-yr17PDCnDDW,10,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00831-yr17PDCnDDW,11,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00832-qyAac8rV8Zk,0,0,11,0,0,0,0,0,0,0,0,16, Bedroom
+00832-qyAac8rV8Zk,1,0,11,0,0,0,0,0,0,0,0,12, Bedroom
+00832-qyAac8rV8Zk,2,0,0,0,0,0,0,2,0,0,0,11, Laundry room
+00832-qyAac8rV8Zk,3,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00832-qyAac8rV8Zk,4,5,0,0,0,0,0,0,0,0,0,10, Bathroom
+00832-qyAac8rV8Zk,5,0,0,0,0,2,0,0,0,0,0,10, Hall/stairwell
+00832-qyAac8rV8Zk,6,7,0,0,0,0,0,0,0,0,0,16, Bathroom
+00832-qyAac8rV8Zk,7,0,11,0,0,0,0,0,0,1,0,20, Bedroom
+00832-qyAac8rV8Zk,8,0,0,0,0,0,4,0,1,0,0,22, Kitchen
+00832-qyAac8rV8Zk,9,0,0,0,0,2,0,0,0,0,0,16, Hall/stairwell
+00832-qyAac8rV8Zk,10,0,0,0,0,0,0,0,1,2,0,22, Office
+00832-qyAac8rV8Zk,11,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00832-qyAac8rV8Zk,12,4,0,0,0,0,0,0,0,0,0,13, Bathroom
+00832-qyAac8rV8Zk,13,0,0,0,0,2,0,0,0,0,0,12, Hall/stairwell
+00832-qyAac8rV8Zk,14,0,1,0,0,0,0,0,1,0,0,13, Tie: Bedroom & Living room
+00835-q3zU7Yy5E5s,0,0,3,0,0,0,0,0,0,0,0,22, Bedroom
+00835-q3zU7Yy5E5s,1,0,0,0,0,0,0,0,0,0,0,2, Unknown room
+00835-q3zU7Yy5E5s,2,8,0,0,0,0,0,0,0,0,0,19, Bathroom
+00835-q3zU7Yy5E5s,3,0,0,0,0,0,1,0,1,0,0,38, Tie: Kitchen & Living room
+00835-q3zU7Yy5E5s,4,0,0,2,0,0,8,0,1,0,0,25, Kitchen
+00835-q3zU7Yy5E5s,5,0,1,0,0,0,0,0,0,0,0,15, Bedroom
+00835-q3zU7Yy5E5s,6,0,0,0,0,0,0,1,0,0,0,13, Laundry room
+00835-q3zU7Yy5E5s,7,0,12,0,0,0,0,0,0,0,0,21, Bedroom
+00835-q3zU7Yy5E5s,8,0,0,0,0,1,0,0,0,0,0,3, Hall/stairwell
+00835-q3zU7Yy5E5s,9,0,10,0,0,0,0,0,0,0,0,11, Bedroom
+00835-q3zU7Yy5E5s,10,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00835-q3zU7Yy5E5s,11,0,14,0,0,0,0,0,0,0,0,16, Bedroom
+00835-q3zU7Yy5E5s,12,0,12,0,0,0,0,0,0,0,0,23, Bedroom
+00835-q3zU7Yy5E5s,13,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00835-q3zU7Yy5E5s,14,0,0,0,0,0,0,0,0,0,1,10, Rec room
+00835-q3zU7Yy5E5s,15,7,0,0,0,0,0,0,0,0,0,21, Bathroom
+00835-q3zU7Yy5E5s,16,0,0,0,0,0,0,0,0,0,0,1, Unknown room
+00839-zt1RVoi7PcG,1,0,11,0,0,0,0,0,0,3,0,23, Bedroom
+00839-zt1RVoi7PcG,2,0,0,0,0,0,0,0,1,0,1,33, Tie: Living room & Rec room
+00839-zt1RVoi7PcG,3,0,11,0,0,0,0,0,0,4,0,25, Bedroom
+00839-zt1RVoi7PcG,4,0,10,0,0,0,0,0,0,0,0,20, Bedroom
+00839-zt1RVoi7PcG,5,0,0,0,0,2,0,0,0,0,0,10, Hall/stairwell
+00839-zt1RVoi7PcG,6,0,13,0,0,0,0,0,2,0,0,28, Bedroom
+00839-zt1RVoi7PcG,7,10,0,0,0,0,0,0,0,0,0,19, Bathroom
+00839-zt1RVoi7PcG,8,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00839-zt1RVoi7PcG,9,5,0,0,0,0,0,0,0,0,0,13, Bathroom
+00839-zt1RVoi7PcG,10,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00839-zt1RVoi7PcG,11,0,0,0,0,0,0,0,2,0,0,23, Living room
+00839-zt1RVoi7PcG,12,0,0,0,0,0,4,1,0,0,0,18, Kitchen
+00839-zt1RVoi7PcG,13,0,0,0,0,0,0,0,0,4,0,26, Office
+00839-zt1RVoi7PcG,14,0,0,0,0,0,0,0,1,0,0,17, Living room
+00839-zt1RVoi7PcG,15,0,0,1,0,0,0,0,0,0,0,18, Dining room
+00839-zt1RVoi7PcG,16,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00839-zt1RVoi7PcG,17,2,0,0,0,0,0,0,0,0,0,11, Bathroom
+00839-zt1RVoi7PcG,18,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00843-DYehNKdT76V,1,0,12,0,0,0,0,0,0,0,0,10, Bedroom
+00843-DYehNKdT76V,2,6,0,0,0,0,0,0,0,0,0,9, Bathroom
+00843-DYehNKdT76V,3,0,12,0,0,0,0,0,0,0,0,12, Bedroom
+00843-DYehNKdT76V,4,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00843-DYehNKdT76V,5,4,0,0,0,0,0,0,0,0,0,10, Bathroom
+00843-DYehNKdT76V,6,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00843-DYehNKdT76V,7,0,0,0,0,1,0,0,2,0,0,28, Living room
+00843-DYehNKdT76V,8,0,0,0,0,0,4,0,0,0,0,13, Kitchen
+00843-DYehNKdT76V,9,0,0,0,0,0,0,1,0,0,0,10, Laundry room
+00843-DYehNKdT76V,10,0,12,0,0,0,0,0,0,0,0,10, Bedroom
+00843-DYehNKdT76V,11,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00843-DYehNKdT76V,12,2,0,0,0,0,0,0,0,0,0,7, Bathroom
+00843-DYehNKdT76V,13,2,0,0,0,0,0,0,0,0,0,9, Bathroom
+00844-q5QZSEeHe5g,1,4,0,0,0,0,0,0,0,0,0,26, Bathroom
+00844-q5QZSEeHe5g,2,0,10,0,0,0,0,0,1,0,2,33, Bedroom
+00844-q5QZSEeHe5g,3,0,11,0,0,0,0,0,0,0,0,37, Bedroom
+00844-q5QZSEeHe5g,4,0,10,0,0,0,0,0,0,0,0,32, Bedroom
+00844-q5QZSEeHe5g,5,0,0,0,0,0,0,0,0,0,0,19, Unknown room
+00844-q5QZSEeHe5g,6,0,0,0,0,1,0,0,0,0,0,24, Hall/stairwell
+00844-q5QZSEeHe5g,7,0,0,0,0,0,0,0,0,0,0,36, Unknown room
+00844-q5QZSEeHe5g,8,0,11,0,0,0,0,0,0,0,0,36, Bedroom
+00844-q5QZSEeHe5g,9,0,0,0,0,0,0,0,1,1,0,36, Tie: Office & Living room
+00844-q5QZSEeHe5g,10,0,0,0,0,0,0,0,0,0,0,39, Unknown room
+00844-q5QZSEeHe5g,11,0,0,0,0,0,4,0,0,0,0,64, Kitchen
+00844-q5QZSEeHe5g,12,0,0,0,0,0,0,0,2,0,0,44, Living room
+00844-q5QZSEeHe5g,13,3,0,0,0,0,0,0,0,0,0,33, Bathroom
+00844-q5QZSEeHe5g,14,0,0,0,0,1,0,1,0,0,0,44, Tie: Laundry room & Hall/stairwell
+00844-q5QZSEeHe5g,15,0,10,0,0,0,1,0,0,0,1,33, Bedroom
+00844-q5QZSEeHe5g,16,0,0,0,0,0,1,0,0,0,0,56, Kitchen
+00844-q5QZSEeHe5g,17,0,0,0,0,0,1,0,0,0,0,41, Kitchen
+00847-bCPU9suPUw9,1,0,10,0,0,0,0,0,0,1,0,13, Bedroom
+00847-bCPU9suPUw9,2,0,10,0,0,0,0,0,0,1,0,14, Bedroom
+00847-bCPU9suPUw9,3,0,11,0,0,0,0,0,0,0,0,15, Bedroom
+00847-bCPU9suPUw9,4,5,0,0,0,0,0,0,0,0,0,17, Bathroom
+00847-bCPU9suPUw9,5,0,1,0,0,0,0,0,0,0,0,7, Bedroom
+00847-bCPU9suPUw9,6,7,0,0,0,0,0,0,0,0,0,14, Bathroom
+00847-bCPU9suPUw9,7,0,0,0,0,2,0,0,0,0,0,9, Hall/stairwell
+00847-bCPU9suPUw9,8,0,0,0,0,1,0,0,1,0,0,16, Tie: Living room & Hall/stairwell
+00847-bCPU9suPUw9,9,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00847-bCPU9suPUw9,10,2,0,0,0,0,0,0,0,0,0,8, Bathroom
+00847-bCPU9suPUw9,11,0,0,0,0,0,5,1,0,0,0,19, Kitchen
+00847-bCPU9suPUw9,12,5,0,0,0,0,0,0,0,0,0,13, Bathroom
+00847-bCPU9suPUw9,13,0,12,0,0,0,0,0,0,0,0,11, Bedroom
+00847-bCPU9suPUw9,14,0,0,0,0,0,1,0,1,0,0,18, Tie: Kitchen & Living room
+00847-bCPU9suPUw9,15,0,0,0,0,1,0,0,0,0,0,8, Hall/stairwell
+00848-ziup5kvtCCR,0,0,0,0,0,0,5,0,2,0,0,41, Kitchen
+00848-ziup5kvtCCR,1,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00848-ziup5kvtCCR,2,0,0,0,0,0,0,1,0,0,0,9, Laundry room
+00848-ziup5kvtCCR,3,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00848-ziup5kvtCCR,4,0,11,0,0,0,0,0,1,0,0,23, Bedroom
+00848-ziup5kvtCCR,5,8,0,0,0,0,0,0,0,0,0,15, Bathroom
+00848-ziup5kvtCCR,6,7,0,0,0,0,0,0,0,0,0,15, Bathroom
+00848-ziup5kvtCCR,7,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00848-ziup5kvtCCR,8,0,11,0,0,0,0,0,0,0,0,16, Bedroom
+00848-ziup5kvtCCR,9,0,10,0,0,0,0,0,0,0,0,21, Bedroom
+00849-a8BtkwhxdRV,1,6,0,0,0,0,0,0,0,0,0,20, Bathroom
+00849-a8BtkwhxdRV,2,0,13,0,0,0,0,0,0,0,0,19, Bedroom
+00849-a8BtkwhxdRV,3,0,12,0,0,0,0,0,0,0,0,14, Bedroom
+00849-a8BtkwhxdRV,4,5,0,0,0,0,0,0,0,0,0,19, Bathroom
+00849-a8BtkwhxdRV,5,6,0,0,0,0,0,0,0,0,0,17, Bathroom
+00849-a8BtkwhxdRV,6,0,12,0,0,0,0,0,0,0,0,18, Bedroom
+00849-a8BtkwhxdRV,7,0,12,0,0,0,0,0,0,0,0,20, Bedroom
+00849-a8BtkwhxdRV,8,6,0,0,0,0,0,0,0,0,0,11, Bathroom
+00849-a8BtkwhxdRV,9,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00849-a8BtkwhxdRV,10,0,0,0,0,2,0,0,0,0,0,17, Hall/stairwell
+00849-a8BtkwhxdRV,11,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00849-a8BtkwhxdRV,12,0,0,0,0,0,0,0,2,0,0,30, Living room
+00849-a8BtkwhxdRV,13,0,0,0,0,0,0,0,0,1,0,22, Office
+00849-a8BtkwhxdRV,14,0,0,0,0,0,0,0,0,0,0,14, Unknown room
+00849-a8BtkwhxdRV,15,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00849-a8BtkwhxdRV,16,0,12,0,0,0,0,0,0,0,0,12, Bedroom
+00849-a8BtkwhxdRV,17,6,0,0,0,0,0,0,0,0,0,10, Bathroom
+00853-5cdEh9F2hJL,1,11,0,0,0,0,0,0,0,0,0,16, Bathroom
+00853-5cdEh9F2hJL,2,2,0,0,0,0,0,0,0,0,0,10, Bathroom
+00853-5cdEh9F2hJL,3,0,1,0,0,0,0,0,0,0,0,19, Bedroom
+00853-5cdEh9F2hJL,4,0,12,0,0,0,0,0,0,0,0,20, Bedroom
+00853-5cdEh9F2hJL,5,0,0,2,0,0,0,0,2,0,0,33, Tie: Dining room & Living room
+00853-5cdEh9F2hJL,6,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00853-5cdEh9F2hJL,7,0,0,0,0,0,7,0,0,0,0,14, Kitchen
+00853-5cdEh9F2hJL,8,0,0,0,0,0,0,0,2,2,0,25, Tie: Office & Living room
+00853-5cdEh9F2hJL,9,0,0,0,0,0,0,1,0,0,0,11, Laundry room
+00853-5cdEh9F2hJL,10,10,0,0,0,0,0,0,0,0,0,18, Bathroom
+00853-5cdEh9F2hJL,11,0,1,0,0,0,0,0,0,0,0,16, Bedroom
+00853-5cdEh9F2hJL,12,0,11,0,0,0,0,0,0,0,0,19, Bedroom
+00861-GLAQ4DNUx5U,0,4,0,0,0,0,0,0,0,0,0,8, Bathroom
+00861-GLAQ4DNUx5U,1,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00861-GLAQ4DNUx5U,2,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00861-GLAQ4DNUx5U,3,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00861-GLAQ4DNUx5U,4,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00861-GLAQ4DNUx5U,5,0,0,0,0,0,0,0,0,0,0,19, Unknown room
+00861-GLAQ4DNUx5U,6,0,10,0,0,0,0,0,0,0,1,11, Bedroom
+00861-GLAQ4DNUx5U,7,10,0,0,0,0,0,0,0,0,0,12, Bathroom
+00861-GLAQ4DNUx5U,8,0,0,0,0,0,1,1,0,0,0,17, Tie: Laundry room & Kitchen
+00861-GLAQ4DNUx5U,9,0,0,0,0,0,4,0,0,0,0,26, Kitchen
+00861-GLAQ4DNUx5U,10,0,0,0,0,0,0,0,2,0,0,22, Living room
+00861-GLAQ4DNUx5U,11,0,0,0,0,2,0,0,0,0,0,8, Hall/stairwell
+00861-GLAQ4DNUx5U,12,0,12,0,0,0,0,0,0,0,0,14, Bedroom
+00861-GLAQ4DNUx5U,13,6,0,0,0,0,0,0,0,0,0,11, Bathroom
+00861-GLAQ4DNUx5U,14,0,0,0,0,0,0,0,0,0,0,4, Unknown room
+00861-GLAQ4DNUx5U,15,2,0,0,0,0,0,0,0,0,0,7, Bathroom
+00861-GLAQ4DNUx5U,16,0,0,0,0,0,0,0,0,3,0,19, Office
+00861-GLAQ4DNUx5U,17,0,10,0,0,0,0,0,0,0,0,16, Bedroom
+00861-GLAQ4DNUx5U,18,3,0,0,0,0,0,0,0,0,0,6, Bathroom
+00861-GLAQ4DNUx5U,19,0,1,0,0,0,0,0,0,0,0,16, Bedroom
+00861-GLAQ4DNUx5U,20,5,0,0,0,0,0,0,0,0,0,19, Bathroom
+00861-GLAQ4DNUx5U,21,5,0,0,0,0,0,0,0,0,0,0, Bathroom
+00861-GLAQ4DNUx5U,22,0,12,0,0,0,0,0,0,4,0,25, Bedroom
+00861-GLAQ4DNUx5U,23,2,1,0,0,0,0,0,0,0,0,15, Bathroom
+00862-LT9Jq6dN3Ea,0,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00862-LT9Jq6dN3Ea,1,0,0,2,0,0,0,0,2,0,0,28, Tie: Dining room & Living room
+00862-LT9Jq6dN3Ea,2,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00862-LT9Jq6dN3Ea,3,0,0,0,0,0,0,0,0,0,0,3, Unknown room
+00862-LT9Jq6dN3Ea,4,5,0,0,0,0,0,0,0,0,0,11, Bathroom
+00862-LT9Jq6dN3Ea,5,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00862-LT9Jq6dN3Ea,6,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00862-LT9Jq6dN3Ea,7,0,0,0,0,4,0,0,0,0,0,7, Hall/stairwell
+00862-LT9Jq6dN3Ea,8,0,0,0,0,0,0,0,0,0,0,16, Unknown room
+00862-LT9Jq6dN3Ea,9,3,0,0,0,0,0,0,0,0,0,10, Bathroom
+00862-LT9Jq6dN3Ea,10,0,0,0,0,0,0,0,0,2,0,19, Office
+00862-LT9Jq6dN3Ea,11,0,0,2,0,0,0,0,0,0,0,19, Dining room
+00862-LT9Jq6dN3Ea,12,0,0,0,0,0,0,0,1,0,0,26, Living room
+00862-LT9Jq6dN3Ea,13,0,0,0,0,0,10,0,0,2,0,24, Kitchen
+00862-LT9Jq6dN3Ea,14,0,0,0,0,0,2,0,0,0,0,17, Kitchen
+00862-LT9Jq6dN3Ea,15,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00862-LT9Jq6dN3Ea,16,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00862-LT9Jq6dN3Ea,17,0,0,0,0,2,0,0,0,0,0,11, Hall/stairwell
+00862-LT9Jq6dN3Ea,18,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00862-LT9Jq6dN3Ea,19,0,10,0,0,0,0,0,0,0,0,21, Bedroom
+00862-LT9Jq6dN3Ea,20,6,0,0,0,0,0,0,0,0,0,17, Bathroom
+00862-LT9Jq6dN3Ea,21,1,0,0,0,0,0,0,0,0,0,5, Bathroom
+00862-LT9Jq6dN3Ea,22,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00862-LT9Jq6dN3Ea,23,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00862-LT9Jq6dN3Ea,24,0,0,0,0,0,0,0,1,0,0,20, Living room
+00862-LT9Jq6dN3Ea,25,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00862-LT9Jq6dN3Ea,26,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00862-LT9Jq6dN3Ea,27,0,10,0,0,0,0,0,0,0,0,18, Bedroom
+00862-LT9Jq6dN3Ea,28,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00862-LT9Jq6dN3Ea,29,0,10,0,0,0,0,0,0,0,0,17, Bedroom
+00862-LT9Jq6dN3Ea,30,7,0,0,0,0,0,0,0,0,0,10, Bathroom
+00862-LT9Jq6dN3Ea,31,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00862-LT9Jq6dN3Ea,32,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00862-LT9Jq6dN3Ea,33,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00862-LT9Jq6dN3Ea,34,2,0,0,0,0,0,0,0,0,0,11, Bathroom
+00862-LT9Jq6dN3Ea,35,4,0,0,0,0,0,0,0,0,0,9, Bathroom
+00869-MHPLjHsuG27,0,0,0,0,0,0,0,0,3,0,0,24, Living room
+00869-MHPLjHsuG27,1,0,0,0,0,0,10,0,0,0,0,25, Kitchen
+00869-MHPLjHsuG27,2,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00869-MHPLjHsuG27,3,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00869-MHPLjHsuG27,4,3,0,0,0,0,0,0,0,0,0,12, Bathroom
+00869-MHPLjHsuG27,5,0,1,0,0,2,0,0,0,0,0,13, Hall/stairwell
+00869-MHPLjHsuG27,6,0,0,0,0,0,0,0,0,0,0,9, Unknown room
+00869-MHPLjHsuG27,7,0,12,0,0,0,0,0,0,0,0,27, Bedroom
+00869-MHPLjHsuG27,8,0,0,0,0,0,0,0,1,0,0,19, Living room
+00869-MHPLjHsuG27,9,4,0,0,0,0,0,0,0,0,0,16, Bathroom
+00869-MHPLjHsuG27,10,3,0,0,0,0,0,0,0,0,0,13, Bathroom
+00869-MHPLjHsuG27,11,0,12,0,0,0,0,0,0,0,0,27, Bedroom
+00869-MHPLjHsuG27,12,0,11,0,0,0,0,0,0,0,0,23, Bedroom
+00871-VBzV5z6i1WS,0,0,12,0,0,0,0,0,0,2,0,37, Bedroom
+00871-VBzV5z6i1WS,1,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00871-VBzV5z6i1WS,2,0,1,0,0,0,0,0,0,0,0,5, Bedroom
+00871-VBzV5z6i1WS,3,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00871-VBzV5z6i1WS,4,15,0,0,0,0,0,0,0,0,0,19, Bathroom
+00871-VBzV5z6i1WS,5,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00871-VBzV5z6i1WS,6,0,0,0,0,0,0,0,2,0,0,34, Living room
+00871-VBzV5z6i1WS,7,0,0,0,0,0,6,1,0,0,0,39, Kitchen
+00871-VBzV5z6i1WS,8,0,0,0,0,0,1,1,0,0,0,22, Tie: Laundry room & Kitchen
+00871-VBzV5z6i1WS,9,0,0,0,0,0,0,0,2,0,0,28, Living room
+00871-VBzV5z6i1WS,10,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00871-VBzV5z6i1WS,11,15,1,0,0,0,0,0,0,0,0,18, Bathroom
+00871-VBzV5z6i1WS,12,0,12,0,0,0,0,0,0,5,0,30, Bedroom
+00871-VBzV5z6i1WS,13,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00871-VBzV5z6i1WS,14,0,12,0,0,0,0,0,0,0,0,19, Bedroom
+00871-VBzV5z6i1WS,15,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00873-bxsVRursffK,1,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00873-bxsVRursffK,2,5,0,0,0,0,0,0,0,0,0,11, Bathroom
+00873-bxsVRursffK,3,0,11,0,0,0,0,0,0,0,0,20, Bedroom
+00873-bxsVRursffK,4,0,0,0,0,0,0,0,0,0,0,13, Unknown room
+00873-bxsVRursffK,5,0,12,0,0,0,0,0,0,0,0,20, Bedroom
+00873-bxsVRursffK,6,0,0,0,0,0,0,1,0,0,0,10, Laundry room
+00873-bxsVRursffK,7,10,0,0,0,0,0,0,0,0,0,12, Bathroom
+00873-bxsVRursffK,8,0,11,0,0,0,0,0,0,0,0,27, Bedroom
+00873-bxsVRursffK,9,0,0,2,0,1,7,0,2,0,0,44, Kitchen
+00873-bxsVRursffK,10,0,0,0,0,0,0,0,0,0,0,15, Unknown room
+00873-bxsVRursffK,11,4,0,0,0,0,0,0,0,0,0,10, Bathroom
+00876-mv2HUxq3B53,1,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00876-mv2HUxq3B53,2,0,0,0,0,0,4,0,1,0,0,45, Kitchen
+00876-mv2HUxq3B53,3,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00876-mv2HUxq3B53,4,0,11,0,0,0,0,0,1,0,0,17, Bedroom
+00876-mv2HUxq3B53,5,8,0,0,0,0,0,0,0,0,0,23, Bathroom
+00876-mv2HUxq3B53,6,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00876-mv2HUxq3B53,7,0,0,0,0,0,0,1,0,0,0,11, Laundry room
+00876-mv2HUxq3B53,8,1,0,0,0,0,0,0,0,0,0,13, Bathroom
+00876-mv2HUxq3B53,9,0,12,0,0,0,0,0,0,0,0,19, Bedroom
+00876-mv2HUxq3B53,10,0,0,0,0,0,0,0,0,0,0,17, Unknown room
+00876-mv2HUxq3B53,11,0,12,0,0,0,0,0,0,0,0,17, Bedroom
+00876-mv2HUxq3B53,12,0,0,0,0,0,0,0,0,0,0,19, Unknown room
+00876-mv2HUxq3B53,13,0,11,0,0,0,0,0,2,0,0,22, Bedroom
+00876-mv2HUxq3B53,14,0,0,0,0,0,0,0,1,0,0,5, Living room
+00876-mv2HUxq3B53,15,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00876-mv2HUxq3B53,16,10,0,0,0,0,0,0,0,0,0,23, Bathroom
+00877-4ok3usBNeis,0,0,1,0,0,0,1,0,0,0,0,39, Tie: Bedroom & Kitchen
+00877-4ok3usBNeis,1,5,0,0,0,0,0,0,0,0,0,20, Bathroom
+00877-4ok3usBNeis,2,0,0,0,0,0,0,0,0,0,0,29, Unknown room
+00877-4ok3usBNeis,3,0,0,0,0,0,0,0,1,0,0,10, Living room
+00877-4ok3usBNeis,4,0,11,0,0,0,0,0,0,0,0,18, Bedroom
+00877-4ok3usBNeis,5,0,0,0,0,3,0,0,0,0,0,7, Hall/stairwell
+00877-4ok3usBNeis,6,0,0,0,0,3,0,0,0,0,0,14, Hall/stairwell
+00877-4ok3usBNeis,7,0,0,0,0,0,0,0,1,0,0,19, Living room
+00877-4ok3usBNeis,8,0,0,2,0,0,8,1,0,0,0,21, Kitchen
+00877-4ok3usBNeis,9,7,0,0,0,0,0,0,0,0,0,21, Bathroom
+00877-4ok3usBNeis,10,0,13,0,0,0,0,0,0,0,0,17, Bedroom
+00877-4ok3usBNeis,11,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00877-4ok3usBNeis,12,0,1,0,0,0,0,0,0,3,0,23, Office
+00878-XB4GS9ShBRE,1,0,12,0,0,0,0,0,0,0,0,19, Bedroom
+00878-XB4GS9ShBRE,2,0,12,0,0,0,0,0,0,0,0,15, Bedroom
+00878-XB4GS9ShBRE,3,1,0,0,0,0,0,0,0,0,0,19, Bathroom
+00878-XB4GS9ShBRE,4,8,0,0,0,0,0,0,0,0,0,11, Bathroom
+00878-XB4GS9ShBRE,5,0,11,0,0,0,0,0,1,0,0,21, Bedroom
+00878-XB4GS9ShBRE,6,1,0,0,0,0,0,0,0,0,0,18, Bathroom
+00878-XB4GS9ShBRE,7,0,0,0,0,2,0,0,0,0,0,10, Hall/stairwell
+00878-XB4GS9ShBRE,8,0,0,0,0,0,0,0,2,0,0,27, Living room
+00878-XB4GS9ShBRE,9,0,0,0,0,0,4,0,0,0,0,20, Kitchen
+00878-XB4GS9ShBRE,10,2,0,0,0,0,0,0,0,0,0,16, Bathroom
+00878-XB4GS9ShBRE,11,0,0,0,0,1,0,0,0,0,0,14, Hall/stairwell
+00878-XB4GS9ShBRE,12,0,1,0,0,0,0,0,1,0,1,25, Tie: Bedroom & Living room & Rec room
+00878-XB4GS9ShBRE,13,0,0,0,0,2,0,0,0,0,0,3, Hall/stairwell
+00880-Nfvxx8J5NCo,1,0,0,0,0,0,4,0,1,0,0,30, Kitchen
+00880-Nfvxx8J5NCo,2,0,10,0,0,0,0,0,0,0,0,13, Bedroom
+00880-Nfvxx8J5NCo,3,0,0,0,0,0,0,0,0,0,0,6, Unknown room
+00880-Nfvxx8J5NCo,4,0,0,0,0,0,0,2,0,0,0,11, Laundry room
+00880-Nfvxx8J5NCo,5,0,0,0,0,0,0,0,0,0,0,10, Unknown room
+00880-Nfvxx8J5NCo,6,0,0,0,0,0,0,0,0,3,0,11, Office
+00880-Nfvxx8J5NCo,7,0,0,0,0,0,0,0,0,0,0,5, Unknown room
+00880-Nfvxx8J5NCo,8,0,0,0,0,0,0,0,0,0,0,7, Unknown room
+00880-Nfvxx8J5NCo,9,1,0,0,0,0,0,0,0,0,0,9, Bathroom
+00880-Nfvxx8J5NCo,10,0,11,0,0,0,0,0,0,0,0,9, Bedroom
+00880-Nfvxx8J5NCo,11,1,0,0,0,0,0,0,0,0,0,22, Bathroom
+00880-Nfvxx8J5NCo,12,2,0,0,0,0,0,0,0,0,0,4, Bathroom
+00890-6s7QHgap2fW,0,0,1,0,0,1,0,0,0,0,0,12, Tie: Bedroom & Hall/stairwell
+00890-6s7QHgap2fW,1,0,0,0,0,0,0,0,2,0,0,27, Living room
+00890-6s7QHgap2fW,2,0,1,1,0,0,0,0,0,0,0,19, Tie: Bedroom & Dining room
+00890-6s7QHgap2fW,3,0,0,1,0,0,8,0,0,0,0,31, Kitchen
+00890-6s7QHgap2fW,4,0,0,0,0,0,0,2,0,0,0,25, Laundry room
+00890-6s7QHgap2fW,5,4,0,0,0,0,0,0,0,0,0,8, Bathroom
+00890-6s7QHgap2fW,6,0,13,0,0,0,0,0,0,0,0,26, Bedroom
+00890-6s7QHgap2fW,7,0,11,0,0,0,0,0,0,0,0,26, Bedroom
+00890-6s7QHgap2fW,8,0,0,0,0,0,0,0,0,0,0,8, Unknown room
+00890-6s7QHgap2fW,9,0,0,0,0,0,0,0,0,2,0,21, Office
+00890-6s7QHgap2fW,10,3,1,0,0,0,0,1,0,0,0,16, Bathroom
+00891-cvZr5TUy5C5,1,0,0,0,0,2,0,0,1,0,0,27, Hall/stairwell
+00891-cvZr5TUy5C5,2,0,0,0,0,0,0,0,0,0,0,11, Unknown room
+00891-cvZr5TUy5C5,3,0,0,2,0,0,5,1,0,0,0,17, Kitchen
+00891-cvZr5TUy5C5,4,0,0,0,0,0,0,0,0,3,0,15, Office
+00891-cvZr5TUy5C5,5,0,12,0,0,0,0,0,0,0,0,12, Bedroom
+00891-cvZr5TUy5C5,6,0,11,0,0,0,0,0,0,0,0,11, Bedroom
+00891-cvZr5TUy5C5,7,3,0,0,0,0,0,0,0,0,0,8, Bathroom
+00891-cvZr5TUy5C5,8,3,10,0,0,0,0,0,1,0,0,12, Bedroom
+00891-cvZr5TUy5C5,9,0,12,0,0,0,0,0,1,0,0,14, Bedroom
+00891-cvZr5TUy5C5,10,3,0,0,0,0,0,0,1,0,0,21, Bathroom
+00891-cvZr5TUy5C5,11,0,0,0,0,0,0,0,0,0,0,18, Unknown room
+00891-cvZr5TUy5C5,12,0,0,0,0,0,0,0,3,0,0,26, Living room
+00891-cvZr5TUy5C5,13,0,0,0,0,0,0,1,0,0,0,9, Laundry room
+00891-cvZr5TUy5C5,14,2,0,0,0,0,0,0,0,0,0,8, Bathroom
+00891-cvZr5TUy5C5,15,6,0,0,0,2,0,0,1,2,0,32, Bathroom
+00894-HY1NcmCgn3n,0,0,0,0,0,0,0,0,0,0,0,19, Unknown room
+00894-HY1NcmCgn3n,1,0,0,0,0,0,0,0,0,0,0,20, Unknown room
+00894-HY1NcmCgn3n,2,0,0,0,0,0,0,0,0,0,0,22, Unknown room
+00894-HY1NcmCgn3n,3,0,0,0,0,1,0,0,0,0,0,9, Hall/stairwell
+00894-HY1NcmCgn3n,4,0,0,0,0,1,0,0,0,0,0,11, Hall/stairwell

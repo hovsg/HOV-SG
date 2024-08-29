@@ -1,0 +1,32 @@
+main:
+  device: cuda
+  dataset: hm3dsem
+  scene_id: 00824-Dd4bFSTQ8gi # scene0011_00
+  split: val
+  package_path: /home/SOME_USERNAME/HOV-SG/hovsg/
+  dataset_path: /home/SOME_USERNAME/data/hm3dsem_walks/
+  raw_data_path: /data/hovsg/hm3dsem/data/versioned_data/hm3d-0.2/hm3d
+  save_path: /home/SOME_USERNAME/data/hovsg/
+dataset:
+  hm3dsem:
+    gt_skip_frames: 1
+models:
+  clip:
+    type:  ViT-H-14 # ViT-L/14@336px # ViT-H-14
+    checkpoint: checkpoints/laion2b_s32b_b79k.bin 
+    # checkpoint: checkpoints/ovseg_clipl14_9a1909.pth checkpoints/laion2b_s32b_b79k.bin
+  sam:
+    checkpoint: checkpoints/sam_vit_h_4b8939.pth
+    type: vit_h
+    points_per_side: 12
+    pred_iou_thresh: 0.88
+    points_per_batch: 144
+    crop_n_layers: 0
+    stability_score_thresh: 0.95
+    min_mask_region_area: 100
+eval:
+  association_metric: overlap
+  obj_labels: HM3DSEM_LABELS
+  hm3dsem:
+    top_k_object_semantic_eval: [5, 10, 25, 100, 250, 500]
+    obj_labels: HM3DSEM_LABELS
